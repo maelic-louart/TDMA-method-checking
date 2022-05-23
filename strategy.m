@@ -81,7 +81,7 @@ sigma_w_y=a_max/3*0.514444/(Rn*pi/180)*0.8;
 
 % number of consecutive frames in which the moving average is computed 
 nb_frame_av=15;
-% number of consecutive frames to consider the percentage error 
+% number of frames to consider the percentage error 
 nb_frame_stead=3;
 
 % Boat structure
@@ -177,10 +177,6 @@ for i=1:Algorithm_AIS.Data.nb_elements
         Algorithm_AIS.idx_boat=find(Algorithm_AIS.Struct_list_boat.list_mmsi==Algorithm_AIS.Data.mmsi(i));
         % Ending Rooter
         
-        if(Algorithm_AIS.i==52)
-           a=1;
-        end
-         
         %STEADY STATE
         % Algorithm 1 is applied
         Algorithm_AIS=algorithm1(Algorithm_AIS,fid4,fid1);
