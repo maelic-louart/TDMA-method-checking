@@ -40,7 +40,7 @@ fclose(fid0);
 
 
 % File that contains every alarm detected
-filename_a_f='alerts_algorithm_final.dat';
+filename_a_f='alerts_strategy.dat';
 fid4 = fopen(filename_a_f,'w');
 
 % File that contains every alarm of the algorithm1
