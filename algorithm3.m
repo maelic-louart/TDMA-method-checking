@@ -1,65 +1,153 @@
 function Algorithm_out=algorithm3(Algorithm_in,fid4,fid3)
-
-[toa,mmsi,id,keep_flag,repeat_indicator,slot_timeout,slot_increment,slot_offset,lat,lon,sog,cog,channel]=data_extraction(Algorithm_in);
+[toa,mmsi,id,nav_status,keep_flag,repeat_indicator,slot_timeout,slot_increment,slot_offset,lat,lon,sog,cog,channel]=data_extraction(Algorithm_in);
 
 TS=Algorithm_in.TS;
-boat=Algorithm_in.Struct_list_boat.list_boat(Algorithm_in.idx_boat);
+nb_frame_stead=Algorithm_in.nb_frame_stead;
+Struct_list_boat=Algorithm_in.Struct_list_boat;
+boat=Struct_list_boat.list_boat(Algorithm_in.idx_boat);
+% indice of the moving average
+idx_mov_av=Struct_list_boat.idx_mov_av;
+threshold_sog=1;
 
 if channel==1
-    frame_pres=Algorithm_in.Frame_pres_A;
+    ListNTS=boat.ListNTS_A;
     mano=boat.mano_channel_A;
 else
-    frame_pres=Algorithm_in.Frame_pres_B;
+    ListNTS=boat.ListNTS_B;
     mano=boat.mano_channel_B;
 end
+
+% number of error encountred
+list_nb_err_3=boat.list_nb_err_3;
+% number of messages received
+list_nb_r=boat.list_nb_r;
 
 % We verify that one frame was lasted since the first message received by the
 % same ship
 if toa-boat.toa_init>60
-%     Checking that the TS was booked
-    if frame_pres.TS(TS)==1
+    % the accuracy of the prediction is one TS
+    accuracy=1;
+    list=[rem(TS+2250-accuracy,2250);TS;rem(TS+2250+accuracy,2250)];
+    
+    %     if(Algorithm_in.i==2171)
+    %         a=1;
+    %     end
+    
+    % Checking that the TS was booked
+    if sum(any(ListNTS==list))>=1
         % The TS was booked
-        if frame_pres.mmsi(TS)==mmsi
-            %The TS was booked by the good ship
-        else
-            %The TS was not booked by the good ship
-            if id==3 || id==1
-                fprintf(fid4,"Alert3 : le TS was booked by the mmsi=%d but the mmsi = %d was received, TS=%d, toa=%d \n",[frame_pres.mmsi(TS);mmsi;TS;toa]);
-                fprintf(fid3,"Alert3 : le TS was booked by the mmsi=%d but the mmsi = %d was received, TS=%d, toa=%d \n",[frame_pres.mmsi(TS);mmsi;TS;toa]);
-                disp(["Alert3 : le TS was booked by the mmsi",frame_pres.mmsi(TS),"but the mmsi =",mmsi," was received, TS=",TS,"toa =",toa]);
-            end
-        end
     else
-        %The TS was not booked
+        % The TS was not booked
         if id==1
-            disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset]);
-            fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d \n",[mmsi;TS;toa;slot_timeout;slot_offset]);
-            fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d \n",[mmsi;TS;toa;slot_timeout;slot_offset]);
+            list_nb_err_3(idx_mov_av)=list_nb_err_3(idx_mov_av)+1;
+            if(sog<3-threshold_sog)
+                fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+            elseif 3-threshold_sog<=sog && sog<=14-threshold_sog
+                RI=10;
+                if(sum(list_nb_r)>(60*nb_frame_stead/RI))
+                    fprintf(fid4,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                    fprintf(fid3,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                    disp(["Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r),"perc.=",sum(list_nb_err_3)/sum(list_nb_r)]);
+                else
+                    fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                    fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                    disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                end
+            elseif 14-threshold_sog<=sog && sog<=23-threshold_sog
+                RI=6;
+                if(sum(list_nb_r)>(60*nb_frame_stead/RI))
+                    fprintf(fid4,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                    fprintf(fid3,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                    disp(["Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r),"perc.=",sum(list_nb_err_3)/sum(list_nb_r)]);
+                else
+                    fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                    fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                    disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                end
+            else
+                RI=2;
+                if(sum(list_nb_r)>(60*nb_frame_stead/RI))
+                    fprintf(fid4,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                    fprintf(fid3,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                    disp(["Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r),"perc.=",sum(list_nb_err_3)/sum(list_nb_r)]);
+                else
+                    fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                    fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                    disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                end
+            end
         elseif id==3
             if repeat_indicator==1
-%                 RATDMA access scheme was applied
+                %                 RATDMA access scheme was applied
             elseif mano==0
-%                 Ship starts just to maneuvring
+                %                 Ship starts just to maneuvring
             else
-                 %The TS was not booked
-                fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d \n",[mmsi;TS;toa;slot_increment;keep_flag]);
-                fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d \n",[mmsi;TS;toa;slot_increment;keep_flag]);
-                disp(["Alert3 : TS was not reserved by the ship mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment]);
+                if (nav_status==1||nav_status==5)
+                    %ship in moored or at anchor
+                    %The TS was not booked
+                    list_nb_err_3(idx_mov_av)=list_nb_err_3(idx_mov_av)+1;
+                    fprintf(fid4,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, \n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r)]);
+                    fprintf(fid3,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, \n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r)]);
+                    disp(["Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                else
+                    %ship in mooving
+                    %The TS was not booked
+                    list_nb_err_3(idx_mov_av)=list_nb_err_3(idx_mov_av)+1;
+                    if(sog<3-threshold_sog)
+                        fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                        fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                        disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                    elseif 3-threshold_sog<=sog && sog<=14-threshold_sog
+                        RI=10;
+                        if(sum(list_nb_r)>(60*nb_frame_stead/RI))
+                            fprintf(fid4,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                            fprintf(fid3,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                            disp(["Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r),"perc.=",sum(list_nb_err_3)/sum(list_nb_r)]);
+                        else
+                            fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                            fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                            disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                        end
+                    elseif 14-threshold_sog<=sog && sog<=23-threshold_sog
+                        RI=6;
+                        if(sum(list_nb_r)>(60*nb_frame_stead/RI))
+                            fprintf(fid4,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                            fprintf(fid3,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                            disp(["Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r),"perc.=",sum(list_nb_err_3)/sum(list_nb_r)]);
+                        else
+                            fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                            fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                            disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                        end
+                    else
+                        RI=2;
+                        if(sum(list_nb_r)>(60*nb_frame_stead/RI))
+                            fprintf(fid4,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                            fprintf(fid3,"Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=%d, mes id = 3, TS=%d , toa=%f, slot_increment = %d, keep_flag = %d, nb_error= %d, nb_r=%d, perc.=%f\n",[mmsi;TS;toa;slot_increment;keep_flag;sum(list_nb_err_3);sum(list_nb_r);sum(list_nb_err_3)/sum(list_nb_r)]);
+                            disp(["Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=",mmsi," mes id = 3, TS=",TS," toa = ",toa,"slot_increment =",slot_increment,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r),"perc.=",sum(list_nb_err_3)/sum(list_nb_r)]);
+                        else
+                            fprintf(fid4,"Alert3 : TS was not reserved by the ship mmsi=%d,mes id = 1, TS==%d , toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                            fprintf(fid3,"Alert3 : TS was not reserved by the ship mmsi=%d, mes id = 1, TS==%d, toa=%f, slot_timeout =%d , slot_offset = %d, nb_error= %d, nb_r=%d \n",[mmsi;TS;toa;slot_timeout;slot_offset;sum(list_nb_err_3);sum(list_nb_r)]);
+                            disp(["Alert3 : TS was not reserved by the ship mmsi =",mmsi," mes id = 1, TS=",TS," toa = ",toa," slot_timeout ",slot_timeout,"slot_offset = ",slot_offset,"nb_error=",sum(list_nb_err_3),"nb_r =",sum(list_nb_r)]);
+                        end
+                    end
+                end
             end
         end
     end
 end
 mano_algo=boat.mano;
-Algorithm_in.Struct_list_boat.list_boat(Algorithm_in.idx_boat)=boat;
 
 % The TS booked is put non_booked
 if channel==1
     boat.mano_channel_A=mano_algo;
-    Algorithm_in.Frame_pres_A.TS(TS)=-2;
 else
     boat.mano_channel_B=mano_algo;
-    Algorithm_in.Frame_pres_B.TS(TS)=-2;
 end
+boat.list_nb_err_3=list_nb_err_3;
+Algorithm_in.Struct_list_boat.list_boat(Algorithm_in.idx_boat)=boat;
 Algorithm_out=Algorithm_in;
 
 end
