@@ -20,9 +20,9 @@ close all;
 
 % filename='data7/sorted_table.csv';
 
-filename='data8/sorted_table.csv';
+% filename='data8/sorted_table.csv';
 
-% filename='data9/sorted_table.csv';
+filename='data9/sorted_table.csv';
 
 fid0 = fopen(filename);
 
