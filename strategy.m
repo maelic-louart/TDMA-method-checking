@@ -71,13 +71,13 @@ sigma_v_gps=5.3;
 % latitude of the receiver that received the messages
 lat_re=48.282935;
 % longitude parameters
-a_max=1.5; % acceleration maximal is 1.5nd.s^-2
+a_max=1; % acceleration maximal is 1nd.s^-2
 sigma_v_x=sigma_v_gps/((Re*pi/180)*cos(lat_re*pi/180));
-sigma_w_x=a_max/3*0.514444/((Re*pi/180)*cos(lat_re*pi/180))*0.8;
+sigma_w_x=0.5*a_max*0.514444/((Re*pi/180)*cos(lat_re*pi/180))*0.8;
 % latitude parameters
-a_max=1.5; % acceleration maximal is 1.5nd.s^-2
+a_max=1; % acceleration maximal is 1nd.s^-2
 sigma_v_y=sigma_v_gps/(Rn*pi/180);
-sigma_w_y=a_max/3*0.514444/(Rn*pi/180)*0.8;
+sigma_w_y=0.5*a_max*0.514444/(Rn*pi/180)*0.8;
 
 % number of consecutive frames in which the moving average is computed 
 nb_frame_av=15;
