@@ -1,4 +1,3 @@
-Alert1: The difference between sog estimated and measured is to high toa=11389.905000 TS=1871 ,mmsi=228817100, sog_c=4.905888e+00, sog_mes=3.400000e+00, inno_sog=-1.505888, threshold=1.397979 
-Alert1: The difference between sog estimated and measured is to high toa=11640.025000 TS=1 ,mmsi=228817100, sog_c=1.791489e+01, sog_mes=11, inno_sog=-6.914889, threshold=4.862406 
-Alert1: The difference between sog estimated and measured is to high toa=11831.415000 TS=428 ,mmsi=228817100, sog_c=1.566223e+01, sog_mes=4.000000e-01, inno_sog=-15.262226, threshold=4.869976 
-Alert1: The difference between sog estimated and measured is to high toa=18964.518000 TS=169 ,mmsi=227592820, sog_c=2.163654e+01, sog_mes=1.740000e+01, inno_sog=-4.236543, threshold=1.747606 
+Alert1: The difference between sog estimated and measured is to high toa=669.986000 TS=374 ,mmsi=227801800, sog_c=2.387520e+01, sog_mes=1.330000e+01, inno_sog=-10.575202, threshold=4.821275 
+Alert1: The difference between sog estimated and measured is to high toa=708.272000 TS=1810 ,mmsi=227801800, sog_c=7.205274e+00, sog_mes=1.350000e+01, inno_sog=6.294726, threshold=4.836892 
+Alert1: The difference between sog estimated and measured is to high toa=778.758000 TS=2203 ,mmsi=227801800, sog_c=2.269670e+01, sog_mes=1.370000e+01, inno_sog=-8.996701, threshold=4.919398 

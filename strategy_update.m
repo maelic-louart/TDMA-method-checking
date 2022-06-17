@@ -1,4 +1,4 @@
-function Algorithm_out=Algorithm_update(Algorithm_in,i,fid4)
+function Algorithm_out=strategy_update(Algorithm_in,i,fid4)
 
 Algorithm_in.i=i;
 indice=i;

@@ -4,7 +4,7 @@ close all;
 
 % filenamedata can vary from data1 to data9. We made 9 data acquisition
 % compaign
-filenamedata="data9";
+filenamedata="data6";
 
 fid0 = fopen(filenamedata+"/sorted_table.csv");
 

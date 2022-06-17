@@ -1,266 +1,298 @@
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==0, toa=1739.992000, slot_timeout =3 , slot_offset = -1, nb_error= 1, nb_r=4 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1576, toa=1782.023000, slot_timeout =3 , slot_offset = -1, nb_error= 1, nb_r=2 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==747, toa=1819.913000, slot_timeout =0 , slot_offset = 2290, nb_error= 2, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==1500, toa=1839.992000, slot_timeout =6 , slot_offset = -1, nb_error= 3, nb_r=7 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==369, toa=1869.851000, slot_timeout =2 , slot_offset = -1, nb_error= 4, nb_r=9 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==1892, toa=1910.445000, slot_timeout =3 , slot_offset = -1, nb_error= 5, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==832, toa=1942.195000, slot_timeout =0 , slot_offset = 2197, nb_error= 2, nb_r=3 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==1138, toa=1950.335000, slot_timeout =5 , slot_offset = -1, nb_error= 6, nb_r=12 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1940, toa=2031.726000, slot_timeout =1 , slot_offset = -1, nb_error= 3, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==456, toa=2052.148000, slot_timeout =1 , slot_offset = -1, nb_error= 4, nb_r=7 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1190, toa=2131.726000, slot_timeout =6 , slot_offset = -1, nb_error= 5, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==395, toa=2230.538000, slot_timeout =2 , slot_offset = -1, nb_error= 6, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1936, toa=2271.631000, slot_timeout =1 , slot_offset = -1, nb_error= 7, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==13, toa=2280.350000, slot_timeout =2 , slot_offset = -1, nb_error= 8, nb_r=12 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==836, toa=2362.303000, slot_timeout =3 , slot_offset = -1, nb_error= 9, nb_r=16 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1573, toa=2381.959000, slot_timeout =7 , slot_offset = -1, nb_error= 10, nb_r=17 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=74 , toa=2521.975000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=20, perc.=0.550000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=419 , toa=2531.162000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=21, perc.=0.571429
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=773 , toa=2600.616000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=24, perc.=0.541667
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==736, toa=2839.630000, slot_timeout =1 , slot_offset = -1, nb_error= 1, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==1120, toa=2849.865000, slot_timeout =1 , slot_offset = -1, nb_error= 2, nb_r=7 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==1515, toa=2980.412000, slot_timeout =4 , slot_offset = -1, nb_error= 3, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==32, toa=3000.865000, slot_timeout =6 , slot_offset = -1, nb_error= 4, nb_r=9 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==743, toa=3019.821000, slot_timeout =2 , slot_offset = -1, nb_error= 5, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=228999999, mes id = 1, TS==411, toa=3130.958000, slot_timeout =2 , slot_offset = -1, nb_error= 6, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1939, toa=3411.707000, slot_timeout =1 , slot_offset = -1, nb_error= 1, nb_r=2 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==38, toa=3421.019000, slot_timeout =4 , slot_offset = -1, nb_error= 2, nb_r=3 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==432, toa=3431.520000, slot_timeout =1 , slot_offset = -1, nb_error= 3, nb_r=4 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==831, toa=3442.160000, slot_timeout =3 , slot_offset = -1, nb_error= 4, nb_r=5 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1174, toa=3451.301000, slot_timeout =2 , slot_offset = -1, nb_error= 5, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1803, toa=3648.082000, slot_timeout =-1 , slot_offset = -1, nb_error= 6, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1932, toa=3651.520000, slot_timeout =-1 , slot_offset = -1, nb_error= 7, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==38, toa=3781.004000, slot_timeout =5 , slot_offset = -1, nb_error= 8, nb_r=13 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==447, toa=3791.910000, slot_timeout =6 , slot_offset = -1, nb_error= 9, nb_r=14 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==831, toa=3802.160000, slot_timeout =7 , slot_offset = -1, nb_error= 10, nb_r=15 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1174, toa=3811.301000, slot_timeout =5 , slot_offset = -1, nb_error= 11, nb_r=16 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1174, toa=3871.301000, slot_timeout =4 , slot_offset = -1, nb_error= 12, nb_r=17 
-Alert3 : TS was not reserved by the ship mmsi=205772000, mes id = 1, TS==1574, toa=3881.973000, slot_timeout =1 , slot_offset = -1, nb_error= 13, nb_r=18 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=1932 , toa=3891.520000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=19, perc.=0.736842
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=1168 , toa=4231.144000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=22, perc.=0.681818
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=1916 , toa=4251.081000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=23, perc.=0.695652
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=57 , toa=4261.519000, slot_increment = -1, keep_flag = -1, nb_error= 17, nb_r=24, perc.=0.708333
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=205772000, mes id = 3, TS=1551 , toa=4301.347000, slot_increment = -1, keep_flag = -1, nb_error= 18, nb_r=26, perc.=0.692308
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1443, toa=9338.470000, slot_timeout =4 , slot_offset = -1, nb_error= 1, nb_r=3 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1238, toa=9513.001000, slot_timeout =1 , slot_offset = -1, nb_error= 2, nb_r=4 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1920, toa=9531.189000, slot_timeout =3 , slot_offset = -1, nb_error= 3, nb_r=5 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1920, toa=9591.189000, slot_timeout =2 , slot_offset = -1, nb_error= 4, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==2124, toa=9596.642000, slot_timeout =4 , slot_offset = -1, nb_error= 5, nb_r=7 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==778, toa=9620.736000, slot_timeout =2 , slot_offset = -1, nb_error= 6, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==349, toa=9669.298000, slot_timeout =2 , slot_offset = -1, nb_error= 7, nb_r=9 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==557, toa=9674.845000, slot_timeout =2 , slot_offset = -1, nb_error= 8, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1480, toa=9699.454000, slot_timeout =6 , slot_offset = -1, nb_error= 9, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1698, toa=9705.267000, slot_timeout =3 , slot_offset = -1, nb_error= 10, nb_r=12 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==987, toa=9746.314000, slot_timeout =7 , slot_offset = -1, nb_error= 11, nb_r=15 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1215, toa=9752.392000, slot_timeout =3 , slot_offset = -1, nb_error= 12, nb_r=16 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==95, toa=9782.532000, slot_timeout =4 , slot_offset = -1, nb_error= 13, nb_r=20 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==798, toa=9801.267000, slot_timeout =5 , slot_offset = -1, nb_error= 14, nb_r=22 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==337, toa=9848.986000, slot_timeout =6 , slot_offset = -1, nb_error= 15, nb_r=28 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=2147 , toa=9957.250000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=41, perc.=0.390244
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=567 , toa=9975.110000, slot_increment = -1, keep_flag = -1, nb_error= 17, nb_r=42, perc.=0.404762
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1216 , toa=10052.438000, slot_increment = -1, keep_flag = -1, nb_error= 18, nb_r=54, perc.=0.333333
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=2140 , toa=10377.079000, slot_increment = -1, keep_flag = -1, nb_error= 18, nb_r=102, perc.=0.176471
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==782, toa=11240.858000, slot_timeout =6 , slot_offset = -1, nb_error= 1, nb_r=2 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=624 , toa=11296.639000, slot_increment = -1, keep_flag = -1, nb_error= 1, nb_r=115, perc.=0.008696
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==1871, toa=11389.905000, slot_timeout =4 , slot_offset = -1, nb_error= 2, nb_r=3 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==39, toa=11461.046000, slot_timeout =1 , slot_offset = -1, nb_error= 3, nb_r=5 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==401, toa=11470.702000, slot_timeout =0 , slot_offset = 2277, nb_error= 4, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==1, toa=11640.025000, slot_timeout =6 , slot_offset = -1, nb_error= 5, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==428, toa=11831.415000, slot_timeout =0 , slot_offset = 2192, nb_error= 6, nb_r=9 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==789, toa=11841.040000, slot_timeout =0 , slot_offset = 2260, nb_error= 7, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==1541, toa=11861.087000, slot_timeout =1 , slot_offset = -1, nb_error= 8, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==1900, toa=11870.665000, slot_timeout =2 , slot_offset = -1, nb_error= 9, nb_r=12 
-Alert3 : TS was not reserved by the ship mmsi=228817100, mes id = 1, TS==370, toa=11949.868000, slot_timeout =5 , slot_offset = -1, nb_error= 10, nb_r=15 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=11 , toa=12060.290000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=21, perc.=0.523810
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1137 , toa=12090.321000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=23, perc.=0.521739
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=795 , toa=12381.195000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=45, perc.=0.200000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=48 , toa=12481.273000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=54, perc.=0.185185
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1552 , toa=12641.398000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=67, perc.=0.149254
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=788 , toa=13161.007000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=80, perc.=0.050000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1547 , toa=13301.241000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=80, perc.=0.050000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=430 , toa=13331.476000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=77, perc.=0.064935
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=56 , toa=13681.506000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=54, perc.=0.074074
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1136 , toa=13710.303000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=55, perc.=0.090909
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1544 , toa=13721.162000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=56, perc.=0.107143
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1544 , toa=13781.162000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=57, perc.=0.122807
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1871 , toa=13789.881000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=58, perc.=0.137931
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=399 , toa=13810.647000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=54, perc.=0.166667
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1441 , toa=13958.428000, slot_increment = 5331, keep_flag = 0, nb_error= 1, nb_r=3, 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1929 , toa=13971.428000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=45, perc.=0.222222
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817100, mes id = 3, TS=1125 , toa=14010.006000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=41, perc.=0.268293
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==672, toa=14837.926000, slot_timeout =4 , slot_offset = -1, nb_error= 1, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1130, toa=14850.129000, slot_timeout =7 , slot_offset = -1, nb_error= 2, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1326, toa=14855.363000, slot_timeout =4 , slot_offset = -1, nb_error= 3, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==188, toa=14885.004000, slot_timeout =2 , slot_offset = -1, nb_error= 4, nb_r=13 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1778, toa=14927.410000, slot_timeout =3 , slot_offset = -1, nb_error= 5, nb_r=20 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1998, toa=14993.270000, slot_timeout =3 , slot_offset = -1, nb_error= 6, nb_r=25 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=662 , toa=15137.645000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=46, perc.=0.152174
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=223 , toa=15485.941000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=100, perc.=0.080000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=867 , toa=15743.112000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=122, perc.=0.049180
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1093 , toa=15749.159000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=123, perc.=0.056911
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=428 , toa=15851.409000, slot_increment = 157, keep_flag = 1, nb_error= 5, nb_r=135, perc.=0.037037
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=278 , toa=15907.409000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=157, perc.=0.038217
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1109 , toa=15989.565000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=188, perc.=0.037234
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1184 , toa=16111.580000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=215, perc.=0.032558
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1415 , toa=16117.721000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=217, perc.=0.036866
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1706 , toa=16125.487000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=221, perc.=0.040724
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=737 , toa=16159.643000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=225, perc.=0.044444
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=353 , toa=16209.424000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=232, perc.=0.047414
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1031 , toa=16227.486000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=237, perc.=0.050633
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1480 , toa=16239.455000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=240, perc.=0.054167
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=515 , toa=16273.721000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=240, perc.=0.058333
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=587 , toa=16275.658000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=241, perc.=0.062241
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=890 , toa=16283.721000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=242, perc.=0.066116
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==881, toa=16343.501000, slot_timeout =3 , slot_offset = -1, nb_error= 1, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==1358, toa=16356.204000, slot_timeout =-1 , slot_offset = -1, nb_error= 2, nb_r=7 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==2091, toa=16375.751000, slot_timeout =-1 , slot_offset = -1, nb_error= 3, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==1572, toa=16421.907000, slot_timeout =3 , slot_offset = -1, nb_error= 4, nb_r=9 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==1847, toa=16429.266000, slot_timeout =-1 , slot_offset = -1, nb_error= 5, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==81, toa=16442.173000, slot_timeout =4 , slot_offset = -1, nb_error= 6, nb_r=12 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==475, toa=16452.672000, slot_timeout =1 , slot_offset = -1, nb_error= 7, nb_r=13 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==1188, toa=16471.688000, slot_timeout =3 , slot_offset = -1, nb_error= 8, nb_r=14 
-Alert3 : TS was not reserved by the ship mmsi=227998200, mes id = 1, TS==2003, toa=16553.423000, slot_timeout =3 , slot_offset = -1, nb_error= 9, nb_r=18 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=507 , toa=16753.531000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=20, perc.=0.500000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=880 , toa=16883.469000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=21, perc.=0.523810
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1148, toa=17010.625000, slot_timeout =2 , slot_offset = -1, nb_error= 1, nb_r=2 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=1949 , toa=17031.986000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=23, perc.=0.521739
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=719 , toa=17059.184000, slot_increment = 0, keep_flag = 0, nb_error= 13, nb_r=25, perc.=0.520000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=1097 , toa=17069.256000, slot_increment = 0, keep_flag = 0, nb_error= 14, nb_r=27, perc.=0.518519
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=487 , toa=17112.997000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=27, perc.=0.555556
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=1840 , toa=17209.070000, slot_increment = 262, keep_flag = 0, nb_error= 16, nb_r=26, perc.=0.615385
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=222 , toa=17225.920000, slot_increment = 493, keep_flag = 0, nb_error= 14, nb_r=25, perc.=0.560000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=598 , toa=17235.946000, slot_increment = 509, keep_flag = 0, nb_error= 15, nb_r=27, perc.=0.555556
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1183, toa=17311.547000, slot_timeout =4 , slot_offset = -1, nb_error= 2, nb_r=3 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1921, toa=17331.224000, slot_timeout =2 , slot_offset = -1, nb_error= 3, nb_r=4 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=1961 , toa=17332.299000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=25, perc.=0.560000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=883 , toa=17363.550000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=23, perc.=0.521739
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227998200, mes id = 3, TS=123 , toa=17463.277000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=20, perc.=0.600000
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==803, toa=17721.405000, slot_timeout =3 , slot_offset = -1, nb_error= 1, nb_r=7 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1181, toa=17731.494000, slot_timeout =3 , slot_offset = -1, nb_error= 2, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1263, toa=17733.679000, slot_timeout =2 , slot_offset = -1, nb_error= 3, nb_r=9 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1339, toa=17735.709000, slot_timeout =5 , slot_offset = -1, nb_error= 4, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1411, toa=17737.631000, slot_timeout =3 , slot_offset = -1, nb_error= 5, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1702, toa=17745.392000, slot_timeout =3 , slot_offset = -1, nb_error= 6, nb_r=13 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2088, toa=17755.683000, slot_timeout =6 , slot_offset = -1, nb_error= 7, nb_r=14 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==212, toa=17765.646000, slot_timeout =3 , slot_offset = -1, nb_error= 8, nb_r=15 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==657, toa=17777.515000, slot_timeout =5 , slot_offset = -1, nb_error= 9, nb_r=17 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==881, toa=17783.496000, slot_timeout =3 , slot_offset = -1, nb_error= 10, nb_r=18 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==958, toa=17785.543000, slot_timeout =4 , slot_offset = -1, nb_error= 11, nb_r=19 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1039, toa=17787.697000, slot_timeout =1 , slot_offset = -1, nb_error= 12, nb_r=20 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1486, toa=17799.629000, slot_timeout =3 , slot_offset = -1, nb_error= 13, nb_r=24 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1860, toa=17809.593000, slot_timeout =1 , slot_offset = -1, nb_error= 14, nb_r=27 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1934, toa=17811.575000, slot_timeout =2 , slot_offset = -1, nb_error= 15, nb_r=28 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2233, toa=17819.541000, slot_timeout =0 , slot_offset = 2246, nb_error= 16, nb_r=30 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==60, toa=17821.602000, slot_timeout =1 , slot_offset = -1, nb_error= 17, nb_r=31 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==578, toa=17835.406000, slot_timeout =7 , slot_offset = -1, nb_error= 18, nb_r=36 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1104, toa=17849.430000, slot_timeout =4 , slot_offset = -1, nb_error= 19, nb_r=42 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1778, toa=17867.406000, slot_timeout =0 , slot_offset = 2260, nb_error= 20, nb_r=50 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1903, toa=17870.746000, slot_timeout =6 , slot_offset = -1, nb_error= 4, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2005, toa=17873.465000, slot_timeout =0 , slot_offset = 2260, nb_error= 21, nb_r=53 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2153, toa=17877.415000, slot_timeout =4 , slot_offset = -1, nb_error= 22, nb_r=55 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==432, toa=17891.518000, slot_timeout =1 , slot_offset = -1, nb_error= 4, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==440, toa=17891.737000, slot_timeout =1 , slot_offset = -1, nb_error= 23, nb_r=60 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1558, toa=17921.550000, slot_timeout =3 , slot_offset = -1, nb_error= 24, nb_r=74 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==61, toa=17941.615000, slot_timeout =4 , slot_offset = -1, nb_error= 25, nb_r=84 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1029 , toa=17967.429000, slot_increment = -1, keep_flag = -1, nb_error= 26, nb_r=94, perc.=0.276596
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=133 , toa=18003.535000, slot_increment = -1, keep_flag = -1, nb_error= 27, nb_r=110, perc.=0.245455
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=209 , toa=18005.566000, slot_increment = -1, keep_flag = -1, nb_error= 28, nb_r=111, perc.=0.252252
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1178 , toa=18031.412000, slot_increment = -1, keep_flag = -1, nb_error= 29, nb_r=122, perc.=0.237705
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=2013 , toa=18173.680000, slot_increment = -1, keep_flag = -1, nb_error= 30, nb_r=186, perc.=0.161290
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=352 , toa=18249.374000, slot_increment = -1, keep_flag = -1, nb_error= 31, nb_r=222, perc.=0.139640
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=58 , toa=18481.544000, slot_increment = 153, keep_flag = 1, nb_error= 32, nb_r=305, perc.=0.104918
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=513 , toa=18493.693000, slot_increment = 142, keep_flag = 1, nb_error= 33, nb_r=310, perc.=0.106452
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=2151 , toa=18537.372000, slot_increment = -1, keep_flag = -1, nb_error= 34, nb_r=333, perc.=0.102102
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=362 , toa=18549.647000, slot_increment = -1, keep_flag = -1, nb_error= 35, nb_r=337, perc.=0.103858
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1179 , toa=18571.433000, slot_increment = -1, keep_flag = -1, nb_error= 36, nb_r=348, perc.=0.103448
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=206 , toa=18785.505000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=370, perc.=0.035135
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=284 , toa=18787.566000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=371, perc.=0.037736
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=883 , toa=18863.541000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=377, perc.=0.034483
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==2223, toa=18899.287000, slot_timeout =5 , slot_offset = -1, nb_error= 1, nb_r=2 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=2237 , toa=18899.646000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=392, perc.=0.035714
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=585 , toa=18915.591000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=369, perc.=0.032520
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1180 , toa=18931.458000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=374, perc.=0.034759
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==169, toa=18964.518000, slot_timeout =1 , slot_offset = -1, nb_error= 2, nb_r=3 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==623, toa=18976.622000, slot_timeout =1 , slot_offset = -1, nb_error= 3, nb_r=4 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==832, toa=18982.196000, slot_timeout =1 , slot_offset = -1, nb_error= 4, nb_r=5 
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1293, toa=18994.485000, slot_timeout =1 , slot_offset = -1, nb_error= 5, nb_r=6 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1626 , toa=19003.373000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=363, perc.=0.038567
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1926, toa=19011.352000, slot_timeout =1 , slot_offset = -1, nb_error= 1, nb_r=2 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1933 , toa=19011.541000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=366, perc.=0.040984
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1072, toa=19048.595000, slot_timeout =3 , slot_offset = -1, nb_error= 6, nb_r=7 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=360 , toa=19089.610000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=321, perc.=0.046729
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=887 , toa=19103.641000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=322, perc.=0.049689
-Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==608, toa=19216.204000, slot_timeout =2 , slot_offset = -1, nb_error= 7, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1126, toa=19710.031000, slot_timeout =1 , slot_offset = -1, nb_error= 1, nb_r=4 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==195, toa=19745.187000, slot_timeout =1 , slot_offset = -1, nb_error= 2, nb_r=5 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==2246, toa=19859.891000, slot_timeout =6 , slot_offset = -1, nb_error= 3, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==210, toa=19865.609000, slot_timeout =4 , slot_offset = -1, nb_error= 4, nb_r=9 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1313, toa=19895.016000, slot_timeout =1 , slot_offset = -1, nb_error= 5, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==431, toa=19931.500000, slot_timeout =2 , slot_offset = -1, nb_error= 6, nb_r=11 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==634, toa=19936.906000, slot_timeout =7 , slot_offset = -1, nb_error= 7, nb_r=12 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1550, toa=19961.344000, slot_timeout =3 , slot_offset = -1, nb_error= 8, nb_r=14 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==868, toa=20003.156000, slot_timeout =4 , slot_offset = -1, nb_error= 9, nb_r=17 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==2015, toa=20033.734000, slot_timeout =7 , slot_offset = -1, nb_error= 10, nb_r=20 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1028, toa=20067.422000, slot_timeout =0 , slot_offset = 2258, nb_error= 1, nb_r=13 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1110, toa=20069.609000, slot_timeout =0 , slot_offset = 2244, nb_error= 2, nb_r=14 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1255, toa=20073.469000, slot_timeout =3 , slot_offset = -1, nb_error= 3, nb_r=15 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1484, toa=20079.578000, slot_timeout =1 , slot_offset = -1, nb_error= 4, nb_r=16 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1636, toa=20083.625000, slot_timeout =4 , slot_offset = -1, nb_error= 5, nb_r=18 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1702, toa=20085.391000, slot_timeout =1 , slot_offset = -1, nb_error= 6, nb_r=19 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1854, toa=20089.437000, slot_timeout =3 , slot_offset = -1, nb_error= 7, nb_r=20 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2085, toa=20095.609000, slot_timeout =5 , slot_offset = -1, nb_error= 8, nb_r=21 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2157, toa=20097.516000, slot_timeout =4 , slot_offset = -1, nb_error= 9, nb_r=22 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2226, toa=20099.359000, slot_timeout =2 , slot_offset = -1, nb_error= 10, nb_r=23 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==58, toa=20101.547000, slot_timeout =3 , slot_offset = -1, nb_error= 11, nb_r=24 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==663, toa=20117.687000, slot_timeout =3 , slot_offset = -1, nb_error= 12, nb_r=28 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==728, toa=20119.422000, slot_timeout =1 , slot_offset = -1, nb_error= 13, nb_r=29 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==802, toa=20121.391000, slot_timeout =3 , slot_offset = -1, nb_error= 14, nb_r=30 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==951, toa=20125.359000, slot_timeout =7 , slot_offset = -1, nb_error= 15, nb_r=32 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1331, toa=20135.500000, slot_timeout =1 , slot_offset = -1, nb_error= 16, nb_r=35 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1405, toa=20137.469000, slot_timeout =2 , slot_offset = -1, nb_error= 17, nb_r=36 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1785, toa=20147.609000, slot_timeout =3 , slot_offset = -1, nb_error= 18, nb_r=39 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==2003, toa=20153.422000, slot_timeout =2 , slot_offset = -1, nb_error= 19, nb_r=41 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==434, toa=20171.578000, slot_timeout =1 , slot_offset = -1, nb_error= 20, nb_r=48 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1183, toa=20191.547000, slot_timeout =2 , slot_offset = -1, nb_error= 21, nb_r=56 
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==1488, toa=20199.687000, slot_timeout =6 , slot_offset = -1, nb_error= 22, nb_r=60 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1576, toa=20202.031000, slot_timeout =5 , slot_offset = -1, nb_error= 11, nb_r=28 
-Alert3 : TS was not reserved by the ship mmsi=227580520, mes id = 1, TS==1788, toa=20207.687000, slot_timeout =0 , slot_offset = 2237, nb_error= 12, nb_r=29 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=206 , toa=20225.500000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=31, perc.=0.419355
-Alert3 : TS was not reserved by the ship mmsi=228817700, mes id = 1, TS==731, toa=20239.500000, slot_timeout =6 , slot_offset = -1, nb_error= 23, nb_r=80 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=1315 , toa=20255.062000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=34, perc.=0.411765
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=880 , toa=20303.468000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=39, perc.=0.384615
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=1099 , toa=20309.312000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=40, perc.=0.400000
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=2232 , toa=20339.515000, slot_increment = -1, keep_flag = -1, nb_error= 17, nb_r=45, perc.=0.377778
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=1182 , toa=20371.515000, slot_increment = -1, keep_flag = -1, nb_error= 24, nb_r=144, perc.=0.166667
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=667 , toa=20477.781000, slot_increment = -1, keep_flag = -1, nb_error= 18, nb_r=58, perc.=0.310345
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=188 , toa=20525.015000, slot_increment = -1, keep_flag = -1, nb_error= 19, nb_r=66, perc.=0.287879
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=2144 , toa=20577.172000, slot_increment = -1, keep_flag = -1, nb_error= 25, nb_r=234, perc.=0.106838
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228817700, mes id = 3, TS=792 , toa=20661.124000, slot_increment = -1, keep_flag = -1, nb_error= 26, nb_r=245, perc.=0.106122
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==402, toa=21970.731000, slot_timeout =0 , slot_offset = 2231, nb_error= 1, nb_r=2 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==1277, toa=21994.044000, slot_timeout =2 , slot_offset = -1, nb_error= 2, nb_r=3 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==830, toa=22042.122000, slot_timeout =2 , slot_offset = -1, nb_error= 3, nb_r=4 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==1717, toa=22065.778000, slot_timeout =2 , slot_offset = -1, nb_error= 4, nb_r=6 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==156, toa=22084.169000, slot_timeout =4 , slot_offset = -1, nb_error= 5, nb_r=7 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==384, toa=22090.231000, slot_timeout =2 , slot_offset = -1, nb_error= 6, nb_r=8 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==2200, toa=22138.669000, slot_timeout =3 , slot_offset = -1, nb_error= 7, nb_r=10 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==596, toa=22155.903000, slot_timeout =2 , slot_offset = -1, nb_error= 8, nb_r=12 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==1062, toa=22168.310000, slot_timeout =4 , slot_offset = -1, nb_error= 9, nb_r=13 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==1503, toa=22240.091000, slot_timeout =0 , slot_offset = 2245, nb_error= 10, nb_r=15 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=275 , toa=22267.341000, slot_increment = -1, keep_flag = -1, nb_error= 1, nb_r=116, perc.=0.008621
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==1280, toa=22294.138000, slot_timeout =4 , slot_offset = -1, nb_error= 11, nb_r=17 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==1976, toa=22312.700000, slot_timeout =2 , slot_offset = -1, nb_error= 12, nb_r=18 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=1187 , toa=22411.653000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=123, perc.=0.016260
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=1382 , toa=22416.841000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=124, perc.=0.024194
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==373, toa=22449.950000, slot_timeout =1 , slot_offset = -1, nb_error= 13, nb_r=24 
-Alert3 : TS was not reserved by the ship mmsi=227574020, mes id = 1, TS==591, toa=22455.747000, slot_timeout =4 , slot_offset = -1, nb_error= 14, nb_r=25 
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227574020, mes id = 3, TS=1498 , toa=22479.950000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=27, perc.=0.555556
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227574020, mes id = 3, TS=1729 , toa=22486.106000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=28, perc.=0.571429
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227574020, mes id = 3, TS=2178 , toa=22558.090000, slot_increment = -1, keep_flag = -1, nb_error= 17, nb_r=31, perc.=0.548387
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227574020, mes id = 3, TS=159 , toa=22564.246000, slot_increment = -1, keep_flag = -1, nb_error= 18, nb_r=32, perc.=0.562500
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=265 , toa=22567.074000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=115, perc.=0.034783
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=1193 , toa=22591.824000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=117, perc.=0.042735
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=1831 , toa=22608.840000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=119, perc.=0.050420
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=2060 , toa=22674.934000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=115, perc.=0.060870
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=53 , toa=22801.418000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=86, perc.=0.093023
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=294 , toa=22987.840000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=58, perc.=0.155172
-Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227580520, mes id = 3, TS=517 , toa=22993.793000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=59, perc.=0.169492
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==87, toa=122.327000, slot_timeout =5 , slot_offset = -1, nb_error= 1, nb_r=3 
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==455, toa=132.132000, slot_timeout =3 , slot_offset = -1, nb_error= 2, nb_r=4 
+Alert3 : TS was not reserved by the ship mmsi=228381900, mes id = 1, TS==604, toa=136.119000, slot_timeout =0 , slot_offset = 2223, nb_error= 1, nb_r=7 
+Alert3 : TS was not reserved by the ship mmsi=227801800, mes id = 1, TS==1097, toa=149.251000, slot_timeout =0 , slot_offset = 2283, nb_error= 1, nb_r=11 
+Alert3 : TS was not reserved by the ship mmsi=227635210, mes id = 1, TS==1185, toa=151.609000, slot_timeout =2 , slot_offset = -1, nb_error= 1, nb_r=5 
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==1188, toa=151.687000, slot_timeout =4 , slot_offset = -1, nb_error= 3, nb_r=5 
+Alert3 : TS was not reserved by the ship mmsi=228381900, mes id = 1, TS==1300, toa=154.673000, slot_timeout =2 , slot_offset = -1, nb_error= 2, nb_r=9 
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==1537, toa=160.985000, slot_timeout =5 , slot_offset = -1, nb_error= 4, nb_r=6 
+Alert3 : TS was not reserved by the ship mmsi=227801800, mes id = 1, TS==1868, toa=169.814000, slot_timeout =3 , slot_offset = -1, nb_error= 2, nb_r=12 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==2144, toa=177.184000, slot_timeout =5 , slot_offset = -1, nb_error= 1, nb_r=2 
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==826, toa=202.029000, slot_timeout =1 , slot_offset = -1, nb_error= 5, nb_r=9 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1429, toa=218.108000, slot_timeout =5 , slot_offset = -1, nb_error= 2, nb_r=3 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=315 , toa=248.400000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=19, perc.=0.157895
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=712 , toa=318.985000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=24, perc.=0.166667
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==804, toa=321.448000, slot_timeout =3 , slot_offset = -1, nb_error= 6, nb_r=14 
+Alert3 : TS was not reserved by the ship mmsi=228381900, mes id = 1, TS==931, toa=324.825000, slot_timeout =4 , slot_offset = -1, nb_error= 3, nb_r=16 
+Alert3 : TS was not reserved by the ship mmsi=227635210, mes id = 1, TS==1953, toa=352.079000, slot_timeout =6 , slot_offset = -1, nb_error= 2, nb_r=13 
+Alert3 : TS was not reserved by the ship mmsi=228381900, mes id = 1, TS==224, toa=365.979000, slot_timeout =3 , slot_offset = -1, nb_error= 4, nb_r=17 
+Alert3 : TS was not reserved by the ship mmsi=228381900, mes id = 1, TS==1708, toa=405.559000, slot_timeout =4 , slot_offset = -1, nb_error= 5, nb_r=18 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1810 , toa=408.276000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=28, perc.=0.178571
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==457, toa=432.191000, slot_timeout =6 , slot_offset = -1, nb_error= 7, nb_r=18 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1094 , toa=449.185000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=31, perc.=0.193548
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1216 , toa=452.424000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=19, perc.=0.421053
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1329 , toa=455.445000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=19, perc.=0.315789
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1460 , toa=458.944000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=32, perc.=0.218750
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=374 , toa=489.971000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=33, perc.=0.242424
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1549 , toa=521.305000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=22, perc.=0.409091
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=2041 , toa=534.431000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=20, perc.=0.350000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=49 , toa=541.314000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=23, perc.=0.434783
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=567 , toa=555.128000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=21, perc.=0.380952
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=424 , toa=611.318000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=22, perc.=0.136364
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1729 , toa=706.111000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=24, perc.=0.375000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1911 , toa=710.963000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=25, perc.=0.440000
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==2125, toa=716.670000, slot_timeout =3 , slot_offset = -1, nb_error= 1, nb_r=6 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=197 , toa=725.260000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=25, perc.=0.400000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=2203 , toa=778.758000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=37, perc.=0.243243
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=831 , toa=802.160000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=31, perc.=0.387097
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1337 , toa=815.664000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=27, perc.=0.407407
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=463 , toa=852.357000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=35, perc.=0.371429
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=594 , toa=855.852000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=28, perc.=0.428571
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1579 , toa=882.115000, slot_increment = 236, keep_flag = 0, nb_error= 13, nb_r=30, perc.=0.433333
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=69 , toa=901.839000, slot_increment = 0, keep_flag = 0, nb_error= 14, nb_r=29, perc.=0.482759
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=348 , toa=909.278000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=33, perc.=0.303030
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=696 , toa=918.572000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=34, perc.=0.323529
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=780 , toa=920.811000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=37, perc.=0.378378
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1084 , toa=928.917000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=35, perc.=0.342857
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1463 , toa=939.019000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=36, perc.=0.361111
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1909 , toa=950.913000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=40, perc.=0.375000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=2240 , toa=959.731000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=37, perc.=0.378378
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=914 , toa=984.385000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=30, perc.=0.500000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=2106 , toa=1016.165000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=33, perc.=0.484848
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1840 , toa=1069.079000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=39, perc.=0.333333
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=968 , toa=1105.814000, slot_increment = -1, keep_flag = -1, nb_error= 15, nb_r=32, perc.=0.468750
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=241755000, mes id = 3, TS=1381 , toa=1176.837000, slot_increment = 5382, keep_flag = 0, nb_error= 1, nb_r=5, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1719 , toa=1185.841000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=33, perc.=0.484848
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1179 , toa=1231.438000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=32, perc.=0.062500
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=57 , toa=1261.518000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=46, perc.=0.217391
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=411 , toa=1270.969000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=30, perc.=0.100000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1151 , toa=1290.698000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=47, perc.=0.234043
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1311 , toa=1294.959000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=34, perc.=0.411765
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==253, toa=1326.748000, slot_timeout =4 , slot_offset = -1, nb_error= 1, nb_r=3 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=410 , toa=1330.940000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=47, perc.=0.212766
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==625, toa=1336.679000, slot_timeout =4 , slot_offset = -1, nb_error= 2, nb_r=4 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1167 , toa=1351.120000, slot_increment = 257, keep_flag = 0, nb_error= 14, nb_r=40, perc.=0.350000
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==298, toa=1387.954000, slot_timeout =1 , slot_offset = -1, nb_error= 1, nb_r=3 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==1025, toa=1407.344000, slot_timeout =1 , slot_offset = -1, nb_error= 2, nb_r=4 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==1803, toa=1428.083000, slot_timeout =1 , slot_offset = -1, nb_error= 3, nb_r=5 
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==1883, toa=1430.213000, slot_timeout =2 , slot_offset = -1, nb_error= 1, nb_r=3 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=2236 , toa=1439.625000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=46, perc.=0.173913
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==648, toa=1457.291000, slot_timeout =1 , slot_offset = -1, nb_error= 4, nb_r=7 
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==774, toa=1460.642000, slot_timeout =3 , slot_offset = -1, nb_error= 2, nb_r=4 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1014, toa=1467.051000, slot_timeout =3 , slot_offset = -1, nb_error= 3, nb_r=7 
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==1547, toa=1481.264000, slot_timeout =5 , slot_offset = -1, nb_error= 3, nb_r=6 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228381900, mes id = 3, TS=1674 , toa=1484.649000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=37, perc.=0.351351
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1781, toa=1487.502000, slot_timeout =1 , slot_offset = -1, nb_error= 4, nb_r=8 
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==423, toa=1511.283000, slot_timeout =0 , slot_offset = 2269, nb_error= 4, nb_r=8 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1433, toa=1538.223000, slot_timeout =5 , slot_offset = -1, nb_error= 5, nb_r=12 
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==442, toa=1631.795000, slot_timeout =5 , slot_offset = -1, nb_error= 5, nb_r=11 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==638, toa=1637.019000, slot_timeout =4 , slot_offset = -1, nb_error= 5, nb_r=12 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==906, toa=1644.170000, slot_timeout =-1 , slot_offset = -1, nb_error= 6, nb_r=14 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==1012, toa=1646.997000, slot_timeout =3 , slot_offset = -1, nb_error= 7, nb_r=15 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1189 , toa=1651.705000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=37, perc.=0.081081
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1193 , toa=1651.815000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=61, perc.=0.131148
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==46, toa=1681.223000, slot_timeout =2 , slot_offset = -1, nb_error= 6, nb_r=14 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==678, toa=1698.091000, slot_timeout =2 , slot_offset = -1, nb_error= 6, nb_r=16 
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==1195, toa=1711.872000, slot_timeout =7 , slot_offset = -1, nb_error= 7, nb_r=17 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1471 , toa=1719.229000, slot_increment = -1, keep_flag = -1, nb_error= 1, nb_r=88, perc.=0.011364
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==1815, toa=1728.407000, slot_timeout =3 , slot_offset = -1, nb_error= 8, nb_r=17 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1948 , toa=1791.955000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=63, perc.=0.111111
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=2143 , toa=1857.156000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=21, perc.=0.333333
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==2206, toa=1858.828000, slot_timeout =5 , slot_offset = -1, nb_error= 1, nb_r=2 
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==55, toa=1861.467000, slot_timeout =6 , slot_offset = -1, nb_error= 8, nb_r=22 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=313 , toa=1868.357000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=22, perc.=0.363636
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==726, toa=1879.370000, slot_timeout =2 , slot_offset = -1, nb_error= 2, nb_r=3 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==334, toa=1928.911000, slot_timeout =2 , slot_offset = -1, nb_error= 3, nb_r=4 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=226263000, mes id = 3, TS=999 , toa=1946.645000, slot_increment = 5311, keep_flag = 0, nb_error= 1, nb_r=4, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1414 , toa=1957.710000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=26, perc.=0.346154
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1483 , toa=1959.544000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=83, perc.=0.024096
+Alert3 : TS was not reserved by the ship mmsi=227612860, mes id = 1, TS==1527, toa=1960.717000, slot_timeout =4 , slot_offset = -1, nb_error= 9, nb_r=25 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1212 , toa=2012.324000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=60, perc.=0.100000
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1381, toa=2016.824000, slot_timeout =4 , slot_offset = -1, nb_error= 4, nb_r=6 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1917 , toa=2031.130000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=37, perc.=0.108108
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==2050, toa=2094.669000, slot_timeout =5 , slot_offset = -1, nb_error= 5, nb_r=9 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==242, toa=2106.449000, slot_timeout =6 , slot_offset = -1, nb_error= 6, nb_r=10 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==670, toa=2117.865000, slot_timeout =5 , slot_offset = -1, nb_error= 7, nb_r=11 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==895, toa=2123.873000, slot_timeout =3 , slot_offset = -1, nb_error= 8, nb_r=12 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1170 , toa=2131.196000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=38, perc.=0.105263
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1557 , toa=2141.516000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=56, perc.=0.125000
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==446, toa=2171.895000, slot_timeout =2 , slot_offset = -1, nb_error= 9, nb_r=13 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1833, toa=2208.879000, slot_timeout =2 , slot_offset = -1, nb_error= 10, nb_r=15 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=80 , toa=2222.141000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=51, perc.=0.098039
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=357 , toa=2229.527000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=73, perc.=0.027397
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227612860, mes id = 3, TS=439 , toa=2231.704000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=24, perc.=0.416667
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1159, toa=2250.908000, slot_timeout =1 , slot_offset = -1, nb_error= 11, nb_r=19 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227612860, mes id = 3, TS=1512 , toa=2260.322000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=25, perc.=0.440000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1518 , toa=2260.479000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=80, perc.=0.037500
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1573, toa=2261.955000, slot_timeout =3 , slot_offset = -1, nb_error= 12, nb_r=20 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=425 , toa=2291.329000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=34, perc.=0.117647
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=435 , toa=2291.610000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=47, perc.=0.127660
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=700 , toa=2298.673000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=78, perc.=0.051282
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=835 , toa=2302.269000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=48, perc.=0.145833
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1361, toa=2316.295000, slot_timeout =7 , slot_offset = -1, nb_error= 13, nb_r=23 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1875 , toa=2330.005000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=77, perc.=0.025974
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1921 , toa=2331.224000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=51, perc.=0.156863
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==17, toa=2340.451000, slot_timeout =2 , slot_offset = -1, nb_error= 14, nb_r=25 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=63 , toa=2341.686000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=49, perc.=0.183673
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==460, toa=2352.270000, slot_timeout =5 , slot_offset = -1, nb_error= 15, nb_r=27 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1437 , toa=2378.322000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=28, perc.=0.214286
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=2186 , toa=2398.289000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=29, perc.=0.241379
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1139 , toa=2430.383000, slot_increment = -1, keep_flag = -1, nb_error= 16, nb_r=37, perc.=0.432432
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=398 , toa=2470.613000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=47, perc.=0.212766
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1147 , toa=2490.594000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=48, perc.=0.229167
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1387 , toa=2496.985000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=25, perc.=0.280000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=259 , toa=2526.913000, slot_increment = -1, keep_flag = -1, nb_error= 17, nb_r=44, perc.=0.386364
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1581 , toa=2562.158000, slot_increment = -1, keep_flag = -1, nb_error= 18, nb_r=50, perc.=0.360000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=16 , toa=2580.434000, slot_increment = -1, keep_flag = -1, nb_error= 19, nb_r=52, perc.=0.365385
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=635 , toa=2596.940000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=24, perc.=0.291667
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1548 , toa=2621.279000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=47, perc.=0.234043
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1826 , toa=2688.700000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=74, perc.=0.040541
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=67 , toa=2701.791000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=44, perc.=0.250000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=390 , toa=2710.406000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=33, perc.=0.121212
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=475 , toa=2772.670000, slot_increment = -1, keep_flag = -1, nb_error= 18, nb_r=77, perc.=0.233766
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=929 , toa=2784.777000, slot_increment = -1, keep_flag = -1, nb_error= 19, nb_r=78, perc.=0.243590
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1199 , toa=2791.981000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=47, perc.=0.255319
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1523 , toa=2800.621000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=83, perc.=0.048193
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=336 , toa=2828.960000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=83, perc.=0.048193
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=412 , toa=2830.978000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=46, perc.=0.282609
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=932 , toa=2844.855000, slot_increment = -1, keep_flag = -1, nb_error= 19, nb_r=84, perc.=0.226190
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=226263000, mes id = 3, TS=1026 , toa=2847.373000, slot_increment = 5318, keep_flag = 0, nb_error= 1, nb_r=4, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1155 , toa=2850.804000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=32, perc.=0.156250
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1373 , toa=2856.612000, slot_increment = -1, keep_flag = -1, nb_error= 20, nb_r=87, perc.=0.229885
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1905 , toa=2870.804000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=33, perc.=0.181818
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1820 , toa=2928.531000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=74, perc.=0.054054
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==2180, toa=2938.137000, slot_timeout =3 , slot_offset = -1, nb_error= 5, nb_r=14 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1573 , toa=2981.953000, slot_increment = -1, keep_flag = -1, nb_error= 19, nb_r=104, perc.=0.182692
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=77 , toa=3002.053000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=52, perc.=0.230769
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=819 , toa=3021.847000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=54, perc.=0.240741
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=226263000, mes id = 3, TS=1039 , toa=3027.716000, slot_increment = 5269, keep_flag = 0, nb_error= 2, nb_r=4, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1571 , toa=3041.893000, slot_increment = -1, keep_flag = -1, nb_error= 17, nb_r=111, perc.=0.153153
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1495 , toa=3159.873000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=86, perc.=0.046512
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==2023, toa=3173.941000, slot_timeout =-1 , slot_offset = -1, nb_error= 1, nb_r=3 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==298, toa=3187.944000, slot_timeout =-1 , slot_offset = -1, nb_error= 2, nb_r=5 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=226263000, mes id = 3, TS=1034 , toa=3207.576000, slot_increment = 5310, keep_flag = 0, nb_error= 3, nb_r=4, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1348 , toa=3215.946000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=127, perc.=0.102362
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1815 , toa=3288.399000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=130, perc.=0.092308
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1882 , toa=3290.182000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=78, perc.=0.038462
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==2039, toa=3294.373000, slot_timeout =-1 , slot_offset = -1, nb_error= 3, nb_r=7 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1911 , toa=3350.963000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=33, perc.=0.121212
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==1027, toa=3387.381000, slot_timeout =2 , slot_offset = -1, nb_error= 4, nb_r=9 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=2038 , toa=3414.351000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=142, perc.=0.084507
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==678, toa=3438.080000, slot_timeout =3 , slot_offset = -1, nb_error= 5, nb_r=10 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1494 , toa=3459.838000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=85, perc.=0.047059
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=2215 , toa=3479.063000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=78, perc.=0.051282
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=2228 , toa=3539.421000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=77, perc.=0.064935
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1441, toa=3638.426000, slot_timeout =5 , slot_offset = -1, nb_error= 1, nb_r=2 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1468 , toa=3639.140000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=73, perc.=0.068493
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1655 , toa=3644.145000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=132, perc.=0.075758
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1769, toa=3647.174000, slot_timeout =2 , slot_offset = -1, nb_error= 2, nb_r=3 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==284, toa=3667.568000, slot_timeout =3 , slot_offset = -1, nb_error= 3, nb_r=4 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=391 , toa=3670.420000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=34, perc.=0.117647
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1096 , toa=3689.219000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=71, perc.=0.084507
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1646 , toa=3703.897000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=130, perc.=0.069231
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==632, toa=3796.854000, slot_timeout =0 , slot_offset = 2294, nb_error= 4, nb_r=7 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==2125, toa=3836.661000, slot_timeout =1 , slot_offset = -1, nb_error= 5, nb_r=9 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==269, toa=3907.171000, slot_timeout =3 , slot_offset = -1, nb_error= 6, nb_r=12 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1112 , toa=3929.649000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=70, perc.=0.085714
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==2132, toa=3956.860000, slot_timeout =5 , slot_offset = -1, nb_error= 7, nb_r=14 
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==57, toa=3961.514000, slot_timeout =5 , slot_offset = -1, nb_error= 1, nb_r=6 
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==834, toa=3982.246000, slot_timeout =2 , slot_offset = -1, nb_error= 2, nb_r=7 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1816, toa=4008.427000, slot_timeout =4 , slot_offset = -1, nb_error= 8, nb_r=16 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228709000, mes id = 3, TS=590 , toa=4095.738000, slot_increment = 5306, keep_flag = 0, nb_error= 1, nb_r=3, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=718 , toa=4099.142000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=71, perc.=0.028169
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1196 , toa=4111.899000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=33, perc.=0.090909
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=300 , toa=4148.004000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=25, perc.=0.360000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=342 , toa=4149.113000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=72, perc.=0.083333
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==1201, toa=4172.020000, slot_timeout =1 , slot_offset = -1, nb_error= 3, nb_r=11 
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==427, toa=4211.386000, slot_timeout =6 , slot_offset = -1, nb_error= 4, nb_r=12 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1493 , toa=4239.819000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=71, perc.=0.042254
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=241755000, mes id = 3, TS=1595 , toa=4242.521000, slot_increment = 5236, keep_flag = 0, nb_error= 1, nb_r=3, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=1610 , toa=4242.927000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=126, perc.=0.031746
+Alert3 : TS was not reserved by the ship mmsi=228333700, mes id = 1, TS==1908, toa=4250.875000, slot_timeout =4 , slot_offset = -1, nb_error= 5, nb_r=14 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227592820, mes id = 3, TS=704 , toa=4278.779000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=114, perc.=0.035088
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1925 , toa=4311.339000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=33, perc.=0.090909
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1780 , toa=4367.467000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=28, perc.=0.357143
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=654 , toa=4397.446000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=29, perc.=0.379310
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=718 , toa=4399.154000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=70, perc.=0.042857
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1473 , toa=4419.278000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=76, perc.=0.065789
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=787 , toa=4460.986000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=23, perc.=0.260870
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1434 , toa=4478.232000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=30, perc.=0.400000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=2243 , toa=4499.814000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=74, perc.=0.054054
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=80 , toa=4502.136000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=25, perc.=0.280000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1575 , toa=4541.998000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=26, perc.=0.307692
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1130 , toa=4590.130000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=76, perc.=0.052632
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1164 , toa=4591.037000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=26, perc.=0.346154
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1518 , toa=4600.486000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=72, perc.=0.069444
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1905 , toa=4610.795000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=34, perc.=0.088235
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1906 , toa=4670.833000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=26, perc.=0.384615
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=8 , toa=4680.205000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=71, perc.=0.070423
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=328 , toa=4688.749000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=72, perc.=0.083333
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=430 , toa=4691.468000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=27, perc.=0.407407
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1007 , toa=4706.847000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=24, perc.=0.333333
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1462 , toa=4718.992000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=74, perc.=0.094595
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=717 , toa=4759.115000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=70, perc.=0.085714
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1416 , toa=4777.760000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=23, perc.=0.391304
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=241755000, mes id = 3, TS=1417 , toa=4777.775000, slot_increment = 5484, keep_flag = 0, nb_error= 2, nb_r=5, 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=1092 , toa=4889.119000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=71, perc.=0.098592
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1427, toa=4898.058000, slot_timeout =6 , slot_offset = -1, nb_error= 7, nb_r=18 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1800 , toa=4907.995000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=19, perc.=0.421053
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=713 , toa=4939.015000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=70, perc.=0.114286
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1152 , toa=4950.725000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=34, perc.=0.117647
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==2177, toa=5038.052000, slot_timeout =0 , slot_offset = 2194, nb_error= 9, nb_r=13 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==627, toa=5056.716000, slot_timeout =0 , slot_offset = 2278, nb_error= 1, nb_r=7 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1941 , toa=5091.759000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=29, perc.=0.310345
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=453 , toa=5112.082000, slot_increment = -1, keep_flag = -1, nb_error= 8, nb_r=27, perc.=0.296296
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=785 , toa=5120.935000, slot_increment = -1, keep_flag = -1, nb_error= 9, nb_r=28, perc.=0.321429
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=95 , toa=5162.533000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=28, perc.=0.357143
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==637, toa=5176.986000, slot_timeout =5 , slot_offset = -1, nb_error= 9, nb_r=13 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==655, toa=5237.457000, slot_timeout =3 , slot_offset = -1, nb_error= 2, nb_r=12 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1064, toa=5248.375000, slot_timeout =5 , slot_offset = -1, nb_error= 9, nb_r=15 
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==1754, toa=5266.776000, slot_timeout =4 , slot_offset = -1, nb_error= 3, nb_r=13 
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==1790, toa=5267.729000, slot_timeout =1 , slot_offset = -1, nb_error= 10, nb_r=16 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1947 , toa=5271.912000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=32, perc.=0.093750
+Alert3 : TS was not reserved by the ship mmsi=227297000, mes id = 1, TS==320, toa=5288.534000, slot_timeout =2 , slot_offset = -1, nb_error= 10, nb_r=16 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=436 , toa=5291.625000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=30, perc.=0.133333
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1394 , toa=5317.171000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=19, perc.=0.578947
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=1516 , toa=5320.426000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=81, perc.=0.049383
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1926 , toa=5331.356000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=32, perc.=0.343750
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1185 , toa=5371.595000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=32, perc.=0.343750
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==2194, toa=5398.512000, slot_timeout =3 , slot_offset = -1, nb_error= 4, nb_r=15 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=79 , toa=5402.107000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=32, perc.=0.312500
+Alert3 : TS was not reserved by the ship mmsi=399999999, mes id = 1, TS==1005, toa=5426.806000, slot_timeout =3 , slot_offset = -1, nb_error= 5, nb_r=17 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=818 , toa=5481.811000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=35, perc.=0.285714
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1522 , toa=5500.580000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=37, perc.=0.297297
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=317 , toa=5528.447000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=22, perc.=0.272727
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1154 , toa=5550.767000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=30, perc.=0.133333
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1811 , toa=5568.298000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=29, perc.=0.379310
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1193 , toa=5671.805000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=44, perc.=0.227273
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1903 , toa=5690.752000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=31, perc.=0.161290
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=2178 , toa=5698.076000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=28, perc.=0.357143
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==766, toa=5720.432000, slot_timeout =4 , slot_offset = -1, nb_error= 1, nb_r=2 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1000, toa=5726.665000, slot_timeout =0 , slot_offset = 2260, nb_error= 2, nb_r=3 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1435 , toa=5738.270000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=30, perc.=0.366667
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1806 , toa=5748.152000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=31, perc.=0.387097
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==325, toa=5768.661000, slot_timeout =0 , slot_offset = 2247, nb_error= 3, nb_r=4 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=1382 , toa=5796.845000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=32, perc.=0.218750
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1436, toa=5798.286000, slot_timeout =3 , slot_offset = -1, nb_error= 4, nb_r=6 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==1869, toa=5809.839000, slot_timeout =2 , slot_offset = -1, nb_error= 5, nb_r=7 
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==2097, toa=5815.923000, slot_timeout =4 , slot_offset = -1, nb_error= 6, nb_r=8 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=2175 , toa=5817.993000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=32, perc.=0.343750
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==527, toa=5834.055000, slot_timeout =3 , slot_offset = -1, nb_error= 7, nb_r=10 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=1151 , toa=5850.695000, slot_increment = 494, keep_flag = 0, nb_error= 8, nb_r=29, perc.=0.275862
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=1526 , toa=5860.689000, slot_increment = 516, keep_flag = 0, nb_error= 9, nb_r=31, perc.=0.290323
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=1764 , toa=5867.032000, slot_increment = -1, keep_flag = -1, nb_error= 10, nb_r=33, perc.=0.303030
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=662 , toa=5897.655000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=34, perc.=0.323529
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1945 , toa=5931.872000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=32, perc.=0.156250
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=331 , toa=5948.820000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=82, perc.=0.024390
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=1050 , toa=5967.993000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=36, perc.=0.305556
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=1430 , toa=5978.138000, slot_increment = -1, keep_flag = -1, nb_error= 11, nb_r=34, perc.=0.323529
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=2166 , toa=5997.764000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=38, perc.=0.315789
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=284 , toa=6007.573000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=37, perc.=0.351351
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227297000, mes id = 3, TS=678 , toa=6018.084000, slot_increment = -1, keep_flag = -1, nb_error= 12, nb_r=34, perc.=0.352941
+Alert3 : TS was not reserved by the ship mmsi=227592820, mes id = 1, TS==759, toa=6020.232000, slot_timeout =4 , slot_offset = -1, nb_error= 8, nb_r=15 
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=747 , toa=6079.920000, slot_increment = -1, keep_flag = -1, nb_error= 1, nb_r=77, perc.=0.012987
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=149 , toa=6123.977000, slot_increment = 0, keep_flag = 0, nb_error= 12, nb_r=39, perc.=0.307692
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=651 , toa=6137.355000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=40, perc.=0.325000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1209 , toa=6152.235000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=56, perc.=0.125000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=1652 , toa=6224.053000, slot_increment = 259, keep_flag = 0, nb_error= 14, nb_r=40, perc.=0.350000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=452 , toa=6252.053000, slot_increment = -1, keep_flag = -1, nb_error= 6, nb_r=51, perc.=0.117647
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=1933 , toa=6291.543000, slot_increment = -1, keep_flag = -1, nb_error= 7, nb_r=53, perc.=0.132075
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=297 , toa=6307.919000, slot_increment = -1, keep_flag = -1, nb_error= 13, nb_r=37, perc.=0.351351
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=451 , toa=6312.018000, slot_increment = -1, keep_flag = -1, nb_error= 4, nb_r=21, perc.=0.190476
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=399999999, mes id = 3, TS=1060 , toa=6328.265000, slot_increment = -1, keep_flag = -1, nb_error= 14, nb_r=38, perc.=0.368421
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227801800, mes id = 3, TS=2193 , toa=6358.471000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=80, perc.=0.025000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=227635210, mes id = 3, TS=1192 , toa=6391.784000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=21, perc.=0.238095
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=382 , toa=6430.178000, slot_increment = -1, keep_flag = -1, nb_error= 2, nb_r=74, perc.=0.027027
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=235068193, mes id = 3, TS=710 , toa=6438.934000, slot_increment = -1, keep_flag = -1, nb_error= 3, nb_r=75, perc.=0.040000
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228333700, mes id = 3, TS=39 , toa=6481.036000, slot_increment = -1, keep_flag = -1, nb_error= 5, nb_r=43, perc.=0.116279
+Alert3 : TS was not reserved by the ship (in moored or at anchor) mmsi=228709000, mes id = 3, TS=535 , toa=6614.259000, slot_increment = 5360, keep_flag = 0, nb_error= 1, nb_r=4, 

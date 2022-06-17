@@ -2,10 +2,6 @@ function Algorithm_out=recording_new_boat(Algorithm_in,fid4)
 % extraction of the data contained in the message
 [toa,mmsi,id,status_nav,keep_flag,repeat_indicator,slot_timeout,slot_increment,slot_offset,lat,lon,sog,cog,channel]=data_extraction(Algorithm_in);
 
-% Initialisation of the list NTS structure short
-% ListNTSshort=struct('mmsi',-2.*ones(1,2250),'TS',-2.*ones(1,2250),'id',-2.*ones(1,2250),'slot_timeout',-2.*ones(1,2250));
-% Initialisation of the list NTS structure long
-% ListNTSlong=struct('mmsi',-2.*ones(1,2250*7),'TS',-2.*ones(1,2250*7),'id',-2.*ones(1,2250*7),'slot_timeout',-2.*ones(1,2250*7));
 % We extract the structure containing the list of boats
 Struct_list_boat=Algorithm_in.Struct_list_boat;
 TS=Algorithm_in.TS;
