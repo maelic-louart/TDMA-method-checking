@@ -14,6 +14,32 @@ toa_last=Algorithm_in.Data.toa(indice_last);
 % Synchronisation of the toa to the minute UTC
 Algorithm_in.toa_recal_pres=synch_tps_frame(toa,Algorithm_in.dec);
 
+% Update ship list. We remove ship if they do not send messages from more
+% than six minutes. 
+Struct_list_boat=Algorithm_in.Struct_list_boat;
+nb_boat=Struct_list_boat.nb_boat;
+new_idx_new_boat=1;
+new_nb_boat=nb_boat;
+list_mmsi=[];
+list_boat=Struct_list_boat.list_boat;
+for i=1:nb_boat
+    boat=Struct_list_boat.list_boat(i);
+    toa_last_boat=boat.toa_last;
+    delta_t=toa-toa_last_boat;
+    if(delta_t<370)
+        list_boat(new_idx_new_boat)=boat;
+        list_mmsi(new_idx_new_boat)=boat.mmsi;
+        new_idx_new_boat=new_idx_new_boat+1;
+    else
+        new_nb_boat=new_nb_boat-1;
+    end
+end
+Struct_list_boat.nb_boat=new_nb_boat;
+Struct_list_boat.idx_new_boat=new_idx_new_boat;
+Struct_list_boat.list_mmsi=list_mmsi;
+Struct_list_boat.list_boat=list_boat;
+Algorithm_in.Struct_list_boat=Struct_list_boat;
+
 % Test to know if we do not received messages during several frames
 if (abs(toa_last-toa)>60)
     nb_frame=fix(abs(toa_last-toa)/60);

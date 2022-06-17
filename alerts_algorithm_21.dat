@@ -1,4 +1,3 @@
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=1080.341000, sog_mes=0.000000, toa=1718.413000, id=3, nb_error= 1, nb_r=1 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=20.141000, sog_mes=0.300000, toa=1739.992000, id=1, nb_error= 1, nb_r=4 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=60.000000, sog_mes=0.200000, toa=1799.992000, id=1, nb_error= 2, nb_r=5 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=19.921000, sog_mes=0.200000, toa=1819.913000, id=1, nb_error= 3, nb_r=6 
@@ -10,7 +9,6 @@ Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=22899
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=19.812000, sog_mes=12.200000, toa=1962.007000, id=1, nb_error= 2, nb_r=4 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=60.031000, sog_mes=11.300000, toa=2022.038000, id=1, nb_error= 3, nb_r=5 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=20.422000, sog_mes=11.000000, toa=2052.148000, id=1, nb_error= 4, nb_r=7 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.625000, sog_mes=0.000000, toa=2078.038000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=79.578000, sog_mes=9.700000, toa=2131.726000, id=1, nb_error= 5, nb_r=8 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=59.999000, sog_mes=8.500000, toa=2191.725000, id=1, nb_error= 6, nb_r=9 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=38.813000, sog_mes=7.900000, toa=2230.538000, id=1, nb_error= 7, nb_r=10 
@@ -18,102 +16,66 @@ Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=20577
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=41.094000, sog_mes=6.900000, toa=2331.631000, id=1, nb_error= 9, nb_r=14 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=18.907000, sog_mes=6.700000, toa=2350.538000, id=1, nb_error= 10, nb_r=15 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=19.656000, sog_mes=6.400000, toa=2381.959000, id=1, nb_error= 11, nb_r=17 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=470.312000, sog_mes=0.200000, toa=2420.647000, id=1, nb_error= 8, nb_r=13 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=39.891000, sog_mes=0.500000, toa=2460.538000, id=1, nb_error= 9, nb_r=14 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=109.750000, sog_mes=5.700000, toa=2491.709000, id=1, nb_error= 12, nb_r=18 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=20.766000, sog_mes=5.800000, toa=2551.928000, id=1, nb_error= 13, nb_r=22, perc.=0.590909 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=28.453000, sog_mes=5.700000, toa=2600.616000, id=1, nb_error= 14, nb_r=24, perc.=0.583333 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=50.531000, sog_mes=5.700000, toa=2651.147000, id=1, nb_error= 15, nb_r=24, perc.=0.625000 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=30.812000, sog_mes=5.800000, toa=2681.959000, id=1, nb_error= 16, nb_r=25, perc.=0.640000 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=230.500000, sog_mes=1.300000, toa=2700.538000, id=1, nb_error= 5, nb_r=8 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=129.592000, sog_mes=1.200000, toa=2839.630000, id=1, nb_error= 4, nb_r=6 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=130.547000, sog_mes=0.800000, toa=2980.412000, id=1, nb_error= 5, nb_r=8 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=20.453000, sog_mes=0.900000, toa=3000.865000, id=1, nb_error= 6, nb_r=9 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=18.956000, sog_mes=1.200000, toa=3019.821000, id=1, nb_error= 7, nb_r=10 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228999999, delta t=111.137000, sog_mes=2.000000, toa=3130.958000, id=1, nb_error= 8, nb_r=11 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=1081.264000, sog_mes=0.000000, toa=3159.302000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=578.624000, sog_mes=1.900000, toa=3260.583000, id=1, nb_error= 6, nb_r=11 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=151.124000, sog_mes=1.200000, toa=3411.707000, id=1, nb_error= 6, nb_r=10 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=60.000000, sog_mes=1.600000, toa=3871.301000, id=1, nb_error= 3, nb_r=17 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=719.092000, sog_mes=0.000000, toa=3878.394000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=39.781000, sog_mes=1.600000, toa=3931.301000, id=1, nb_error= 4, nb_r=20, perc.=0.200000 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=200.218000, sog_mes=0.100000, toa=4131.519000, id=1, nb_error= 5, nb_r=21, perc.=0.238095 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=90.640000, sog_mes=0.300000, toa=4222.159000, id=1, nb_error= 5, nb_r=21, perc.=0.238095 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.047000, sog_mes=0.000000, toa=4238.441000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=19.937000, sog_mes=0.100000, toa=4251.081000, id=1, nb_error= 6, nb_r=23, perc.=0.260870 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=19.640000, sog_mes=0.200000, toa=4281.159000, id=1, nb_error= 7, nb_r=25, perc.=0.280000 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=20.188000, sog_mes=0.200000, toa=4301.347000, id=1, nb_error= 8, nb_r=26, perc.=0.307692 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=230.500000, sog_mes=1.300000, toa=2700.538000, id=1, nb_error= 1, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=129.592000, sog_mes=1.200000, toa=2839.630000, id=1, nb_error= 2, nb_r=6 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=130.547000, sog_mes=0.800000, toa=2980.412000, id=1, nb_error= 3, nb_r=8 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=20.453000, sog_mes=0.900000, toa=3000.865000, id=1, nb_error= 4, nb_r=9 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=18.956000, sog_mes=1.200000, toa=3019.821000, id=1, nb_error= 5, nb_r=10 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228999999, delta t=111.137000, sog_mes=2.000000, toa=3130.958000, id=1, nb_error= 6, nb_r=11 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=60.000000, sog_mes=1.600000, toa=3871.301000, id=1, nb_error= 1, nb_r=17 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=39.781000, sog_mes=1.600000, toa=3931.301000, id=1, nb_error= 2, nb_r=20, perc.=0.100000 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=200.218000, sog_mes=0.100000, toa=4131.519000, id=1, nb_error= 3, nb_r=21, perc.=0.142857 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=90.640000, sog_mes=0.300000, toa=4222.159000, id=1, nb_error= 4, nb_r=21, perc.=0.190476 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=19.937000, sog_mes=0.100000, toa=4251.081000, id=1, nb_error= 5, nb_r=23, perc.=0.217391 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=19.640000, sog_mes=0.200000, toa=4281.159000, id=1, nb_error= 6, nb_r=25, perc.=0.240000 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=205772000, delta t=20.188000, sog_mes=0.200000, toa=4301.347000, id=1, nb_error= 7, nb_r=26, perc.=0.269231 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=205772000, delta t=19.937000, sog_mes=0.000000, toa=4431.081000, id=1, nb_error= 8, nb_r=24, perc.=0.333333 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.547000, sog_mes=0.000000, toa=4959.502000, id=3, nb_error= 2, nb_r=4 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=1828.919000, sog_mes=4.600000, toa=4959.877000, id=1, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=49.484000, sog_mes=4.500000, toa=5019.877000, id=1, nb_error= 2, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=3239.994000, sog_mes=0.000000, toa=5154.626000, id=3, nb_error= 1, nb_r=1 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.547000, sog_mes=0.000000, toa=4959.502000, id=3, nb_error= 1, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228999999, delta t=49.484000, sog_mes=4.500000, toa=5019.877000, id=1, nb_error= 1, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.656000, sog_mes=0.000000, toa=5319.158000, id=3, nb_error= 2, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=358.921000, sog_mes=0.000000, toa=5678.079000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228999999, delta t=740.420000, sog_mes=5.000000, toa=5770.797000, id=1, nb_error= 3, nb_r=5 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=719.484000, sog_mes=0.000000, toa=5874.110000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=360.484000, sog_mes=0.000000, toa=6234.594000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=1080.030000, sog_mes=0.000000, toa=6758.109000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.671000, sog_mes=0.000000, toa=7117.780000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=1080.326000, sog_mes=0.000000, toa=7314.920000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=2, mmsi=226263000, delta t=899.952000, sog_mes=0.000000, toa=7370.623000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=2, mmsi=226263000, delta t=360.234000, sog_mes=0.000000, toa=7730.857000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=719.968000, sog_mes=0.000000, toa=7837.748000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.973000, sog_mes=0.000000, toa=8199.721000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=2, mmsi=226263000, delta t=539.833000, sog_mes=0.000000, toa=8451.393000, id=3, nb_error= 2, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.594000, sog_mes=0.000000, toa=8559.315000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=358.687000, sog_mes=0.000000, toa=8918.002000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=1080.311000, sog_mes=0.000000, toa=9710.814000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=1080.342000, sog_mes=0.000000, toa=9998.344000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.014000, sog_mes=0.000000, toa=10069.828000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.703000, sog_mes=0.000000, toa=10359.047000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=360.422000, sog_mes=0.000000, toa=10430.250000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.234000, sog_mes=0.000000, toa=10718.281000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=360.906000, sog_mes=0.000000, toa=10791.156000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.140000, sog_mes=0.000000, toa=11079.421000, id=3, nb_error= 3, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.594000, sog_mes=0.000000, toa=8559.315000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=358.687000, sog_mes=0.000000, toa=8918.002000, id=3, nb_error= 2, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=360.422000, sog_mes=0.000000, toa=10430.250000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.234000, sog_mes=0.000000, toa=10718.281000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=360.906000, sog_mes=0.000000, toa=10791.156000, id=3, nb_error= 2, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.140000, sog_mes=0.000000, toa=11079.421000, id=3, nb_error= 2, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=358.671000, sog_mes=0.000000, toa=11149.827000, id=3, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.890000, sog_mes=0.000000, toa=11439.311000, id=3, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=360.797000, sog_mes=0.000000, toa=11510.624000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=4318.574000, sog_mes=0.000000, toa=11633.494000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=719.354000, sog_mes=0.000000, toa=12158.665000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=721.061000, sog_mes=0.000000, toa=12354.555000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.140000, sog_mes=0.000000, toa=12517.805000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=1080.093000, sog_mes=0.000000, toa=12951.164000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=719.702000, sog_mes=0.000000, toa=13074.257000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=720.874000, sog_mes=0.000000, toa=13238.679000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.249000, sog_mes=0.000000, toa=13310.413000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.890000, sog_mes=0.000000, toa=13598.569000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=2559.789000, sog_mes=0.000000, toa=13891.147000, id=1, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.859000, sog_mes=0.000000, toa=13958.428000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=538.733000, sog_mes=0.000000, toa=14030.240000, id=3, nb_error= 2, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.608000, sog_mes=0.000000, toa=14319.036000, id=3, nb_error= 3, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.859000, sog_mes=0.000000, toa=13958.428000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.608000, sog_mes=0.000000, toa=14319.036000, id=3, nb_error= 2, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.704000, sog_mes=0.000000, toa=14678.740000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=719.468000, sog_mes=0.000000, toa=14749.708000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.000000, sog_mes=17.600000, toa=14831.707000, id=1, nb_error= 1, nb_r=7 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=23.531000, sog_mes=18.200001, toa=14885.004000, id=1, nb_error= 2, nb_r=13 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.297000, sog_mes=17.900000, toa=14939.707000, id=1, nb_error= 3, nb_r=21 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=18.203000, sog_mes=18.000000, toa=14957.910000, id=1, nb_error= 4, nb_r=22 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=23.547000, sog_mes=18.200001, toa=14981.457000, id=1, nb_error= 5, nb_r=23 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.140000, sog_mes=18.100000, toa=15035.363000, id=1, nb_error= 6, nb_r=31, perc.=0.193548 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.156000, sog_mes=18.000000, toa=14783.707000, id=1, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=17.766000, sog_mes=17.799999, toa=14801.473000, id=1, nb_error= 2, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.515000, sog_mes=18.100000, toa=14819.707000, id=1, nb_error= 3, nb_r=6 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.000000, sog_mes=17.600000, toa=14831.707000, id=1, nb_error= 4, nb_r=7 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=23.531000, sog_mes=18.200001, toa=14885.004000, id=1, nb_error= 5, nb_r=13 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.297000, sog_mes=17.900000, toa=14939.707000, id=1, nb_error= 6, nb_r=21 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=18.203000, sog_mes=18.000000, toa=14957.910000, id=1, nb_error= 7, nb_r=22 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=23.547000, sog_mes=18.200001, toa=14981.457000, id=1, nb_error= 8, nb_r=23 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.140000, sog_mes=18.100000, toa=15035.363000, id=1, nb_error= 9, nb_r=31, perc.=0.290323 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.045000, sog_mes=0.000000, toa=15037.785000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.516000, sog_mes=17.799999, toa=15083.223000, id=1, nb_error= 7, nb_r=38, perc.=0.184211 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.047000, sog_mes=17.799999, toa=15107.410000, id=1, nb_error= 8, nb_r=41, perc.=0.195122 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=361.546000, sog_mes=0.000000, toa=15111.254000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.344000, sog_mes=18.000000, toa=15215.567000, id=1, nb_error= 9, nb_r=58, perc.=0.155172 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.328000, sog_mes=18.200001, toa=15227.895000, id=1, nb_error= 10, nb_r=59, perc.=0.169492 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=2159.013000, sog_mes=0.000000, toa=15233.270000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.985000, sog_mes=17.900000, toa=15371.613000, id=1, nb_error= 11, nb_r=82, perc.=0.134146 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.000000, sog_mes=17.700001, toa=15431.613000, id=1, nb_error= 12, nb_r=91, perc.=0.131868 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.780000, sog_mes=0.000000, toa=15471.034000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=18.422000, sog_mes=12.900000, toa=15534.019000, id=1, nb_error= 13, nb_r=105, perc.=0.123810 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=17.797000, sog_mes=14.300000, toa=15575.597000, id=1, nb_error= 14, nb_r=110, perc.=0.127273 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.532000, sog_mes=14.700000, toa=15594.019000, id=1, nb_error= 15, nb_r=112, perc.=0.133929 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.516000, sog_mes=17.799999, toa=15083.223000, id=1, nb_error= 10, nb_r=38, perc.=0.263158 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.047000, sog_mes=17.799999, toa=15107.410000, id=1, nb_error= 11, nb_r=41, perc.=0.268293 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.344000, sog_mes=18.000000, toa=15215.567000, id=1, nb_error= 12, nb_r=58, perc.=0.206897 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.328000, sog_mes=18.200001, toa=15227.895000, id=1, nb_error= 13, nb_r=59, perc.=0.220339 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.985000, sog_mes=17.900000, toa=15371.613000, id=1, nb_error= 14, nb_r=82, perc.=0.170732 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.000000, sog_mes=17.700001, toa=15431.613000, id=1, nb_error= 15, nb_r=91, perc.=0.164835 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.780000, sog_mes=0.000000, toa=15471.034000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=18.422000, sog_mes=12.900000, toa=15534.019000, id=1, nb_error= 16, nb_r=105, perc.=0.152381 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=17.797000, sog_mes=14.300000, toa=15575.597000, id=1, nb_error= 17, nb_r=110, perc.=0.154545 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.532000, sog_mes=14.700000, toa=15594.019000, id=1, nb_error= 18, nb_r=112, perc.=0.160714 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=12.843000, sog_mes=14.200000, toa=15671.987000, id=1, nb_error= 16, nb_r=118, perc.=0.135593 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=17.797000, sog_mes=14.400000, toa=15695.597000, id=1, nb_error= 17, nb_r=120, perc.=0.141667 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.734000, sog_mes=0.000000, toa=15759.503000, id=3, nb_error= 2, nb_r=4 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.438000, sog_mes=0.000000, toa=15830.472000, id=3, nb_error= 3, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.438000, sog_mes=0.000000, toa=15830.472000, id=3, nb_error= 2, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.047000, sog_mes=22.900000, toa=15931.613000, id=1, nb_error= 12, nb_r=168, perc.=0.071429 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=721.201000, sog_mes=0.000000, toa=15954.471000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.000000, sog_mes=22.900000, toa=15971.408000, id=1, nb_error= 11, nb_r=179, perc.=0.061453 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.921000, sog_mes=23.000000, toa=16011.533000, id=1, nb_error= 12, nb_r=198, perc.=0.060606 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.875000, sog_mes=23.000000, toa=16017.565000, id=1, nb_error= 13, nb_r=200, perc.=0.065000 
@@ -150,65 +112,54 @@ Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=22799
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=360.686000, sog_mes=0.000000, toa=16550.782000, id=3, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227998200, delta t=29.499000, sog_mes=9.400000, toa=16582.922000, id=1, nb_error= 4, nb_r=19, perc.=0.210526 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227998200, delta t=170.609000, sog_mes=9.300000, toa=16753.531000, id=1, nb_error= 5, nb_r=20, perc.=0.250000 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=1078.215000, sog_mes=0.000000, toa=16837.718000, id=3, nb_error= 1, nb_r=1 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227998200, delta t=129.938000, sog_mes=6.600000, toa=16883.469000, id=1, nb_error= 6, nb_r=21, perc.=0.285714 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=3021.040000, sog_mes=0.000000, toa=16912.187000, id=1, nb_error= 1, nb_r=1 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227998200, delta t=120.005000, sog_mes=4.900000, toa=17003.474000, id=1, nb_error= 7, nb_r=22, perc.=0.318182 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=98.438000, sog_mes=0.000000, toa=17010.625000, id=1, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227998200, delta t=28.512000, sog_mes=4.900000, toa=17031.986000, id=1, nb_error= 8, nb_r=23, perc.=0.347826 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227998200, delta t=21.020000, sog_mes=5.100000, toa=17112.997000, id=1, nb_error= 9, nb_r=27, perc.=0.333333 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.842000, sog_mes=0.000000, toa=17198.560000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=720.879000, sog_mes=0.000000, toa=17271.661000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=300.922000, sog_mes=0.000000, toa=17311.547000, id=1, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=19.677000, sog_mes=0.000000, toa=17331.224000, id=1, nb_error= 4, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=300.922000, sog_mes=0.000000, toa=17311.547000, id=1, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=19.677000, sog_mes=0.000000, toa=17331.224000, id=1, nb_error= 2, nb_r=4 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227998200, delta t=31.251000, sog_mes=5.300000, toa=17363.550000, id=1, nb_error= 9, nb_r=23, perc.=0.391304 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227998200, delta t=28.748000, sog_mes=5.300000, toa=17392.298000, id=1, nb_error= 10, nb_r=24, perc.=0.416667 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=1439.374000, sog_mes=0.000000, toa=17393.845000, id=3, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=100.319000, sog_mes=0.000000, toa=17431.543000, id=1, nb_error= 5, nb_r=5 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=100.319000, sog_mes=0.000000, toa=17431.543000, id=1, nb_error= 3, nb_r=5 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227998200, delta t=70.979000, sog_mes=5.200000, toa=17463.277000, id=1, nb_error= 8, nb_r=20, perc.=0.400000 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=119.999000, sog_mes=0.000000, toa=17551.542000, id=1, nb_error= 6, nb_r=6 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.541000, sog_mes=0.000000, toa=17558.101000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=358.605000, sog_mes=0.000000, toa=17630.266000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=1333.929000, sog_mes=25.500000, toa=17659.548000, id=1, nb_error= 1, nb_r=1 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=23.831000, sog_mes=25.500000, toa=17683.379000, id=1, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=20.223000, sog_mes=25.500000, toa=17703.602000, id=1, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.123000, sog_mes=25.700001, toa=17707.725000, id=1, nb_error= 4, nb_r=4 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.294000, sog_mes=25.799999, toa=17713.706000, id=1, nb_error= 5, nb_r=6 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=7.699000, sog_mes=25.700001, toa=17721.405000, id=1, nb_error= 6, nb_r=7 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=10.089000, sog_mes=25.700001, toa=17731.494000, id=1, nb_error= 7, nb_r=8 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=5.748000, sog_mes=25.900000, toa=17743.379000, id=1, nb_error= 8, nb_r=12 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=360.494000, sog_mes=0.000000, toa=17754.339000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=10.291000, sog_mes=25.799999, toa=17755.683000, id=1, nb_error= 9, nb_r=14 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=9.963000, sog_mes=25.900000, toa=17765.646000, id=1, nb_error= 10, nb_r=15 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=8.060000, sog_mes=25.900000, toa=17773.706000, id=1, nb_error= 11, nb_r=16 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.809000, sog_mes=25.799999, toa=17777.515000, id=1, nb_error= 12, nb_r=17 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=5.981000, sog_mes=25.799999, toa=17783.496000, id=1, nb_error= 13, nb_r=18 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.796000, sog_mes=25.799999, toa=17791.493000, id=1, nb_error= 14, nb_r=21 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.920000, sog_mes=25.700001, toa=17799.629000, id=1, nb_error= 15, nb_r=24 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.748000, sog_mes=25.600000, toa=17803.377000, id=1, nb_error= 16, nb_r=25 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.202000, sog_mes=25.700001, toa=17809.593000, id=1, nb_error= 17, nb_r=27 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.108000, sog_mes=25.500000, toa=17815.683000, id=1, nb_error= 18, nb_r=29 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.858000, sog_mes=25.600000, toa=17819.541000, id=1, nb_error= 19, nb_r=30 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=5.981000, sog_mes=25.700001, toa=17833.704000, id=1, nb_error= 20, nb_r=35 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.887000, sog_mes=25.700001, toa=17841.403000, id=1, nb_error= 21, nb_r=38 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.748000, sog_mes=25.600000, toa=17863.376000, id=1, nb_error= 22, nb_r=48 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=319.204000, sog_mes=0.000000, toa=17870.746000, id=1, nb_error= 6, nb_r=6 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.169000, sog_mes=25.600000, toa=17883.599000, id=1, nb_error= 23, nb_r=57 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.123000, sog_mes=25.700001, toa=17887.722000, id=1, nb_error= 24, nb_r=58 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=119.999000, sog_mes=0.000000, toa=17551.542000, id=1, nb_error= 4, nb_r=6 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.541000, sog_mes=0.000000, toa=17558.101000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=20.223000, sog_mes=25.500000, toa=17703.602000, id=1, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.123000, sog_mes=25.700001, toa=17707.725000, id=1, nb_error= 2, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.294000, sog_mes=25.799999, toa=17713.706000, id=1, nb_error= 3, nb_r=6 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=7.699000, sog_mes=25.700001, toa=17721.405000, id=1, nb_error= 4, nb_r=7 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=10.089000, sog_mes=25.700001, toa=17731.494000, id=1, nb_error= 5, nb_r=8 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=5.748000, sog_mes=25.900000, toa=17743.379000, id=1, nb_error= 6, nb_r=12 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=10.291000, sog_mes=25.799999, toa=17755.683000, id=1, nb_error= 7, nb_r=14 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=9.963000, sog_mes=25.900000, toa=17765.646000, id=1, nb_error= 8, nb_r=15 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=8.060000, sog_mes=25.900000, toa=17773.706000, id=1, nb_error= 9, nb_r=16 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.809000, sog_mes=25.799999, toa=17777.515000, id=1, nb_error= 10, nb_r=17 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=5.981000, sog_mes=25.799999, toa=17783.496000, id=1, nb_error= 11, nb_r=18 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.796000, sog_mes=25.799999, toa=17791.493000, id=1, nb_error= 12, nb_r=21 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.920000, sog_mes=25.700001, toa=17799.629000, id=1, nb_error= 13, nb_r=24 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.748000, sog_mes=25.600000, toa=17803.377000, id=1, nb_error= 14, nb_r=25 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.202000, sog_mes=25.700001, toa=17809.593000, id=1, nb_error= 15, nb_r=27 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.108000, sog_mes=25.500000, toa=17815.683000, id=1, nb_error= 16, nb_r=29 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.858000, sog_mes=25.600000, toa=17819.541000, id=1, nb_error= 17, nb_r=30 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=5.981000, sog_mes=25.700001, toa=17833.704000, id=1, nb_error= 18, nb_r=35 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.887000, sog_mes=25.700001, toa=17841.403000, id=1, nb_error= 19, nb_r=38 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.748000, sog_mes=25.600000, toa=17863.376000, id=1, nb_error= 20, nb_r=48 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=319.204000, sog_mes=0.000000, toa=17870.746000, id=1, nb_error= 5, nb_r=6 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.169000, sog_mes=25.600000, toa=17883.599000, id=1, nb_error= 21, nb_r=57 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.123000, sog_mes=25.700001, toa=17887.722000, id=1, nb_error= 22, nb_r=58 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=20.772000, sog_mes=0.000000, toa=17891.518000, id=1, nb_error= 6, nb_r=6 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.889000, sog_mes=25.799999, toa=17909.430000, id=1, nb_error= 25, nb_r=68 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.371000, sog_mes=0.000000, toa=17918.472000, id=3, nb_error= 3, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.889000, sog_mes=25.799999, toa=17909.430000, id=1, nb_error= 23, nb_r=68 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.371000, sog_mes=0.000000, toa=17918.472000, id=3, nb_error= 2, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=39.229000, sog_mes=0.000000, toa=17930.747000, id=1, nb_error= 7, nb_r=7 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=7.792000, sog_mes=26.000000, toa=17949.407000, id=1, nb_error= 26, nb_r=85 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=6.247000, sog_mes=26.000000, toa=17973.676000, id=1, nb_error= 27, nb_r=95, perc.=0.284211 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.655000, sog_mes=26.000000, toa=18011.376000, id=1, nb_error= 28, nb_r=113, perc.=0.247788 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.967000, sog_mes=25.900000, toa=18023.509000, id=1, nb_error= 29, nb_r=118, perc.=0.245763 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.734000, sog_mes=25.900000, toa=18071.375000, id=1, nb_error= 30, nb_r=141, perc.=0.212766 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.872000, sog_mes=25.200001, toa=18109.572000, id=1, nb_error= 31, nb_r=159, perc.=0.194969 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=360.169000, sog_mes=0.000000, toa=18114.508000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.137000, sog_mes=23.900000, toa=18115.678000, id=1, nb_error= 32, nb_r=161, perc.=0.198758 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=7.792000, sog_mes=26.000000, toa=17949.407000, id=1, nb_error= 24, nb_r=85 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=6.247000, sog_mes=26.000000, toa=17973.676000, id=1, nb_error= 25, nb_r=95, perc.=0.263158 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.655000, sog_mes=26.000000, toa=18011.376000, id=1, nb_error= 26, nb_r=113, perc.=0.230088 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.967000, sog_mes=25.900000, toa=18023.509000, id=1, nb_error= 27, nb_r=118, perc.=0.228814 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.734000, sog_mes=25.900000, toa=18071.375000, id=1, nb_error= 28, nb_r=141, perc.=0.198582 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.872000, sog_mes=25.200001, toa=18109.572000, id=1, nb_error= 29, nb_r=159, perc.=0.182390 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=360.169000, sog_mes=0.000000, toa=18114.508000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.137000, sog_mes=23.900000, toa=18115.678000, id=1, nb_error= 30, nb_r=161, perc.=0.186335 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=239.996000, sog_mes=0.000000, toa=18170.743000, id=1, nb_error= 8, nb_r=8 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227998200, delta t=738.450000, sog_mes=0.300000, toa=18201.727000, id=1, nb_error= 4, nb_r=4 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.276000, sog_mes=0.000000, toa=18277.748000, id=3, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.415000, sog_mes=0.000000, toa=18639.163000, id=3, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.903000, sog_mes=26.200001, toa=18705.407000, id=1, nb_error= 14, nb_r=386, perc.=0.036269 
@@ -216,16 +167,13 @@ Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=22881
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.060000, sog_mes=26.299999, toa=18755.489000, id=1, nb_error= 13, nb_r=382, perc.=0.034031 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.795000, sog_mes=26.299999, toa=18797.483000, id=1, nb_error= 11, nb_r=375, perc.=0.029333 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.700000, sog_mes=26.400000, toa=18805.369000, id=1, nb_error= 12, nb_r=378, perc.=0.031746 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=641.404000, sog_mes=0.000000, toa=18812.147000, id=1, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.983000, sog_mes=26.400000, toa=18825.484000, id=1, nb_error= 13, nb_r=387, perc.=0.033592 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=720.253000, sog_mes=0.000000, toa=18834.761000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.060000, sog_mes=26.500000, toa=18841.506000, id=1, nb_error= 12, nb_r=369, perc.=0.032520 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=6.044000, sog_mes=26.500000, toa=18853.609000, id=1, nb_error= 13, nb_r=373, perc.=0.034853 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.873000, sog_mes=26.400000, toa=18857.482000, id=1, nb_error= 14, nb_r=374, perc.=0.037433 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.094000, sog_mes=26.299999, toa=18869.475000, id=1, nb_error= 15, nb_r=379, perc.=0.039578 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.249000, sog_mes=26.200001, toa=18873.724000, id=1, nb_error= 16, nb_r=380, perc.=0.042105 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.873000, sog_mes=26.100000, toa=18887.402000, id=1, nb_error= 17, nb_r=386, perc.=0.044041 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=2, mmsi=226263000, delta t=898.560000, sog_mes=0.000000, toa=18889.885000, id=3, nb_error= 1, nb_r=1 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.981000, sog_mes=26.200001, toa=18907.563000, id=1, nb_error= 16, nb_r=367, perc.=0.043597 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=6.044000, sog_mes=26.200001, toa=18913.607000, id=1, nb_error= 17, nb_r=368, perc.=0.046196 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=5.749000, sog_mes=26.299999, toa=18925.368000, id=1, nb_error= 18, nb_r=372, perc.=0.048387 
@@ -241,7 +189,6 @@ Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=22881
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=358.900000, sog_mes=0.000000, toa=18998.063000, id=3, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.859000, sog_mes=26.400000, toa=18999.500000, id=1, nb_error= 25, nb_r=361, perc.=0.069252 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.027000, sog_mes=26.200001, toa=19007.400000, id=1, nb_error= 26, nb_r=364, perc.=0.071429 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=199.205000, sog_mes=0.000000, toa=19011.352000, id=1, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.760000, sog_mes=26.299999, toa=19017.459000, id=1, nb_error= 27, nb_r=368, perc.=0.073370 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=7.922000, sog_mes=26.200001, toa=19027.563000, id=1, nb_error= 28, nb_r=344, perc.=0.081395 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=6.047000, sog_mes=26.100000, toa=19033.610000, id=1, nb_error= 29, nb_r=345, perc.=0.084058 
@@ -249,105 +196,95 @@ Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=22881
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=9.718000, sog_mes=26.200001, toa=19067.391000, id=1, nb_error= 31, nb_r=347, perc.=0.089337 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=20.172000, sog_mes=26.000000, toa=19087.563000, id=1, nb_error= 32, nb_r=320, perc.=0.100000 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=14.031000, sog_mes=26.100000, toa=19103.641000, id=1, nb_error= 33, nb_r=322, perc.=0.102484 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=358.693000, sog_mes=0.000000, toa=19193.454000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.266000, sog_mes=0.000000, toa=19358.329000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.640000, sog_mes=0.000000, toa=19429.766000, id=3, nb_error= 2, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=359.781000, sog_mes=0.000000, toa=19553.235000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=126.312000, sog_mes=17.600000, toa=19710.031000, id=1, nb_error= 2, nb_r=5 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=35.156000, sog_mes=17.799999, toa=19745.187000, id=1, nb_error= 3, nb_r=6 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=24.844000, sog_mes=17.799999, toa=19770.031000, id=1, nb_error= 4, nb_r=7 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.640000, sog_mes=0.000000, toa=19429.766000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=359.781000, sog_mes=0.000000, toa=19553.235000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=126.312000, sog_mes=17.600000, toa=19710.031000, id=1, nb_error= 1, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=35.156000, sog_mes=17.799999, toa=19745.187000, id=1, nb_error= 2, nb_r=5 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=24.844000, sog_mes=17.799999, toa=19770.031000, id=1, nb_error= 3, nb_r=6 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=361.500000, sog_mes=0.000000, toa=19791.266000, id=3, nb_error= 2, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=58.953000, sog_mes=17.799999, toa=19828.984000, id=1, nb_error= 5, nb_r=8 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=30.907000, sog_mes=17.600000, toa=19859.891000, id=1, nb_error= 6, nb_r=9 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=58.953000, sog_mes=17.799999, toa=19828.984000, id=1, nb_error= 4, nb_r=7 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=30.907000, sog_mes=17.600000, toa=19859.891000, id=1, nb_error= 5, nb_r=8 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=29.407000, sog_mes=17.600000, toa=19895.016000, id=1, nb_error= 6, nb_r=10 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=361.218000, sog_mes=0.000000, toa=19914.453000, id=3, nb_error= 3, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=361.218000, sog_mes=0.000000, toa=19914.453000, id=3, nb_error= 2, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=36.484000, sog_mes=17.799999, toa=19931.500000, id=1, nb_error= 7, nb_r=11 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=12.078000, sog_mes=17.799999, toa=19948.984000, id=1, nb_error= 8, nb_r=13 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=12.360000, sog_mes=17.700001, toa=19961.344000, id=1, nb_error= 9, nb_r=14 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=18.547000, sog_mes=17.799999, toa=19979.891000, id=1, nb_error= 10, nb_r=15 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=17.015000, sog_mes=17.799999, toa=19996.906000, id=1, nb_error= 11, nb_r=16 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=898.062000, sog_mes=25.900000, toa=20001.703000, id=1, nb_error= 1, nb_r=1 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=12.360000, sog_mes=17.799999, toa=20021.344000, id=1, nb_error= 12, nb_r=19 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=10.125000, sog_mes=26.100000, toa=20031.516000, id=1, nb_error= 2, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=10.125000, sog_mes=26.100000, toa=20031.516000, id=1, nb_error= 1, nb_r=4 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=12.390000, sog_mes=17.600000, toa=20033.734000, id=1, nb_error= 13, nb_r=20 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=9.922000, sog_mes=26.100000, toa=20043.469000, id=1, nb_error= 3, nb_r=6 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=9.922000, sog_mes=26.100000, toa=20043.469000, id=1, nb_error= 2, nb_r=6 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=17.766000, sog_mes=17.799999, toa=20051.500000, id=1, nb_error= 14, nb_r=21 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.110000, sog_mes=26.000000, toa=20053.500000, id=1, nb_error= 4, nb_r=10 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=8.016000, sog_mes=25.900000, toa=20063.625000, id=1, nb_error= 5, nb_r=12 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.797000, sog_mes=26.000000, toa=20067.422000, id=1, nb_error= 6, nb_r=13 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.110000, sog_mes=26.000000, toa=20053.500000, id=1, nb_error= 3, nb_r=10 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=8.016000, sog_mes=25.900000, toa=20063.625000, id=1, nb_error= 4, nb_r=12 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.797000, sog_mes=26.000000, toa=20067.422000, id=1, nb_error= 5, nb_r=13 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=17.484000, sog_mes=17.799999, toa=20068.984000, id=1, nb_error= 15, nb_r=22 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.860000, sog_mes=26.000000, toa=20073.469000, id=1, nb_error= 7, nb_r=15 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.109000, sog_mes=26.000000, toa=20079.578000, id=1, nb_error= 8, nb_r=16 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.046000, sog_mes=25.900000, toa=20089.437000, id=1, nb_error= 9, nb_r=20 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.172000, sog_mes=25.799999, toa=20095.609000, id=1, nb_error= 10, nb_r=21 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.860000, sog_mes=26.000000, toa=20073.469000, id=1, nb_error= 6, nb_r=15 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.109000, sog_mes=26.000000, toa=20079.578000, id=1, nb_error= 7, nb_r=16 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.046000, sog_mes=25.900000, toa=20089.437000, id=1, nb_error= 8, nb_r=20 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.172000, sog_mes=25.799999, toa=20095.609000, id=1, nb_error= 9, nb_r=21 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=30.907000, sog_mes=17.900000, toa=20099.891000, id=1, nb_error= 16, nb_r=23 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.031000, sog_mes=26.000000, toa=20105.578000, id=1, nb_error= 11, nb_r=25 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.812000, sog_mes=26.000000, toa=20109.390000, id=1, nb_error= 12, nb_r=26 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.031000, sog_mes=26.000000, toa=20105.578000, id=1, nb_error= 10, nb_r=25 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.812000, sog_mes=26.000000, toa=20109.390000, id=1, nb_error= 11, nb_r=26 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.343000, sog_mes=17.799999, toa=20111.234000, id=1, nb_error= 17, nb_r=24 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.219000, sog_mes=25.900000, toa=20115.609000, id=1, nb_error= 13, nb_r=27 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.063000, sog_mes=25.900000, toa=20135.500000, id=1, nb_error= 14, nb_r=35 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.922000, sog_mes=26.100000, toa=20141.391000, id=1, nb_error= 15, nb_r=37 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.000000, sog_mes=26.000000, toa=20145.391000, id=1, nb_error= 16, nb_r=38 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.219000, sog_mes=25.900000, toa=20115.609000, id=1, nb_error= 12, nb_r=27 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=6.063000, sog_mes=25.900000, toa=20135.500000, id=1, nb_error= 13, nb_r=35 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.922000, sog_mes=26.100000, toa=20141.391000, id=1, nb_error= 14, nb_r=37 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.000000, sog_mes=26.000000, toa=20145.391000, id=1, nb_error= 15, nb_r=38 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.218000, sog_mes=0.000000, toa=20150.484000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.985000, sog_mes=25.900000, toa=20153.422000, id=1, nb_error= 17, nb_r=41 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=3.985000, sog_mes=25.900000, toa=20153.422000, id=1, nb_error= 16, nb_r=41 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=36.828000, sog_mes=17.500000, toa=20153.734000, id=1, nb_error= 18, nb_r=26 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=6.219000, sog_mes=26.100000, toa=20165.578000, id=1, nb_error= 18, nb_r=45 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=5.781000, sog_mes=26.000000, toa=20181.390000, id=1, nb_error= 19, nb_r=51 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=6.219000, sog_mes=26.100000, toa=20165.578000, id=1, nb_error= 17, nb_r=45 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=5.781000, sog_mes=26.000000, toa=20181.390000, id=1, nb_error= 18, nb_r=51 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=42.141000, sog_mes=17.799999, toa=20202.031000, id=1, nb_error= 19, nb_r=28 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=12.203000, sog_mes=17.799999, toa=20219.890000, id=1, nb_error= 20, nb_r=30 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=18.156000, sog_mes=17.500000, toa=20255.062000, id=1, nb_error= 21, nb_r=34, perc.=0.617647 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=12.266000, sog_mes=17.600000, toa=20267.328000, id=1, nb_error= 22, nb_r=35, perc.=0.628571 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=11.766000, sog_mes=17.600000, toa=20285.500000, id=1, nb_error= 23, nb_r=37, perc.=0.621622 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=12.234000, sog_mes=17.799999, toa=20303.468000, id=1, nb_error= 24, nb_r=39, perc.=0.615385 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.078000, sog_mes=25.200001, toa=20309.437000, id=1, nb_error= 20, nb_r=114, perc.=0.175439 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.031000, sog_mes=24.299999, toa=20313.468000, id=1, nb_error= 21, nb_r=115, perc.=0.182609 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.078000, sog_mes=25.200001, toa=20309.437000, id=1, nb_error= 19, nb_r=114, perc.=0.166667 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.031000, sog_mes=24.299999, toa=20313.468000, id=1, nb_error= 20, nb_r=115, perc.=0.173913 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.719000, sog_mes=17.600000, toa=20351.234000, id=1, nb_error= 25, nb_r=46, perc.=0.543478 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=12.234000, sog_mes=17.700001, toa=20363.468000, id=1, nb_error= 26, nb_r=47, perc.=0.553191 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.969000, sog_mes=17.600000, toa=20375.437000, id=1, nb_error= 27, nb_r=48, perc.=0.562500 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.891000, sog_mes=17.600000, toa=20387.328000, id=1, nb_error= 28, nb_r=49, perc.=0.571429 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.781000, sog_mes=22.400000, toa=20403.468000, id=1, nb_error= 22, nb_r=159, perc.=0.138365 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.781000, sog_mes=22.400000, toa=20403.468000, id=1, nb_error= 21, nb_r=159, perc.=0.132075 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=11.766000, sog_mes=17.600000, toa=20405.500000, id=1, nb_error= 29, nb_r=49, perc.=0.591837 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.047000, sog_mes=22.200001, toa=20407.515000, id=1, nb_error= 23, nb_r=160, perc.=0.143750 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.937000, sog_mes=22.100000, toa=20423.437000, id=1, nb_error= 24, nb_r=167, perc.=0.143713 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.047000, sog_mes=22.200001, toa=20407.515000, id=1, nb_error= 22, nb_r=160, perc.=0.137500 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.937000, sog_mes=22.100000, toa=20423.437000, id=1, nb_error= 23, nb_r=167, perc.=0.137725 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.843000, sog_mes=17.500000, toa=20423.468000, id=1, nb_error= 30, nb_r=51, perc.=0.588235 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=538.874000, sog_mes=0.000000, toa=20437.921000, id=3, nb_error= 1, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=12.110000, sog_mes=17.500000, toa=20471.625000, id=1, nb_error= 31, nb_r=57, perc.=0.543860 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.141000, sog_mes=22.299999, toa=20471.656000, id=1, nb_error= 25, nb_r=190, perc.=0.131579 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.141000, sog_mes=22.299999, toa=20471.656000, id=1, nb_error= 24, nb_r=190, perc.=0.126316 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=361.094000, sog_mes=0.000000, toa=20511.578000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.203000, sog_mes=22.500000, toa=20519.671000, id=1, nb_error= 26, nb_r=213, perc.=0.122066 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.062000, sog_mes=22.799999, toa=20533.468000, id=1, nb_error= 27, nb_r=219, perc.=0.123288 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.000000, sog_mes=22.500000, toa=20553.468000, id=1, nb_error= 28, nb_r=228, perc.=0.122807 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.265000, sog_mes=22.500000, toa=20559.671000, id=1, nb_error= 29, nb_r=230, perc.=0.126087 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.906000, sog_mes=22.799999, toa=20567.578000, id=1, nb_error= 30, nb_r=233, perc.=0.128755 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.969000, sog_mes=20.600000, toa=20607.625000, id=1, nb_error= 31, nb_r=237, perc.=0.130802 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=719.390000, sog_mes=0.000000, toa=20633.843000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.765000, sog_mes=20.299999, toa=20643.437000, id=1, nb_error= 32, nb_r=242, perc.=0.132231 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.344000, sog_mes=20.600000, toa=20673.468000, id=1, nb_error= 33, nb_r=246, perc.=0.134146 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.188000, sog_mes=19.700001, toa=20709.359000, id=1, nb_error= 34, nb_r=251, perc.=0.135458 
-Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.765000, sog_mes=20.500000, toa=20763.436000, id=1, nb_error= 35, nb_r=258, perc.=0.135659 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.672000, sog_mes=20.500000, toa=20793.780000, id=1, nb_error= 36, nb_r=262, perc.=0.137405 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.156000, sog_mes=0.000000, toa=20798.077000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=29.359000, sog_mes=20.500000, toa=20829.358000, id=1, nb_error= 37, nb_r=264, perc.=0.140152 
-Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=11.750000, sog_mes=18.900000, toa=20841.108000, id=1, nb_error= 38, nb_r=265, perc.=0.143396 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.203000, sog_mes=22.500000, toa=20519.671000, id=1, nb_error= 25, nb_r=213, perc.=0.117371 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.062000, sog_mes=22.799999, toa=20533.468000, id=1, nb_error= 26, nb_r=219, perc.=0.118721 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=4.000000, sog_mes=22.500000, toa=20553.468000, id=1, nb_error= 27, nb_r=228, perc.=0.118421 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=4.265000, sog_mes=22.500000, toa=20559.671000, id=1, nb_error= 28, nb_r=230, perc.=0.121739 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=3.906000, sog_mes=22.799999, toa=20567.578000, id=1, nb_error= 29, nb_r=233, perc.=0.124464 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.969000, sog_mes=20.600000, toa=20607.625000, id=1, nb_error= 30, nb_r=237, perc.=0.126582 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.765000, sog_mes=20.299999, toa=20643.437000, id=1, nb_error= 31, nb_r=242, perc.=0.128099 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.344000, sog_mes=20.600000, toa=20673.468000, id=1, nb_error= 32, nb_r=246, perc.=0.130081 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.188000, sog_mes=19.700001, toa=20709.359000, id=1, nb_error= 33, nb_r=251, perc.=0.131474 
+Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=228817700, delta t=11.765000, sog_mes=20.500000, toa=20763.436000, id=1, nb_error= 34, nb_r=258, perc.=0.131783 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=12.672000, sog_mes=20.500000, toa=20793.780000, id=1, nb_error= 35, nb_r=262, perc.=0.133588 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=29.359000, sog_mes=20.500000, toa=20829.358000, id=1, nb_error= 36, nb_r=264, perc.=0.136364 
+Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=11.750000, sog_mes=18.900000, toa=20841.108000, id=1, nb_error= 37, nb_r=265, perc.=0.139623 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=1.812000, sog_mes=9.400000, toa=20867.483000, id=1, nb_error= 22, nb_r=111, perc.=0.198198 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.108000, sog_mes=0.000000, toa=20870.686000, id=3, nb_error= 3, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=228817700, delta t=72.672000, sog_mes=16.799999, toa=20913.780000, id=1, nb_error= 37, nb_r=261, perc.=0.141762 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=361.109000, sog_mes=0.000000, toa=20994.952000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=19.390000, sog_mes=4.300000, toa=21005.061000, id=1, nb_error= 15, nb_r=116, perc.=0.129310 
 Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.813000, sog_mes=0.000000, toa=21230.499000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=359.046000, sog_mes=0.000000, toa=21353.998000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.030000, sog_mes=0.000000, toa=21517.982000, id=3, nb_error= 2, nb_r=4 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=359.046000, sog_mes=0.000000, toa=21353.998000, id=3, nb_error= 1, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=359.030000, sog_mes=0.000000, toa=21517.982000, id=3, nb_error= 1, nb_r=4 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=19.766000, sog_mes=0.000000, toa=21555.295000, id=1, nb_error= 3, nb_r=99, perc.=0.030303 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=719.890000, sog_mes=0.000000, toa=21950.389000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=11.265000, sog_mes=17.299999, toa=22176.950000, id=1, nb_error= 2, nb_r=114, perc.=0.017544 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=11.766000, sog_mes=17.400000, toa=22213.638000, id=1, nb_error= 3, nb_r=113, perc.=0.026549 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=721.046000, sog_mes=0.000000, toa=22239.028000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=11.249000, sog_mes=17.299999, toa=22296.934000, id=1, nb_error= 4, nb_r=120, perc.=0.033333 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.920000, sog_mes=0.000000, toa=22310.309000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.469000, sog_mes=17.400000, toa=22327.341000, id=1, nb_error= 5, nb_r=118, perc.=0.042373 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=18.750000, sog_mes=17.200001, toa=22363.716000, id=1, nb_error= 6, nb_r=122, perc.=0.049180 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=11.813000, sog_mes=17.200001, toa=22404.966000, id=1, nb_error= 7, nb_r=122, perc.=0.057377 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=1081.046000, sog_mes=0.000000, toa=22435.044000, id=3, nb_error= 1, nb_r=1 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=19.031000, sog_mes=17.200001, toa=22435.872000, id=1, nb_error= 8, nb_r=125, perc.=0.064000 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=17.281000, sog_mes=17.299999, toa=22453.153000, id=1, nb_error= 8, nb_r=121, perc.=0.066116 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.937000, sog_mes=17.299999, toa=22471.653000, id=1, nb_error= 9, nb_r=123, perc.=0.073171 
@@ -356,19 +293,13 @@ Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=22758
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=29.094000, sog_mes=15.600000, toa=22524.966000, id=1, nb_error= 12, nb_r=120, perc.=0.100000 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=42.108000, sog_mes=16.500000, toa=22567.074000, id=1, nb_error= 13, nb_r=115, perc.=0.113043 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=18.671000, sog_mes=16.400000, toa=22591.824000, id=1, nb_error= 14, nb_r=117, perc.=0.119658 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=358.578000, sog_mes=0.000000, toa=22597.606000, id=3, nb_error= 2, nb_r=2 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=11.891000, sog_mes=16.200001, toa=22603.715000, id=1, nb_error= 15, nb_r=118, perc.=0.127119 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=42.984000, sog_mes=16.799999, toa=22651.824000, id=1, nb_error= 16, nb_r=114, perc.=0.140351 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.781000, sog_mes=0.000000, toa=22670.090000, id=3, nb_error= 3, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.781000, sog_mes=0.000000, toa=22670.090000, id=3, nb_error= 1, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=23.110000, sog_mes=17.000000, toa=22674.934000, id=1, nb_error= 17, nb_r=115, perc.=0.147826 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=36.890000, sog_mes=17.299999, toa=22711.824000, id=1, nb_error= 18, nb_r=109, perc.=0.165138 
 Alert21: RI is a multiple of the RI specified by standard, channel=2, mmsi=227580520, delta t=89.594000, sog_mes=17.200001, toa=22801.418000, id=1, nb_error= 19, nb_r=86, perc.=0.220930 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=113.516000, sog_mes=17.000000, toa=22914.934000, id=1, nb_error= 20, nb_r=77, perc.=0.259740 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.734000, sog_mes=0.000000, toa=22959.340000, id=3, nb_error= 3, nb_r=3 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=361.734000, sog_mes=0.000000, toa=22959.340000, id=3, nb_error= 1, nb_r=3 
 Alert21: RI is a multiple of the RI specified by standard, channel=1, mmsi=227580520, delta t=72.906000, sog_mes=16.900000, toa=22987.840000, id=1, nb_error= 21, nb_r=58, perc.=0.362069 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=720.171000, sog_mes=0.000000, toa=23390.261000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=540.073000, sog_mes=0.000000, toa=23677.991000, id=3, nb_error= 2, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.730000, sog_mes=0.000000, toa=23749.991000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228381900, delta t=360.932000, sog_mes=0.000000, toa=24038.923000, id=3, nb_error= 2, nb_r=2 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.742000, sog_mes=0.000000, toa=24109.733000, id=3, nb_error= 3, nb_r=3 
-Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=228709000, delta t=1799.608000, sog_mes=0.000000, toa=24234.652000, id=3, nb_error= 1, nb_r=1 
+Alert21: RI is a multiple of the RI specified by standard (ship at anchor), channel=1, mmsi=226263000, delta t=359.742000, sog_mes=0.000000, toa=24109.733000, id=3, nb_error= 1, nb_r=3 

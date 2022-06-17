@@ -31,9 +31,9 @@ else
     
     %     measurement noise and model noise
     R_x=Algorithm_in.Kalman.R_x;
-    sigma_w_lon=Algorithm_in.Kalman.sigma_w_x;
+    sigma_w_x=Algorithm_in.Kalman.sigma_w_x;
     R_y=Algorithm_in.Kalman.R_y;
-    sigma_w_lat=Algorithm_in.Kalman.sigma_w_y;
+    sigma_w_y=Algorithm_in.Kalman.sigma_w_y;
     
     %     The last values estimated by the Kalman filter is considered
     delta_t=toa_mes-toa_last;
@@ -48,13 +48,13 @@ else
 
 %     K_p longitude
     X_lon_pred=A*X_lon_est;
-    Q_lon=[delta_t^4/4 , delta_t^3/2 ;delta_t^3/2,delta_t^2]*sigma_w_lon^2;
+    Q_lon=[delta_t^4/4 , delta_t^3/2 ;delta_t^3/2,delta_t^2]*sigma_w_x^2;
     P_lon_pred=A*P_lon_est*transpose(A)+Q_lon;
     S_lon=(R_x+C*P_lon_pred*transpose(C));
     
 %     K_p latitude
     X_lat_pred=A*X_lat_est;
-    Q_lat=[delta_t^4/4 , delta_t^3/2 ;delta_t^3/2,delta_t^2]*sigma_w_lat^2;
+    Q_lat=[delta_t^4/4 , delta_t^3/2 ;delta_t^3/2,delta_t^2]*sigma_w_y^2;
     P_lat_pred=A*P_lat_est*transpose(A)+Q_lat;
     S_lat=(R_y+C*P_lat_pred*transpose(C));
     
@@ -107,12 +107,12 @@ else
         S_sog=sigma_sog_est^2+0.3^2;
     else
         variance_sog_lat=(Rn^2*X_lat_est(2)*pi/180)^2*(P_lat_est(2,2)*(pi/180)^2);
-        variance_sog_lon=(Re^2*(cos(X_lat_est(1)*pi/180))^2*X_lon_est(2)*pi/180)^2*P_lon_est(2,2)*(pi/180)^2;
+        variance_sog_lon=((Re*cos(X_lat_est(1)*pi/180))^2*(X_lon_est(2)*pi/180))^2*P_lon_est(2,2)*(pi/180)^2;
         sigma_sog_est=sqrt(variance_sog_lat+variance_sog_lon)*1.9438/sog_c;
         %     std of velocity measured is 0.3 kt
         S_sog=sigma_sog_est^2+0.3^2;
     end
-    threshold_sog=5*sqrt(S_sog);
+    threshold_sog=4*sqrt(S_sog);
     inno_sog=sog_mes-sog_c;
     if abs(inno_sog)>threshold_sog
         disp(["Alert1: The difference between sog estimated and measured is to high toa=",toa_mes," TS=",TS_pres,"mmsi =",mmsi,'sog_c',sog_c,'sog_mes= ',sog_mes,'inno_sog= ',inno_sog,'threshold= ',3*sigma_sog_est+1]);
@@ -162,7 +162,6 @@ else
     
     % we increment the number of message received by the boat
     boat.list_nb_r(idx_mov_av)=list_nb_r(idx_mov_av)+1;
-    
     
     Algorithm_out.Struct_list_boat.list_boat(Algorithm_out.idx_boat)=boat;
     Algorithm_out.list_delta_t(j)=delta_t;
