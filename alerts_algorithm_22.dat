@@ -1,1 +1,1000 @@
-Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=241755000, delta t=174.780000, sog_mes=0.000000, toa=1176.837000, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227148000, delta t=17.855927, sog_mes=0.000000, toa=39.719269, id=1, nb_error= 1, nb_r=3 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227148000, delta t=3.061951, sog_mes=0.000000, toa=81.841919, id=1, nb_error= 2, nb_r=7 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227148000, delta t=17.877960, sog_mes=0.000000, toa=99.719879, id=1, nb_error= 3, nb_r=8 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227148000, delta t=17.879730, sog_mes=0.000000, toa=159.718292, id=1, nb_error= 4, nb_r=13 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227148000, delta t=17.863800, sog_mes=0.000000, toa=219.702118, id=1, nb_error= 5, nb_r=18 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227148000, delta t=17.859406, sog_mes=0.000000, toa=279.701691, id=1, nb_error= 6, nb_r=23, perc.=0.260870 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=187.199799, sog_mes=0.100000, toa=447.499573, id=3, nb_error= 1, nb_r=3 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227148000, delta t=16.879547, sog_mes=0.000000, toa=478.901459, id=1, nb_error= 7, nb_r=39, perc.=0.179487 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=185.598633, sog_mes=0.000000, toa=603.940857, id=3, nb_error= 1, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228041600, delta t=185.075043, sog_mes=0.000000, toa=631.340240, id=3, nb_error= 1, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228041600, delta t=174.200409, sog_mes=0.000000, toa=805.540649, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=185.123596, sog_mes=0.100000, toa=807.783722, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=173.275391, sog_mes=0.000000, toa=981.059113, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=185.043732, sog_mes=0.000000, toa=1033.144165, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=5.226654, sog_mes=0.100000, toa=1417.725311, id=3, nb_error= 1, nb_r=88 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=6.317352, sog_mes=0.000000, toa=1424.042664, id=1, nb_error= 2, nb_r=89 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=230138350, delta t=174.223480, sog_mes=0.100000, toa=1511.321899, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=163.680481, sog_mes=0.000000, toa=1597.539490, id=3, nb_error= 3, nb_r=73 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=230138350, delta t=186.159515, sog_mes=0.200000, toa=1697.481415, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=11.060333, sog_mes=1.100000, toa=1920.818268, id=3, nb_error= 4, nb_r=49 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=10.079346, sog_mes=0.800000, toa=1930.897614, id=3, nb_error= 5, nb_r=44 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=8.620178, sog_mes=1.200000, toa=1939.517792, id=1, nb_error= 6, nb_r=45 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=172.102966, sog_mes=0.000000, toa=2935.961761, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=186.795990, sog_mes=0.000000, toa=3122.757751, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=6.018738, sog_mes=0.300000, toa=3150.437592, id=1, nb_error= 1, nb_r=88 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228353900, delta t=174.079346, sog_mes=0.000000, toa=3273.098419, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=164.202911, sog_mes=0.000000, toa=3324.942047, id=3, nb_error= 2, nb_r=72 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=185.679596, sog_mes=0.000000, toa=3484.457703, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=174.600128, sog_mes=0.000000, toa=3659.057831, id=3, nb_error= 4, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=185.099365, sog_mes=0.000000, toa=3734.277161, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=9.646545, sog_mes=1.600000, toa=3752.404938, id=3, nb_error= 3, nb_r=38 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=9.112457, sog_mes=0.600000, toa=3761.517395, id=1, nb_error= 4, nb_r=39 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=185.781982, sog_mes=0.000000, toa=3844.839813, id=3, nb_error= 4, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=174.280792, sog_mes=0.000000, toa=4019.120605, id=3, nb_error= 4, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=230138350, delta t=351.378662, sog_mes=0.200000, toa=4031.018005, id=3, nb_error= 1, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=350.561340, sog_mes=0.000000, toa=4084.838501, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=171.815735, sog_mes=0.100000, toa=4218.357849, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=230138350, delta t=188.559692, sog_mes=0.200000, toa=4219.577698, id=3, nb_error= 2, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=187.640656, sog_mes=0.100000, toa=4405.998505, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=185.142181, sog_mes=0.000000, toa=4923.738861, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=174.861542, sog_mes=0.100000, toa=4940.618744, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=174.320709, sog_mes=0.000000, toa=5098.059570, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=187.138580, sog_mes=0.000000, toa=5127.757324, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=187.137421, sog_mes=0.000000, toa=5285.196991, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=172.826355, sog_mes=0.100000, toa=5300.583679, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=185.714600, sog_mes=0.100000, toa=5486.298279, id=3, nb_error= 4, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=351.180786, sog_mes=0.000000, toa=5636.377777, id=3, nb_error= 4, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=75.014496, sog_mes=0.000000, toa=5781.916901, id=3, nb_error= 1, nb_r=79 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=186.120331, sog_mes=0.000000, toa=5822.498108, id=3, nb_error= 4, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228381900, delta t=146.979858, sog_mes=0.000000, toa=6410.018311, id=3, nb_error= 1, nb_r=106 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=226263000, delta t=2.560638, sog_mes=3.800000, toa=6548.718262, id=1, nb_error= 1, nb_r=291, perc.=0.003436 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=37.760468, sog_mes=0.000000, toa=7007.777344, id=3, nb_error= 1, nb_r=39 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=226263000, delta t=95.960632, sog_mes=0.400000, toa=7033.438171, id=3, nb_error= 2, nb_r=266 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=140.460602, sog_mes=0.000000, toa=7148.237946, id=3, nb_error= 2, nb_r=31 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=242.919495, sog_mes=0.000000, toa=7391.157440, id=3, nb_error= 3, nb_r=22 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=118.559448, sog_mes=1.300000, toa=7509.716888, id=3, nb_error= 4, nb_r=18 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=11.557617, sog_mes=1.100000, toa=7579.298126, id=3, nb_error= 5, nb_r=20 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228041600, delta t=10.079071, sog_mes=1.500000, toa=8291.777405, id=3, nb_error= 1, nb_r=44 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228041600, delta t=10.420074, sog_mes=1.400000, toa=8302.197479, id=1, nb_error= 2, nb_r=45 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228041600, delta t=10.380798, sog_mes=0.600000, toa=8341.697662, id=3, nb_error= 3, nb_r=49 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228041600, delta t=10.063141, sog_mes=0.400000, toa=8351.760803, id=3, nb_error= 4, nb_r=49 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228041600, delta t=10.441193, sog_mes=0.600000, toa=8362.201996, id=1, nb_error= 5, nb_r=50 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=186.185577, sog_mes=0.000000, toa=8771.284393, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=174.560791, sog_mes=0.000000, toa=9420.699860, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228097800, delta t=8.702850, sog_mes=102.300003, toa=9428.300201, id=1, nb_error= 1, nb_r=85 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=185.635437, sog_mes=0.000000, toa=9448.197815, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=39.656952, sog_mes=0.500000, toa=9454.241852, id=3, nb_error= 1, nb_r=49 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=170.501862, sog_mes=0.100000, toa=9618.699677, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=169.383606, sog_mes=0.000000, toa=9623.625458, id=3, nb_error= 2, nb_r=36 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228097800, delta t=11.477905, sog_mes=102.300003, toa=9629.819153, id=1, nb_error= 2, nb_r=87 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=189.320801, sog_mes=0.100000, toa=9808.020477, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=2.178528, sog_mes=15.300000, toa=9814.637451, id=1, nb_error= 1, nb_r=89, perc.=0.011236 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=3.138214, sog_mes=16.700001, toa=9845.356873, id=1, nb_error= 2, nb_r=96, perc.=0.020833 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228353900, delta t=174.238281, sog_mes=0.000000, toa=9936.578552, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=170.616913, sog_mes=0.100000, toa=9978.637390, id=3, nb_error= 4, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=188.101349, sog_mes=0.100000, toa=10166.738739, id=3, nb_error= 5, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=185.576721, sog_mes=0.000000, toa=10325.197052, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=173.719360, sog_mes=0.100000, toa=10340.458099, id=3, nb_error= 5, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.780731, sog_mes=12.600000, toa=10412.498016, id=1, nb_error= 3, nb_r=131, perc.=0.022901 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.323273, sog_mes=11.700000, toa=10418.821289, id=1, nb_error= 4, nb_r=132, perc.=0.030303 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.976715, sog_mes=10.600000, toa=10424.798004, id=1, nb_error= 5, nb_r=133, perc.=0.037594 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=5.445343, sog_mes=9.900000, toa=10430.243347, id=1, nb_error= 6, nb_r=134, perc.=0.044776 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=6.574493, sog_mes=9.300000, toa=10436.817841, id=1, nb_error= 7, nb_r=135, perc.=0.051852 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.120575, sog_mes=8.500000, toa=10442.938416, id=1, nb_error= 8, nb_r=136, perc.=0.058824 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.539856, sog_mes=7.600000, toa=10448.478271, id=1, nb_error= 9, nb_r=131, perc.=0.068702 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.259705, sog_mes=7.000000, toa=10454.737976, id=1, nb_error= 10, nb_r=132, perc.=0.075758 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.260254, sog_mes=6.700000, toa=10459.998230, id=1, nb_error= 11, nb_r=133, perc.=0.082707 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.718811, sog_mes=6.000000, toa=10466.717041, id=1, nb_error= 12, nb_r=134, perc.=0.089552 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.781189, sog_mes=4.600000, toa=10472.498230, id=1, nb_error= 13, nb_r=135, perc.=0.096296 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.320984, sog_mes=3.300000, toa=10478.819214, id=1, nb_error= 14, nb_r=136, perc.=0.102941 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.978302, sog_mes=2.200000, toa=10484.797516, id=1, nb_error= 15, nb_r=137, perc.=0.109489 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228097800, delta t=11.359650, sog_mes=102.300003, toa=10489.498199, id=1, nb_error= 2, nb_r=89 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=5.445587, sog_mes=1.400000, toa=10490.243103, id=1, nb_error= 16, nb_r=138, perc.=0.115942 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=6.534332, sog_mes=0.700000, toa=10496.777435, id=1, nb_error= 17, nb_r=139, perc.=0.122302 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.160736, sog_mes=0.300000, toa=10502.938171, id=1, nb_error= 18, nb_r=140, perc.=0.128571 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.539673, sog_mes=0.200000, toa=10508.477844, id=1, nb_error= 19, nb_r=135, perc.=0.140741 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.260345, sog_mes=0.200000, toa=10514.738190, id=1, nb_error= 20, nb_r=136, perc.=0.147059 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.258820, sog_mes=0.300000, toa=10519.997009, id=1, nb_error= 21, nb_r=137, perc.=0.153285 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.720367, sog_mes=0.400000, toa=10526.717377, id=1, nb_error= 22, nb_r=138, perc.=0.159420 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=186.719818, sog_mes=0.000000, toa=10527.177917, id=3, nb_error= 5, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.780731, sog_mes=2.300000, toa=10532.498108, id=1, nb_error= 23, nb_r=139, perc.=0.165468 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.320648, sog_mes=3.300000, toa=10538.818756, id=1, nb_error= 24, nb_r=140, perc.=0.171429 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.979065, sog_mes=3.600000, toa=10544.797821, id=1, nb_error= 25, nb_r=141, perc.=0.177305 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=5.445709, sog_mes=3.400000, toa=10550.243530, id=1, nb_error= 26, nb_r=142, perc.=0.183099 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=6.533691, sog_mes=1.900000, toa=10556.777222, id=1, nb_error= 27, nb_r=143, perc.=0.188811 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.161621, sog_mes=1.700000, toa=10562.938843, id=1, nb_error= 28, nb_r=144, perc.=0.194444 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=5.538483, sog_mes=3.700000, toa=10568.477325, id=1, nb_error= 29, nb_r=139, perc.=0.208633 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.260773, sog_mes=5.200000, toa=10574.738098, id=1, nb_error= 30, nb_r=140, perc.=0.214286 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227730220, delta t=4.840363, sog_mes=11.900000, toa=10597.338226, id=1, nb_error= 31, nb_r=144, perc.=0.215278 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=9.323608, sog_mes=102.300003, toa=10619.320221, id=1, nb_error= 2, nb_r=90 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=4.639771, sog_mes=9.200000, toa=10627.578186, id=1, nb_error= 32, nb_r=145, perc.=0.220690 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=8.021393, sog_mes=0.300000, toa=10628.018066, id=3, nb_error= 1, nb_r=85 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227730220, delta t=6.259369, sog_mes=8.300000, toa=10634.737701, id=1, nb_error= 33, nb_r=147, perc.=0.224490 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.002502, sog_mes=19.500000, toa=10677.003632, id=1, nb_error= 1, nb_r=105, perc.=0.009524 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.676544, sog_mes=19.500000, toa=10683.977661, id=1, nb_error= 2, nb_r=107, perc.=0.018692 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=157.600616, sog_mes=0.000000, toa=10807.757904, id=3, nb_error= 2, nb_r=71 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=11.220306, sog_mes=0.800000, toa=10871.938629, id=3, nb_error= 3, nb_r=70 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=9.718994, sog_mes=19.400000, toa=10880.959961, id=1, nb_error= 3, nb_r=121, perc.=0.024793 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.345612, sog_mes=19.500000, toa=10947.563660, id=1, nb_error= 4, nb_r=122, perc.=0.032787 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.780029, sog_mes=19.100000, toa=10953.358185, id=1, nb_error= 5, nb_r=124, perc.=0.040323 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=10.460663, sog_mes=19.299999, toa=10989.757874, id=1, nb_error= 6, nb_r=120, perc.=0.050000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.240356, sog_mes=19.400000, toa=11000.958344, id=1, nb_error= 7, nb_r=123, perc.=0.056911 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.338715, sog_mes=19.700001, toa=11067.563293, id=1, nb_error= 8, nb_r=124, perc.=0.064516 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.445038, sog_mes=19.799999, toa=11115.322815, id=1, nb_error= 9, nb_r=125, perc.=0.072000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.345612, sog_mes=19.799999, toa=11127.562866, id=1, nb_error= 10, nb_r=129, perc.=0.077519 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.665253, sog_mes=19.900000, toa=11139.482666, id=1, nb_error= 11, nb_r=132, perc.=0.083333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.203186, sog_mes=20.100000, toa=11307.421417, id=1, nb_error= 12, nb_r=146, perc.=0.082192 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=9.100952, sog_mes=102.300003, toa=11338.158081, id=1, nb_error= 3, nb_r=114, perc.=0.026316 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.204712, sog_mes=19.900000, toa=11427.422363, id=1, nb_error= 13, nb_r=149, perc.=0.087248 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.205414, sog_mes=20.200001, toa=11487.423279, id=1, nb_error= 14, nb_r=150, perc.=0.093333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.779724, sog_mes=20.299999, toa=11505.358521, id=1, nb_error= 15, nb_r=156, perc.=0.096154 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.187042, sog_mes=20.100000, toa=11523.424652, id=1, nb_error= 16, nb_r=161, perc.=0.099379 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.660004, sog_mes=20.100000, toa=11558.877563, id=1, nb_error= 15, nb_r=160, perc.=0.093750 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.141144, sog_mes=20.500000, toa=11565.358246, id=1, nb_error= 16, nb_r=162, perc.=0.098765 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.656342, sog_mes=19.900000, toa=11618.876648, id=1, nb_error= 17, nb_r=160, perc.=0.106250 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=172.318756, sog_mes=0.000000, toa=11645.676880, id=3, nb_error= 1, nb_r=6 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.599579, sog_mes=20.100000, toa=11661.356964, id=1, nb_error= 18, nb_r=161, perc.=0.111801 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.975830, sog_mes=20.299999, toa=11697.397614, id=1, nb_error= 19, nb_r=168, perc.=0.113095 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228353900, delta t=185.581604, sog_mes=0.100000, toa=11741.539062, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=9.581024, sog_mes=102.300003, toa=11798.098724, id=1, nb_error= 2, nb_r=120, perc.=0.016667 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.759827, sog_mes=20.299999, toa=11967.059998, id=1, nb_error= 14, nb_r=168, perc.=0.083333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=10.702362, sog_mes=20.400000, toa=12027.059174, id=1, nb_error= 12, nb_r=165, perc.=0.072727 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.719971, sog_mes=20.400000, toa=12123.539215, id=1, nb_error= 13, nb_r=170, perc.=0.076471 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=83.676208, sog_mes=0.000000, toa=12174.757233, id=3, nb_error= 1, nb_r=82 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.720276, sog_mes=20.000000, toa=12183.539093, id=1, nb_error= 14, nb_r=167, perc.=0.083832 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.787048, sog_mes=20.200001, toa=12201.143982, id=1, nb_error= 14, nb_r=159, perc.=0.088050 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.577759, sog_mes=20.299999, toa=12225.077057, id=1, nb_error= 15, nb_r=163, perc.=0.092025 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.322144, sog_mes=20.299999, toa=12261.141479, id=1, nb_error= 16, nb_r=166, perc.=0.096386 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.679016, sog_mes=20.500000, toa=12273.618805, id=1, nb_error= 17, nb_r=169, perc.=0.100592 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.799530, sog_mes=20.500000, toa=12279.819336, id=1, nb_error= 18, nb_r=171, perc.=0.105263 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.577942, sog_mes=20.200001, toa=12285.077179, id=1, nb_error= 19, nb_r=173, perc.=0.109827 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.407379, sog_mes=20.400000, toa=12291.425354, id=1, nb_error= 20, nb_r=175, perc.=0.114286 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.178650, sog_mes=20.400000, toa=12309.477509, id=1, nb_error= 20, nb_r=169, perc.=0.118343 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.618286, sog_mes=20.400000, toa=12326.917084, id=1, nb_error= 21, nb_r=174, perc.=0.120690 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.679138, sog_mes=20.500000, toa=12333.618195, id=1, nb_error= 22, nb_r=176, perc.=0.125000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.639008, sog_mes=20.299999, toa=12345.077026, id=1, nb_error= 23, nb_r=179, perc.=0.128492 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=174.078400, sog_mes=0.000000, toa=12367.476593, id=3, nb_error= 2, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.324738, sog_mes=20.600000, toa=12381.143555, id=1, nb_error= 21, nb_r=174, perc.=0.120690 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.622345, sog_mes=20.500000, toa=12386.921112, id=1, nb_error= 22, nb_r=176, perc.=0.125000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.640411, sog_mes=20.600000, toa=12405.078064, id=1, nb_error= 23, nb_r=180, perc.=0.127778 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.968262, sog_mes=20.299999, toa=12411.127960, id=1, nb_error= 24, nb_r=182, perc.=0.131868 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.465179, sog_mes=20.400000, toa=12429.763672, id=1, nb_error= 23, nb_r=170, perc.=0.135294 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.329742, sog_mes=20.299999, toa=12441.148987, id=1, nb_error= 24, nb_r=174, perc.=0.137931 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.319458, sog_mes=20.500000, toa=12447.658173, id=1, nb_error= 25, nb_r=176, perc.=0.142045 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.660156, sog_mes=20.299999, toa=12453.257507, id=1, nb_error= 26, nb_r=178, perc.=0.146067 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.400208, sog_mes=20.200001, toa=12459.418091, id=1, nb_error= 27, nb_r=180, perc.=0.150000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.639832, sog_mes=20.400000, toa=12465.077606, id=1, nb_error= 28, nb_r=182, perc.=0.153846 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.939117, sog_mes=20.299999, toa=12471.097778, id=1, nb_error= 29, nb_r=184, perc.=0.157609 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=9.900604, sog_mes=1.400000, toa=12475.697754, id=3, nb_error= 2, nb_r=58 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.461975, sog_mes=20.200001, toa=12489.760529, id=1, nb_error= 29, nb_r=177, perc.=0.163842 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.439972, sog_mes=20.299999, toa=12549.738281, id=1, nb_error= 28, nb_r=175, perc.=0.160000 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=185.501770, sog_mes=0.000000, toa=12552.978363, id=3, nb_error= 2, nb_r=4 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.321533, sog_mes=20.299999, toa=12561.139130, id=1, nb_error= 29, nb_r=178, perc.=0.162921 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.319458, sog_mes=20.200001, toa=12567.658203, id=1, nb_error= 30, nb_r=180, perc.=0.166667 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.200745, sog_mes=20.500000, toa=12579.218750, id=1, nb_error= 31, nb_r=184, perc.=0.168478 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.639313, sog_mes=20.299999, toa=12585.077393, id=1, nb_error= 32, nb_r=186, perc.=0.172043 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.440308, sog_mes=20.400000, toa=12609.738129, id=1, nb_error= 33, nb_r=183, perc.=0.180328 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.138916, sog_mes=20.200001, toa=12615.477081, id=1, nb_error= 34, nb_r=185, perc.=0.183784 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.279297, sog_mes=20.500000, toa=12621.097778, id=1, nb_error= 35, nb_r=187, perc.=0.187166 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.319519, sog_mes=20.299999, toa=12627.657867, id=1, nb_error= 36, nb_r=189, perc.=0.190476 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.659943, sog_mes=20.200001, toa=12633.257782, id=1, nb_error= 37, nb_r=191, perc.=0.193717 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.201050, sog_mes=20.400000, toa=12639.218719, id=1, nb_error= 38, nb_r=193, perc.=0.196891 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.639404, sog_mes=20.100000, toa=12645.077728, id=1, nb_error= 39, nb_r=195, perc.=0.200000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.966309, sog_mes=20.299999, toa=12651.123413, id=1, nb_error= 40, nb_r=197, perc.=0.203046 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.580383, sog_mes=20.500000, toa=12669.738129, id=1, nb_error= 41, nb_r=192, perc.=0.213542 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=9.759491, sog_mes=20.200001, toa=12681.097656, id=1, nb_error= 42, nb_r=194, perc.=0.216495 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.344788, sog_mes=20.299999, toa=12687.683228, id=1, nb_error= 43, nb_r=196, perc.=0.219388 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.699677, sog_mes=20.500000, toa=12771.857544, id=1, nb_error= 44, nb_r=201, perc.=0.218905 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.699707, sog_mes=20.600000, toa=12795.477509, id=1, nb_error= 45, nb_r=197, perc.=0.228426 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.300049, sog_mes=20.299999, toa=12801.101562, id=1, nb_error= 46, nb_r=199, perc.=0.231156 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.617767, sog_mes=20.500000, toa=12819.137695, id=1, nb_error= 47, nb_r=204, perc.=0.230392 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228353900, delta t=185.163177, sog_mes=0.000000, toa=12822.460968, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.766754, sog_mes=20.700001, toa=12837.844055, id=1, nb_error= 48, nb_r=208, perc.=0.230769 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.122040, sog_mes=20.400000, toa=12903.283325, id=1, nb_error= 48, nb_r=209, perc.=0.229665 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.700073, sog_mes=20.500000, toa=12915.477753, id=1, nb_error= 48, nb_r=202, perc.=0.237624 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.557159, sog_mes=20.400000, toa=12932.996552, id=1, nb_error= 49, nb_r=206, perc.=0.237864 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.761810, sog_mes=20.299999, toa=12957.844208, id=1, nb_error= 50, nb_r=211, perc.=0.236967 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.101135, sog_mes=20.400000, toa=12963.259583, id=1, nb_error= 51, nb_r=213, perc.=0.239437 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559113, sog_mes=20.000000, toa=12992.998291, id=1, nb_error= 51, nb_r=210, perc.=0.242857 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228353900, delta t=174.456940, sog_mes=0.000000, toa=12996.917908, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.739044, sog_mes=19.600000, toa=12999.137207, id=1, nb_error= 52, nb_r=212, perc.=0.245283 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=8.819885, sog_mes=102.300003, toa=13018.297974, id=1, nb_error= 1, nb_r=112, perc.=0.008929 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559479, sog_mes=19.900000, toa=13052.997925, id=1, nb_error= 52, nb_r=215, perc.=0.241860 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559448, sog_mes=20.000000, toa=13112.997894, id=1, nb_error= 51, nb_r=215, perc.=0.237209 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.480072, sog_mes=20.200001, toa=13172.918457, id=1, nb_error= 47, nb_r=210, perc.=0.223810 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.722351, sog_mes=20.200001, toa=13179.120209, id=1, nb_error= 48, nb_r=212, perc.=0.226415 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.357483, sog_mes=20.200001, toa=13203.158142, id=1, nb_error= 49, nb_r=220, perc.=0.222727 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.560852, sog_mes=20.200001, toa=13215.840881, id=1, nb_error= 46, nb_r=206, perc.=0.223301 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.481720, sog_mes=20.200001, toa=13232.920044, id=1, nb_error= 47, nb_r=211, perc.=0.222749 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.819489, sog_mes=20.200001, toa=13239.217590, id=1, nb_error= 48, nb_r=213, perc.=0.225352 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.582581, sog_mes=20.200001, toa=13269.660645, id=1, nb_error= 45, nb_r=204, perc.=0.220588 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.479797, sog_mes=20.000000, toa=13292.918457, id=1, nb_error= 46, nb_r=210, perc.=0.219048 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.819885, sog_mes=20.100000, toa=13299.217865, id=1, nb_error= 47, nb_r=212, perc.=0.221698 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.581757, sog_mes=20.299999, toa=13329.660004, id=1, nb_error= 41, nb_r=202, perc.=0.202970 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.920135, sog_mes=20.299999, toa=13352.918579, id=1, nb_error= 42, nb_r=209, perc.=0.200957 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.359955, sog_mes=20.299999, toa=13359.198425, id=1, nb_error= 43, nb_r=211, perc.=0.203791 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.339783, sog_mes=20.299999, toa=13365.357452, id=1, nb_error= 44, nb_r=213, perc.=0.206573 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.458923, sog_mes=20.299999, toa=13383.258026, id=1, nb_error= 45, nb_r=219, perc.=0.205479 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.560333, sog_mes=20.400000, toa=13395.839539, id=1, nb_error= 45, nb_r=212, perc.=0.212264 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.919403, sog_mes=20.400000, toa=13412.917694, id=1, nb_error= 46, nb_r=218, perc.=0.211009 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.360016, sog_mes=20.400000, toa=13419.198639, id=1, nb_error= 47, nb_r=220, perc.=0.213636 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.340973, sog_mes=20.299999, toa=13425.358643, id=1, nb_error= 48, nb_r=222, perc.=0.216216 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.460632, sog_mes=20.400000, toa=13443.257660, id=1, nb_error= 49, nb_r=228, perc.=0.214912 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.019135, sog_mes=20.500000, toa=13467.417572, id=1, nb_error= 45, nb_r=218, perc.=0.206422 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.918793, sog_mes=20.600000, toa=13472.917450, id=1, nb_error= 46, nb_r=220, perc.=0.209091 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.000031, sog_mes=20.400000, toa=13478.838440, id=1, nb_error= 47, nb_r=222, perc.=0.211712 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.240021, sog_mes=20.700001, toa=13491.118256, id=1, nb_error= 48, nb_r=225, perc.=0.213333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.459259, sog_mes=20.600000, toa=13503.257721, id=1, nb_error= 49, nb_r=229, perc.=0.213974 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.200226, sog_mes=20.500000, toa=13515.478210, id=1, nb_error= 42, nb_r=214, perc.=0.196262 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.019318, sog_mes=20.500000, toa=13527.417389, id=1, nb_error= 43, nb_r=218, perc.=0.197248 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.919037, sog_mes=20.400000, toa=13532.917999, id=1, nb_error= 44, nb_r=220, perc.=0.200000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.998352, sog_mes=20.600000, toa=13538.838257, id=1, nb_error= 45, nb_r=222, perc.=0.202703 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.340179, sog_mes=20.600000, toa=13545.357422, id=1, nb_error= 46, nb_r=224, perc.=0.205357 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.240051, sog_mes=20.400000, toa=13551.117889, id=1, nb_error= 47, nb_r=226, perc.=0.207965 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=11.339233, sog_mes=102.300003, toa=13559.497437, id=1, nb_error= 2, nb_r=94, perc.=0.021277 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.060730, sog_mes=20.799999, toa=13575.478027, id=1, nb_error= 45, nb_r=222, perc.=0.202703 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.019135, sog_mes=20.500000, toa=13587.417572, id=1, nb_error= 46, nb_r=226, perc.=0.203540 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.919403, sog_mes=20.600000, toa=13592.917755, id=1, nb_error= 47, nb_r=228, perc.=0.206140 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.000641, sog_mes=20.400000, toa=13598.838593, id=1, nb_error= 48, nb_r=230, perc.=0.208696 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.519135, sog_mes=20.500000, toa=13605.357605, id=1, nb_error= 49, nb_r=232, perc.=0.211207 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.241119, sog_mes=20.500000, toa=13611.118256, id=1, nb_error= 50, nb_r=234, perc.=0.213675 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=228.579865, sog_mes=0.000000, toa=13631.578094, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=185.759857, sog_mes=0.000000, toa=13634.777374, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.060638, sog_mes=20.400000, toa=13635.478302, id=1, nb_error= 50, nb_r=230, perc.=0.217391 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.519348, sog_mes=19.400000, toa=13707.917297, id=1, nb_error= 47, nb_r=262, perc.=0.179389 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.843628, sog_mes=19.299999, toa=13712.840637, id=1, nb_error= 48, nb_r=264, perc.=0.181818 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.545258, sog_mes=19.400000, toa=13725.383575, id=1, nb_error= 49, nb_r=268, perc.=0.182836 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.839050, sog_mes=19.400000, toa=13730.938690, id=1, nb_error= 50, nb_r=270, perc.=0.185185 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.759796, sog_mes=19.400000, toa=13749.277618, id=1, nb_error= 50, nb_r=264, perc.=0.189394 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.922363, sog_mes=19.400000, toa=13755.339783, id=1, nb_error= 51, nb_r=266, perc.=0.191729 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.659821, sog_mes=19.200001, toa=13772.838226, id=1, nb_error= 52, nb_r=272, perc.=0.191176 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.439270, sog_mes=19.200001, toa=13785.277405, id=1, nb_error= 53, nb_r=276, perc.=0.192029 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.841095, sog_mes=19.200001, toa=13790.938843, id=1, nb_error= 54, nb_r=278, perc.=0.194245 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=173.563477, sog_mes=0.000000, toa=13805.141571, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=174.740051, sog_mes=0.000000, toa=13809.517426, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.922424, sog_mes=19.100000, toa=13815.339813, id=1, nb_error= 51, nb_r=272, perc.=0.187500 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.661469, sog_mes=19.200001, toa=13832.839722, id=1, nb_error= 52, nb_r=278, perc.=0.187050 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.578125, sog_mes=19.299999, toa=13845.277191, id=1, nb_error= 53, nb_r=282, perc.=0.187943 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.841736, sog_mes=19.400000, toa=13850.939362, id=1, nb_error= 54, nb_r=284, perc.=0.190141 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.640442, sog_mes=19.400000, toa=13857.417725, id=1, nb_error= 55, nb_r=286, perc.=0.192308 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.680786, sog_mes=19.400000, toa=13862.957581, id=1, nb_error= 56, nb_r=288, perc.=0.194444 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.739136, sog_mes=19.500000, toa=13869.277100, id=1, nb_error= 55, nb_r=275, perc.=0.200000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.923645, sog_mes=19.600000, toa=13875.340790, id=1, nb_error= 56, nb_r=277, perc.=0.202166 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.643066, sog_mes=19.600000, toa=13892.821533, id=1, nb_error= 57, nb_r=283, perc.=0.201413 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.578827, sog_mes=19.700001, toa=13905.277008, id=1, nb_error= 58, nb_r=287, perc.=0.202091 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.841553, sog_mes=19.700001, toa=13910.939178, id=1, nb_error= 59, nb_r=289, perc.=0.204152 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.641663, sog_mes=19.600000, toa=13917.419098, id=1, nb_error= 60, nb_r=291, perc.=0.206186 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.658386, sog_mes=19.700001, toa=13922.957336, id=1, nb_error= 61, nb_r=293, perc.=0.208191 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.765289, sog_mes=19.900000, toa=13929.304382, id=1, nb_error= 61, nb_r=283, perc.=0.215548 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.120819, sog_mes=19.799999, toa=13935.340179, id=1, nb_error= 62, nb_r=285, perc.=0.217544 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.658295, sog_mes=19.900000, toa=13952.837158, id=1, nb_error= 63, nb_r=289, perc.=0.217993 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.604126, sog_mes=19.900000, toa=13965.304108, id=1, nb_error= 64, nb_r=293, perc.=0.218430 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.640564, sog_mes=19.900000, toa=13977.418518, id=1, nb_error= 65, nb_r=296, perc.=0.219595 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.737885, sog_mes=19.900000, toa=13989.277130, id=1, nb_error= 65, nb_r=286, perc.=0.227273 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=185.021393, sog_mes=0.000000, toa=13994.538818, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.120880, sog_mes=19.799999, toa=13995.340240, id=1, nb_error= 66, nb_r=288, perc.=0.229167 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.799164, sog_mes=19.900000, toa=14012.818756, id=1, nb_error= 67, nb_r=292, perc.=0.229452 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.901123, sog_mes=20.000000, toa=14030.939026, id=1, nb_error= 68, nb_r=298, perc.=0.228188 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.641052, sog_mes=20.000000, toa=14037.418640, id=1, nb_error= 69, nb_r=300, perc.=0.230000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.658783, sog_mes=20.100000, toa=14042.957245, id=1, nb_error= 70, nb_r=302, perc.=0.231788 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.118469, sog_mes=20.100000, toa=14055.339386, id=1, nb_error= 68, nb_r=288, perc.=0.236111 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=18.319336, sog_mes=0.000000, toa=14074.797302, id=3, nb_error= 1, nb_r=86 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.377563, sog_mes=20.000000, toa=14085.077179, id=1, nb_error= 69, nb_r=294, perc.=0.234694 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.685211, sog_mes=20.100000, toa=14102.984100, id=1, nb_error= 70, nb_r=298, perc.=0.234899 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.037903, sog_mes=20.200001, toa=14115.258636, id=1, nb_error= 68, nb_r=286, perc.=0.237762 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=10.781403, sog_mes=20.200001, toa=14127.978760, id=1, nb_error= 69, nb_r=288, perc.=0.239583 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.377502, sog_mes=20.299999, toa=14145.077057, id=1, nb_error= 70, nb_r=292, perc.=0.239726 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.903381, sog_mes=20.400000, toa=14150.941925, id=1, nb_error= 71, nb_r=294, perc.=0.241497 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=9.842499, sog_mes=20.299999, toa=14162.983795, id=1, nb_error= 72, nb_r=296, perc.=0.243243 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=173.759613, sog_mes=0.000000, toa=14168.298431, id=3, nb_error= 4, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228097800, delta t=9.339417, sog_mes=102.300003, toa=14209.037415, id=1, nb_error= 2, nb_r=95, perc.=0.021053 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=187.761292, sog_mes=0.000000, toa=14356.059723, id=3, nb_error= 5, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.959961, sog_mes=19.600000, toa=14457.156982, id=1, nb_error= 49, nb_r=256, perc.=0.191406 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.880829, sog_mes=19.700001, toa=14469.299194, id=1, nb_error= 44, nb_r=240, perc.=0.183333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.636810, sog_mes=19.500000, toa=14474.899261, id=1, nb_error= 45, nb_r=242, perc.=0.185950 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.000427, sog_mes=19.200001, toa=14481.299561, id=1, nb_error= 46, nb_r=244, perc.=0.188525 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.714172, sog_mes=18.900000, toa=14505.099670, id=1, nb_error= 47, nb_r=251, perc.=0.187251 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.942474, sog_mes=18.700001, toa=14517.139496, id=1, nb_error= 48, nb_r=254, perc.=0.188976 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=174.958710, sog_mes=0.000000, toa=14531.018433, id=3, nb_error= 5, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.635254, sog_mes=18.799999, toa=14534.898865, id=1, nb_error= 48, nb_r=222, perc.=0.216216 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.000763, sog_mes=18.700001, toa=14541.299744, id=1, nb_error= 49, nb_r=224, perc.=0.218750 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.712982, sog_mes=18.900000, toa=14565.098297, id=1, nb_error= 50, nb_r=232, perc.=0.215517 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.075409, sog_mes=18.900000, toa=14571.357422, id=1, nb_error= 51, nb_r=234, perc.=0.217949 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.778137, sog_mes=18.700001, toa=14577.978638, id=1, nb_error= 52, nb_r=236, perc.=0.220339 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.880402, sog_mes=18.799999, toa=14589.298737, id=1, nb_error= 49, nb_r=216, perc.=0.226852 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.636719, sog_mes=18.700001, toa=14594.898560, id=1, nb_error= 50, nb_r=218, perc.=0.229358 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.003357, sog_mes=18.600000, toa=14601.301910, id=1, nb_error= 51, nb_r=220, perc.=0.231818 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.712891, sog_mes=18.500000, toa=14625.098328, id=1, nb_error= 52, nb_r=228, perc.=0.228070 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.079163, sog_mes=18.600000, toa=14631.356812, id=1, nb_error= 53, nb_r=230, perc.=0.230435 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.781677, sog_mes=18.500000, toa=14637.978760, id=1, nb_error= 54, nb_r=232, perc.=0.232759 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.534760, sog_mes=18.500000, toa=14643.917114, id=1, nb_error= 55, nb_r=234, perc.=0.235043 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.419037, sog_mes=18.500000, toa=14649.837311, id=1, nb_error= 51, nb_r=216, perc.=0.236111 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.501831, sog_mes=18.600000, toa=14654.898895, id=1, nb_error= 52, nb_r=218, perc.=0.238532 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.002991, sog_mes=18.700001, toa=14661.301178, id=1, nb_error= 53, nb_r=220, perc.=0.240909 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.181030, sog_mes=18.400000, toa=14672.904572, id=1, nb_error= 54, nb_r=224, perc.=0.241071 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.716705, sog_mes=18.600000, toa=14685.098145, id=1, nb_error= 55, nb_r=228, perc.=0.241228 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.079712, sog_mes=18.600000, toa=14691.356873, id=1, nb_error= 56, nb_r=230, perc.=0.243478 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.535004, sog_mes=18.400000, toa=14703.916931, id=1, nb_error= 57, nb_r=233, perc.=0.244635 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228097800, delta t=11.080505, sog_mes=102.300003, toa=14709.098328, id=1, nb_error= 2, nb_r=85 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.420685, sog_mes=18.400000, toa=14709.837677, id=1, nb_error= 52, nb_r=215, perc.=0.241860 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.500366, sog_mes=18.500000, toa=14714.897888, id=1, nb_error= 53, nb_r=217, perc.=0.244240 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.003052, sog_mes=18.500000, toa=14721.300903, id=1, nb_error= 54, nb_r=219, perc.=0.246575 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.042053, sog_mes=18.600000, toa=14732.901001, id=1, nb_error= 55, nb_r=223, perc.=0.246637 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.636932, sog_mes=18.700001, toa=14745.018585, id=1, nb_error= 56, nb_r=227, perc.=0.246696 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.000275, sog_mes=18.799999, toa=14751.356903, id=1, nb_error= 57, nb_r=229, perc.=0.248908 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.535492, sog_mes=18.799999, toa=14763.916870, id=1, nb_error= 58, nb_r=233, perc.=0.248927 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.421661, sog_mes=18.799999, toa=14769.839233, id=1, nb_error= 52, nb_r=215, perc.=0.241860 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.500427, sog_mes=18.799999, toa=14774.898041, id=1, nb_error= 53, nb_r=217, perc.=0.244240 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.043152, sog_mes=18.900000, toa=14792.902100, id=1, nb_error= 54, nb_r=222, perc.=0.243243 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.638641, sog_mes=18.700001, toa=14799.817780, id=1, nb_error= 55, nb_r=224, perc.=0.245536 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.061188, sog_mes=18.700001, toa=14805.018188, id=1, nb_error= 56, nb_r=226, perc.=0.247788 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.920441, sog_mes=18.799999, toa=14811.277008, id=1, nb_error= 57, nb_r=228, perc.=0.250000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.840057, sog_mes=18.900000, toa=14823.217957, id=1, nb_error= 58, nb_r=231, perc.=0.251082 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.419830, sog_mes=18.900000, toa=14829.837982, id=1, nb_error= 54, nb_r=217, perc.=0.248848 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.525238, sog_mes=18.900000, toa=14834.923035, id=1, nb_error= 55, nb_r=219, perc.=0.251142 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.061707, sog_mes=19.000000, toa=14865.018585, id=1, nb_error= 56, nb_r=226, perc.=0.247788 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.866394, sog_mes=18.799999, toa=14883.244232, id=1, nb_error= 57, nb_r=231, perc.=0.246753 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.039825, sog_mes=18.900000, toa=14912.897308, id=1, nb_error= 52, nb_r=221, perc.=0.235294 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.638763, sog_mes=18.900000, toa=14919.816742, id=1, nb_error= 53, nb_r=223, perc.=0.237668 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.060547, sog_mes=18.799999, toa=14925.018036, id=1, nb_error= 54, nb_r=225, perc.=0.240000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.918976, sog_mes=18.700001, toa=14931.276947, id=1, nb_error= 55, nb_r=227, perc.=0.242291 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.839905, sog_mes=18.600000, toa=14943.218048, id=1, nb_error= 56, nb_r=231, perc.=0.242424 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.219177, sog_mes=18.600000, toa=14967.197083, id=1, nb_error= 54, nb_r=223, perc.=0.242152 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=8.719330, sog_mes=102.300003, toa=14978.617767, id=1, nb_error= 3, nb_r=88 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.639374, sog_mes=18.700001, toa=14979.816589, id=1, nb_error= 55, nb_r=227, perc.=0.242291 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.060730, sog_mes=18.700001, toa=14985.017487, id=1, nb_error= 56, nb_r=229, perc.=0.244541 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.919647, sog_mes=18.799999, toa=14991.277466, id=1, nb_error= 57, nb_r=231, perc.=0.246753 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.839722, sog_mes=18.799999, toa=15003.217865, id=1, nb_error= 58, nb_r=235, perc.=0.246809 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.500793, sog_mes=18.900000, toa=15014.897766, id=1, nb_error= 54, nb_r=226, perc.=0.238938 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.876495, sog_mes=19.000000, toa=15027.197632, id=1, nb_error= 55, nb_r=230, perc.=0.239130 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.400208, sog_mes=19.200001, toa=15033.757965, id=1, nb_error= 56, nb_r=232, perc.=0.241379 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.620087, sog_mes=19.000000, toa=15039.816742, id=1, nb_error= 57, nb_r=234, perc.=0.243590 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.060699, sog_mes=19.000000, toa=15045.017517, id=1, nb_error= 58, nb_r=236, perc.=0.245763 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.918915, sog_mes=19.000000, toa=15051.277069, id=1, nb_error= 59, nb_r=238, perc.=0.247899 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.463165, sog_mes=19.000000, toa=15057.320770, id=1, nb_error= 60, nb_r=240, perc.=0.250000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.060699, sog_mes=19.000000, toa=15063.438660, id=1, nb_error= 61, nb_r=242, perc.=0.252066 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.878632, sog_mes=19.100000, toa=15087.200165, id=1, nb_error= 62, nb_r=238, perc.=0.260504 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399994, sog_mes=19.000000, toa=15093.758148, id=1, nb_error= 63, nb_r=240, perc.=0.262500 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.401062, sog_mes=19.500000, toa=15213.758026, id=1, nb_error= 64, nb_r=242, perc.=0.264463 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.617645, sog_mes=19.500000, toa=15219.817291, id=1, nb_error= 65, nb_r=244, perc.=0.266393 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.497253, sog_mes=19.500000, toa=15237.337891, id=1, nb_error= 66, nb_r=248, perc.=0.266129 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.080139, sog_mes=19.400000, toa=15243.438110, id=1, nb_error= 67, nb_r=250, perc.=0.268000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.759827, sog_mes=19.299999, toa=15255.760162, id=1, nb_error= 68, nb_r=244, perc.=0.278689 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.240234, sog_mes=19.200001, toa=15267.160736, id=1, nb_error= 69, nb_r=248, perc.=0.278226 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=10.459198, sog_mes=19.299999, toa=15279.817383, id=1, nb_error= 70, nb_r=250, perc.=0.280000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.597473, sog_mes=19.200001, toa=15284.857819, id=1, nb_error= 71, nb_r=252, perc.=0.281746 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.080139, sog_mes=19.100000, toa=15303.438385, id=1, nb_error= 72, nb_r=257, perc.=0.280156 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.760712, sog_mes=19.100000, toa=15315.761414, id=1, nb_error= 72, nb_r=244, perc.=0.295082 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.256805, sog_mes=19.100000, toa=15327.177246, id=1, nb_error= 73, nb_r=247, perc.=0.295547 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.899170, sog_mes=19.200001, toa=15333.257385, id=1, nb_error= 74, nb_r=249, perc.=0.297189 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.881195, sog_mes=19.400000, toa=15339.080688, id=1, nb_error= 75, nb_r=251, perc.=0.298805 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.596588, sog_mes=19.299999, toa=15344.857758, id=1, nb_error= 76, nb_r=253, perc.=0.300395 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.133636, sog_mes=19.299999, toa=15356.977997, id=1, nb_error= 77, nb_r=257, perc.=0.299611 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.999817, sog_mes=19.400000, toa=15363.357910, id=1, nb_error= 78, nb_r=259, perc.=0.301158 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.399536, sog_mes=19.200001, toa=15375.757965, id=1, nb_error= 74, nb_r=244, perc.=0.303279 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.256836, sog_mes=19.400000, toa=15387.177094, id=1, nb_error= 75, nb_r=248, perc.=0.302419 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.899658, sog_mes=19.299999, toa=15393.257629, id=1, nb_error= 76, nb_r=250, perc.=0.304000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.702515, sog_mes=19.299999, toa=15399.080383, id=1, nb_error= 77, nb_r=252, perc.=0.305556 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.133392, sog_mes=19.500000, toa=15416.977631, id=1, nb_error= 78, nb_r=257, perc.=0.303502 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=173.576508, sog_mes=0.000000, toa=15425.777405, id=3, nb_error= 2, nb_r=6 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.399994, sog_mes=19.299999, toa=15435.758026, id=1, nb_error= 74, nb_r=242, perc.=0.305785 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.239868, sog_mes=19.299999, toa=15447.159973, id=1, nb_error= 75, nb_r=245, perc.=0.306122 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.882477, sog_mes=19.299999, toa=15453.240601, id=1, nb_error= 76, nb_r=247, perc.=0.307692 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.702454, sog_mes=19.400000, toa=15459.080017, id=1, nb_error= 77, nb_r=249, perc.=0.309237 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.134277, sog_mes=19.299999, toa=15476.978088, id=1, nb_error= 78, nb_r=254, perc.=0.307087 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228097800, delta t=9.438904, sog_mes=102.300003, toa=15489.038605, id=1, nb_error= 3, nb_r=107, perc.=0.028037 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.680084, sog_mes=19.400000, toa=15489.897827, id=1, nb_error= 72, nb_r=238, perc.=0.302521 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.400452, sog_mes=19.299999, toa=15495.758118, id=1, nb_error= 73, nb_r=240, perc.=0.304167 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.258270, sog_mes=19.500000, toa=15507.177673, id=1, nb_error= 74, nb_r=244, perc.=0.303279 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.597992, sog_mes=19.400000, toa=15513.237823, id=1, nb_error= 75, nb_r=246, perc.=0.304878 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.701630, sog_mes=19.600000, toa=15519.079315, id=1, nb_error= 76, nb_r=248, perc.=0.306452 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.679962, sog_mes=19.500000, toa=15549.897614, id=1, nb_error= 70, nb_r=237, perc.=0.295359 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.839752, sog_mes=19.600000, toa=15555.198242, id=1, nb_error= 71, nb_r=239, perc.=0.297071 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=9.680084, sog_mes=19.500000, toa=15585.057739, id=1, nb_error= 72, nb_r=245, perc.=0.293878 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399353, sog_mes=19.299999, toa=15596.977661, id=1, nb_error= 73, nb_r=248, perc.=0.294355 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.660553, sog_mes=19.400000, toa=15609.878632, id=1, nb_error= 67, nb_r=232, perc.=0.288793 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=185.360779, sog_mes=0.000000, toa=15611.138184, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.259125, sog_mes=19.299999, toa=15627.177429, id=1, nb_error= 68, nb_r=238, perc.=0.285714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.602844, sog_mes=19.200001, toa=15633.243011, id=1, nb_error= 69, nb_r=240, perc.=0.287500 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.119324, sog_mes=19.200001, toa=15639.497223, id=1, nb_error= 70, nb_r=242, perc.=0.289256 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.220520, sog_mes=18.900000, toa=15669.438385, id=1, nb_error= 64, nb_r=231, perc.=0.277056 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.602112, sog_mes=18.700001, toa=15693.242035, id=1, nb_error= 65, nb_r=238, perc.=0.273109 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.119232, sog_mes=18.600000, toa=15699.496979, id=1, nb_error= 66, nb_r=240, perc.=0.275000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.220856, sog_mes=18.799999, toa=15729.438446, id=1, nb_error= 63, nb_r=230, perc.=0.273913 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.765778, sog_mes=18.900000, toa=15747.503754, id=1, nb_error= 64, nb_r=235, perc.=0.272340 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.480621, sog_mes=18.799999, toa=15789.437836, id=1, nb_error= 60, nb_r=226, perc.=0.265487 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.603638, sog_mes=19.000000, toa=15794.862915, id=1, nb_error= 61, nb_r=228, perc.=0.267544 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.773346, sog_mes=18.799999, toa=15807.511200, id=1, nb_error= 62, nb_r=232, perc.=0.267241 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.760376, sog_mes=18.700001, toa=15813.637909, id=1, nb_error= 63, nb_r=234, perc.=0.269231 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399933, sog_mes=18.700001, toa=15825.057465, id=1, nb_error= 64, nb_r=238, perc.=0.268908 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.740326, sog_mes=18.900000, toa=15842.897858, id=1, nb_error= 65, nb_r=242, perc.=0.268595 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=354.258667, sog_mes=0.000000, toa=15844.718079, id=3, nb_error= 1, nb_r=3 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.480682, sog_mes=18.700001, toa=15849.438538, id=1, nb_error= 61, nb_r=226, perc.=0.269912 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.379883, sog_mes=18.900000, toa=15861.697357, id=1, nb_error= 62, nb_r=229, perc.=0.270742 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=10.499207, sog_mes=102.300003, toa=15878.838165, id=1, nb_error= 2, nb_r=110, perc.=0.018182 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.385712, sog_mes=18.700001, toa=15879.503143, id=1, nb_error= 63, nb_r=233, perc.=0.270386 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.159393, sog_mes=18.799999, toa=15891.057465, id=1, nb_error= 64, nb_r=236, perc.=0.271186 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.780945, sog_mes=18.700001, toa=15897.838348, id=1, nb_error= 65, nb_r=238, perc.=0.273109 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.744141, sog_mes=18.700001, toa=15902.901672, id=1, nb_error= 66, nb_r=240, perc.=0.275000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.480591, sog_mes=18.700001, toa=15909.438049, id=1, nb_error= 59, nb_r=222, perc.=0.265766 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.483215, sog_mes=18.700001, toa=15914.863525, id=1, nb_error= 60, nb_r=224, perc.=0.267857 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.379944, sog_mes=18.799999, toa=15921.697235, id=1, nb_error= 61, nb_r=226, perc.=0.269912 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.733795, sog_mes=18.799999, toa=15927.477325, id=1, nb_error= 62, nb_r=228, perc.=0.271930 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.760162, sog_mes=18.799999, toa=15933.637787, id=1, nb_error= 63, nb_r=230, perc.=0.273913 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.159332, sog_mes=18.700001, toa=15951.057159, id=1, nb_error= 64, nb_r=235, perc.=0.272340 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.780884, sog_mes=18.600000, toa=15957.838287, id=1, nb_error= 65, nb_r=237, perc.=0.274262 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.959717, sog_mes=18.700001, toa=15968.916840, id=1, nb_error= 64, nb_r=226, perc.=0.283186 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.439636, sog_mes=18.700001, toa=15974.837891, id=1, nb_error= 65, nb_r=228, perc.=0.285088 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.125732, sog_mes=18.900000, toa=15999.503418, id=1, nb_error= 66, nb_r=233, perc.=0.283262 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.239716, sog_mes=18.799999, toa=16179.618774, id=1, nb_error= 58, nb_r=224, perc.=0.258929 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.186646, sog_mes=18.799999, toa=16221.503937, id=1, nb_error= 52, nb_r=216, perc.=0.240741 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.667267, sog_mes=18.500000, toa=16226.944336, id=1, nb_error= 53, nb_r=218, perc.=0.243119 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559967, sog_mes=18.600000, toa=16233.717468, id=1, nb_error= 54, nb_r=220, perc.=0.245455 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.239380, sog_mes=18.700001, toa=16239.618469, id=1, nb_error= 55, nb_r=222, perc.=0.247748 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559418, sog_mes=18.600000, toa=16244.860413, id=1, nb_error= 56, nb_r=224, perc.=0.250000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.239807, sog_mes=18.700001, toa=16251.020721, id=1, nb_error= 57, nb_r=226, perc.=0.252212 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228097800, delta t=8.596588, sog_mes=102.300003, toa=16258.178619, id=1, nb_error= 3, nb_r=100, perc.=0.030000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.560974, sog_mes=18.600000, toa=16263.581818, id=1, nb_error= 58, nb_r=229, perc.=0.253275 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.216614, sog_mes=18.500000, toa=16268.916779, id=1, nb_error= 54, nb_r=213, perc.=0.253521 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.244019, sog_mes=18.400000, toa=16281.481689, id=1, nb_error= 55, nb_r=217, perc.=0.253456 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.640137, sog_mes=18.500000, toa=16286.917328, id=1, nb_error= 56, nb_r=219, perc.=0.255708 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.480408, sog_mes=18.500000, toa=16293.638031, id=1, nb_error= 57, nb_r=221, perc.=0.257919 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559937, sog_mes=18.500000, toa=16304.860809, id=1, nb_error= 58, nb_r=224, perc.=0.258929 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.239807, sog_mes=18.600000, toa=16311.020630, id=1, nb_error= 59, nb_r=226, perc.=0.261062 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.457611, sog_mes=18.700001, toa=16316.837982, id=1, nb_error= 60, nb_r=228, perc.=0.263158 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.561371, sog_mes=18.700001, toa=16323.581940, id=1, nb_error= 61, nb_r=230, perc.=0.265217 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.245056, sog_mes=19.100000, toa=16341.482910, id=1, nb_error= 57, nb_r=219, perc.=0.260274 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.778168, sog_mes=18.900000, toa=16346.917206, id=1, nb_error= 58, nb_r=221, perc.=0.262443 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.484283, sog_mes=19.000000, toa=16353.641998, id=1, nb_error= 59, nb_r=223, perc.=0.264574 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.239075, sog_mes=19.000000, toa=16359.618591, id=1, nb_error= 60, nb_r=225, perc.=0.266667 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.160309, sog_mes=18.900000, toa=16364.860474, id=1, nb_error= 61, nb_r=227, perc.=0.268722 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.239990, sog_mes=19.100000, toa=16371.020325, id=1, nb_error= 62, nb_r=229, perc.=0.270742 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.457367, sog_mes=19.100000, toa=16376.837769, id=1, nb_error= 63, nb_r=231, perc.=0.272727 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.561249, sog_mes=19.000000, toa=16383.581573, id=1, nb_error= 64, nb_r=233, perc.=0.274678 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.541412, sog_mes=19.000000, toa=16401.779205, id=1, nb_error= 60, nb_r=221, perc.=0.271493 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.778625, sog_mes=18.900000, toa=16406.917267, id=1, nb_error= 61, nb_r=223, perc.=0.273543 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.485138, sog_mes=18.900000, toa=16413.642578, id=1, nb_error= 62, nb_r=225, perc.=0.275556 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.238800, sog_mes=19.000000, toa=16419.618530, id=1, nb_error= 63, nb_r=227, perc.=0.277533 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.160034, sog_mes=19.000000, toa=16424.860504, id=1, nb_error= 64, nb_r=229, perc.=0.279476 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.778625, sog_mes=19.100000, toa=16431.019989, id=1, nb_error= 65, nb_r=231, perc.=0.281385 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.657623, sog_mes=19.100000, toa=16436.837494, id=1, nb_error= 66, nb_r=233, perc.=0.283262 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.561249, sog_mes=19.000000, toa=16443.581360, id=1, nb_error= 67, nb_r=235, perc.=0.285106 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.541382, sog_mes=19.100000, toa=16461.779480, id=1, nb_error= 64, nb_r=226, perc.=0.283186 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.778015, sog_mes=19.000000, toa=16466.917023, id=1, nb_error= 65, nb_r=228, perc.=0.285088 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=185.481842, sog_mes=0.100000, toa=16467.100403, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.479950, sog_mes=19.000000, toa=16473.637268, id=1, nb_error= 66, nb_r=230, perc.=0.286957 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.152100, sog_mes=19.100000, toa=16484.860291, id=1, nb_error= 67, nb_r=234, perc.=0.286325 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.775574, sog_mes=19.200001, toa=16491.020050, id=1, nb_error= 68, nb_r=236, perc.=0.288136 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.657410, sog_mes=19.200001, toa=16496.837677, id=1, nb_error= 69, nb_r=238, perc.=0.289916 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.560760, sog_mes=19.299999, toa=16503.581329, id=1, nb_error= 70, nb_r=240, perc.=0.291667 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.541840, sog_mes=19.200001, toa=16521.779449, id=1, nb_error= 67, nb_r=229, perc.=0.292576 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.640442, sog_mes=19.200001, toa=16527.779572, id=1, nb_error= 68, nb_r=231, perc.=0.294372 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.153015, sog_mes=19.200001, toa=16544.860352, id=1, nb_error= 69, nb_r=236, perc.=0.292373 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.718414, sog_mes=19.200001, toa=16551.956848, id=1, nb_error= 70, nb_r=238, perc.=0.294118 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.376984, sog_mes=19.100000, toa=16557.556854, id=1, nb_error= 71, nb_r=240, perc.=0.295833 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.758881, sog_mes=19.000000, toa=16563.779083, id=1, nb_error= 72, nb_r=242, perc.=0.297521 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.640289, sog_mes=19.000000, toa=16587.779755, id=1, nb_error= 70, nb_r=234, perc.=0.299145 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228353900, delta t=174.120697, sog_mes=0.000000, toa=16593.979553, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.152893, sog_mes=19.000000, toa=16604.859558, id=1, nb_error= 71, nb_r=238, perc.=0.298319 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.719543, sog_mes=19.100000, toa=16611.956970, id=1, nb_error= 72, nb_r=240, perc.=0.300000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.377411, sog_mes=19.200001, toa=16617.557037, id=1, nb_error= 73, nb_r=242, perc.=0.301653 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.759766, sog_mes=19.200001, toa=16623.779327, id=1, nb_error= 74, nb_r=244, perc.=0.303279 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=174.536743, sog_mes=0.100000, toa=16641.637146, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.541962, sog_mes=19.200001, toa=16641.779236, id=1, nb_error= 73, nb_r=236, perc.=0.309322 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.153534, sog_mes=19.100000, toa=16664.859467, id=1, nb_error= 74, nb_r=242, perc.=0.305785 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.719421, sog_mes=19.100000, toa=16671.956818, id=1, nb_error= 75, nb_r=244, perc.=0.307377 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.377533, sog_mes=19.000000, toa=16677.556885, id=1, nb_error= 76, nb_r=246, perc.=0.308943 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.161560, sog_mes=19.200001, toa=16695.539276, id=1, nb_error= 71, nb_r=233, perc.=0.304721 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.436218, sog_mes=19.200001, toa=16701.779572, id=1, nb_error= 72, nb_r=235, perc.=0.306383 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.276459, sog_mes=19.200001, toa=16724.978943, id=1, nb_error= 73, nb_r=241, perc.=0.302905 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.377380, sog_mes=19.299999, toa=16737.557129, id=1, nb_error= 74, nb_r=245, perc.=0.302041 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.161346, sog_mes=19.200001, toa=16755.539337, id=1, nb_error= 69, nb_r=235, perc.=0.293617 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.437134, sog_mes=19.200001, toa=16761.779388, id=1, nb_error= 70, nb_r=237, perc.=0.295359 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228353900, delta t=186.318420, sog_mes=0.000000, toa=16780.297974, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.461609, sog_mes=19.200001, toa=16784.978546, id=1, nb_error= 71, nb_r=244, perc.=0.290984 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.283295, sog_mes=19.299999, toa=16803.021973, id=1, nb_error= 72, nb_r=250, perc.=0.288000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.338898, sog_mes=19.000000, toa=16809.237518, id=1, nb_error= 66, nb_r=234, perc.=0.282051 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.162079, sog_mes=18.900000, toa=16815.539093, id=1, nb_error= 67, nb_r=236, perc.=0.283898 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.396423, sog_mes=18.600000, toa=16821.738922, id=1, nb_error= 68, nb_r=238, perc.=0.285714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.461182, sog_mes=18.900000, toa=16844.978424, id=1, nb_error= 69, nb_r=245, perc.=0.281633 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.287415, sog_mes=18.799999, toa=16863.026215, id=1, nb_error= 70, nb_r=251, perc.=0.278884 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.338928, sog_mes=18.900000, toa=16869.237823, id=1, nb_error= 68, nb_r=239, perc.=0.284519 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.161743, sog_mes=18.900000, toa=16875.539062, id=1, nb_error= 69, nb_r=241, perc.=0.286307 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.400116, sog_mes=18.900000, toa=16881.738647, id=1, nb_error= 70, nb_r=243, perc.=0.288066 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.422180, sog_mes=19.100000, toa=16899.800171, id=1, nb_error= 71, nb_r=248, perc.=0.286290 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.279938, sog_mes=19.200001, toa=16923.017914, id=1, nb_error= 72, nb_r=255, perc.=0.282353 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.338440, sog_mes=19.100000, toa=16929.237183, id=1, nb_error= 73, nb_r=247, perc.=0.295547 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.720551, sog_mes=19.000000, toa=16935.539246, id=1, nb_error= 74, nb_r=249, perc.=0.297189 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399872, sog_mes=19.000000, toa=16941.738281, id=1, nb_error= 75, nb_r=251, perc.=0.298805 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.419250, sog_mes=19.100000, toa=16959.797302, id=1, nb_error= 76, nb_r=256, perc.=0.296875 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.280029, sog_mes=19.100000, toa=16983.018311, id=1, nb_error= 77, nb_r=263, perc.=0.292776 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.338623, sog_mes=19.200001, toa=16989.237457, id=1, nb_error= 78, nb_r=255, perc.=0.305882 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.721680, sog_mes=19.200001, toa=16995.539185, id=1, nb_error= 79, nb_r=257, perc.=0.307393 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.759338, sog_mes=19.200001, toa=17007.298065, id=1, nb_error= 80, nb_r=261, perc.=0.306513 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.419220, sog_mes=19.100000, toa=17019.797089, id=1, nb_error= 81, nb_r=264, perc.=0.306818 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.339020, sog_mes=19.299999, toa=17049.237823, id=1, nb_error= 81, nb_r=260, perc.=0.311538 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.720856, sog_mes=19.299999, toa=17055.539185, id=1, nb_error= 82, nb_r=262, perc.=0.312977 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.441376, sog_mes=19.299999, toa=17078.819214, id=1, nb_error= 83, nb_r=270, perc.=0.307407 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.278931, sog_mes=19.200001, toa=17103.018158, id=1, nb_error= 84, nb_r=277, perc.=0.303249 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.338562, sog_mes=19.200001, toa=17109.237457, id=1, nb_error= 78, nb_r=261, perc.=0.298851 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.759125, sog_mes=19.299999, toa=17127.297577, id=1, nb_error= 79, nb_r=267, perc.=0.295880 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.439850, sog_mes=19.200001, toa=17138.817352, id=1, nb_error= 80, nb_r=271, perc.=0.295203 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.759949, sog_mes=19.299999, toa=17151.378082, id=1, nb_error= 81, nb_r=274, perc.=0.295620 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.222412, sog_mes=19.299999, toa=17163.218933, id=1, nb_error= 82, nb_r=278, perc.=0.294964 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.077698, sog_mes=19.200001, toa=17169.237335, id=1, nb_error= 75, nb_r=261, perc.=0.287356 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.719452, sog_mes=19.400000, toa=17175.957062, id=1, nb_error= 76, nb_r=263, perc.=0.288973 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.799744, sog_mes=19.200001, toa=17187.338409, id=1, nb_error= 77, nb_r=267, perc.=0.288390 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.439514, sog_mes=19.400000, toa=17198.817261, id=1, nb_error= 78, nb_r=271, perc.=0.287823 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.218964, sog_mes=19.299999, toa=17205.618317, id=1, nb_error= 79, nb_r=273, perc.=0.289377 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.760559, sog_mes=19.299999, toa=17211.378357, id=1, nb_error= 80, nb_r=275, perc.=0.290909 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.220856, sog_mes=19.299999, toa=17223.217651, id=1, nb_error= 81, nb_r=279, perc.=0.290323 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.777771, sog_mes=19.200001, toa=17229.938995, id=1, nb_error= 74, nb_r=261, perc.=0.283525 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.718597, sog_mes=19.299999, toa=17235.956818, id=1, nb_error= 75, nb_r=263, perc.=0.285171 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.521240, sog_mes=19.200001, toa=17247.338531, id=1, nb_error= 76, nb_r=267, perc.=0.284644 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.219879, sog_mes=19.200001, toa=17265.618347, id=1, nb_error= 77, nb_r=273, perc.=0.282051 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.756073, sog_mes=19.200001, toa=17271.377563, id=1, nb_error= 78, nb_r=275, perc.=0.283636 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399902, sog_mes=19.100000, toa=17277.257965, id=1, nb_error= 79, nb_r=277, perc.=0.285199 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.204651, sog_mes=19.200001, toa=17283.201202, id=1, nb_error= 80, nb_r=279, perc.=0.286738 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.762665, sog_mes=19.299999, toa=17289.920746, id=1, nb_error= 73, nb_r=261, perc.=0.279693 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.717712, sog_mes=19.000000, toa=17295.957153, id=1, nb_error= 74, nb_r=263, perc.=0.281369 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.536499, sog_mes=19.200001, toa=17307.338074, id=1, nb_error= 75, nb_r=267, perc.=0.280899 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.440125, sog_mes=19.200001, toa=17318.801239, id=1, nb_error= 76, nb_r=270, perc.=0.281481 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.203125, sog_mes=19.000000, toa=17325.601074, id=1, nb_error= 77, nb_r=272, perc.=0.283088 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.743134, sog_mes=19.100000, toa=17331.360962, id=1, nb_error= 78, nb_r=274, perc.=0.284672 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399994, sog_mes=19.200001, toa=17337.257843, id=1, nb_error= 79, nb_r=276, perc.=0.286232 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.202454, sog_mes=19.100000, toa=17343.200012, id=1, nb_error= 80, nb_r=278, perc.=0.287770 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.762634, sog_mes=19.100000, toa=17349.920929, id=1, nb_error= 74, nb_r=260, perc.=0.284615 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.718292, sog_mes=19.100000, toa=17355.957001, id=1, nb_error= 75, nb_r=262, perc.=0.286260 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.537384, sog_mes=19.000000, toa=17367.338348, id=1, nb_error= 76, nb_r=266, perc.=0.285714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.202637, sog_mes=19.100000, toa=17385.600708, id=1, nb_error= 77, nb_r=272, perc.=0.283088 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.960114, sog_mes=19.000000, toa=17391.358215, id=1, nb_error= 78, nb_r=274, perc.=0.284672 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399872, sog_mes=19.100000, toa=17397.258026, id=1, nb_error= 79, nb_r=276, perc.=0.286232 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.203705, sog_mes=19.000000, toa=17403.200439, id=1, nb_error= 80, nb_r=278, perc.=0.287770 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.762329, sog_mes=18.900000, toa=17409.920471, id=1, nb_error= 75, nb_r=261, perc.=0.287356 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.717804, sog_mes=19.100000, toa=17415.957062, id=1, nb_error= 76, nb_r=263, perc.=0.288973 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.697540, sog_mes=19.000000, toa=17427.498169, id=1, nb_error= 77, nb_r=267, perc.=0.288390 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.202545, sog_mes=19.100000, toa=17445.600647, id=1, nb_error= 78, nb_r=273, perc.=0.285714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.962250, sog_mes=19.000000, toa=17451.360260, id=1, nb_error= 79, nb_r=275, perc.=0.287273 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080170, sog_mes=19.100000, toa=17457.258118, id=1, nb_error= 80, nb_r=277, perc.=0.288809 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.203369, sog_mes=19.000000, toa=17463.200195, id=1, nb_error= 81, nb_r=279, perc.=0.290323 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.519348, sog_mes=19.000000, toa=17468.857910, id=1, nb_error= 77, nb_r=264, perc.=0.291667 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.717590, sog_mes=19.000000, toa=17475.957794, id=1, nb_error= 78, nb_r=266, perc.=0.293233 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.361816, sog_mes=18.900000, toa=17481.200470, id=1, nb_error= 79, nb_r=268, perc.=0.294776 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.697021, sog_mes=19.000000, toa=17487.497406, id=1, nb_error= 80, nb_r=270, perc.=0.296296 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.600098, sog_mes=18.900000, toa=17510.998291, id=1, nb_error= 81, nb_r=278, perc.=0.291367 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080414, sog_mes=19.000000, toa=17517.257843, id=1, nb_error= 82, nb_r=280, perc.=0.292857 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.861969, sog_mes=18.799999, toa=17523.200165, id=1, nb_error= 83, nb_r=282, perc.=0.294326 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.519287, sog_mes=18.700001, toa=17528.857727, id=1, nb_error= 80, nb_r=267, perc.=0.299625 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.756775, sog_mes=18.799999, toa=17535.797577, id=1, nb_error= 81, nb_r=269, perc.=0.301115 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.363373, sog_mes=18.700001, toa=17541.200897, id=1, nb_error= 82, nb_r=271, perc.=0.302583 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.600098, sog_mes=18.600000, toa=17570.998260, id=1, nb_error= 83, nb_r=280, perc.=0.296429 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.076019, sog_mes=18.700001, toa=17577.257416, id=1, nb_error= 84, nb_r=282, perc.=0.297872 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.861816, sog_mes=18.799999, toa=17583.200500, id=1, nb_error= 85, nb_r=284, perc.=0.299296 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.515289, sog_mes=18.600000, toa=17588.857422, id=1, nb_error= 82, nb_r=268, perc.=0.305970 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.756958, sog_mes=18.600000, toa=17595.797882, id=1, nb_error= 83, nb_r=270, perc.=0.307407 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.361847, sog_mes=18.500000, toa=17601.201141, id=1, nb_error= 84, nb_r=272, perc.=0.308824 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.740143, sog_mes=18.600000, toa=17607.497894, id=1, nb_error= 85, nb_r=274, perc.=0.310219 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.600067, sog_mes=18.700001, toa=17630.997986, id=1, nb_error= 86, nb_r=282, perc.=0.304965 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.081665, sog_mes=18.600000, toa=17637.258270, id=1, nb_error= 87, nb_r=284, perc.=0.306338 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.060150, sog_mes=18.799999, toa=17643.397888, id=1, nb_error= 88, nb_r=286, perc.=0.307692 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.518677, sog_mes=18.799999, toa=17648.856842, id=1, nb_error= 85, nb_r=269, perc.=0.315985 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.757446, sog_mes=18.700001, toa=17655.798035, id=1, nb_error= 86, nb_r=271, perc.=0.317343 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.361755, sog_mes=19.100000, toa=17661.200165, id=1, nb_error= 87, nb_r=273, perc.=0.318681 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.740143, sog_mes=18.799999, toa=17667.498352, id=1, nb_error= 88, nb_r=275, perc.=0.320000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.580048, sog_mes=19.000000, toa=17679.499786, id=1, nb_error= 89, nb_r=279, perc.=0.318996 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.600800, sog_mes=19.100000, toa=17690.998383, id=1, nb_error= 90, nb_r=283, perc.=0.318021 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.078949, sog_mes=19.000000, toa=17697.257355, id=1, nb_error= 91, nb_r=285, perc.=0.319298 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=173.958313, sog_mes=0.000000, toa=17698.839233, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.059875, sog_mes=19.000000, toa=17703.398041, id=1, nb_error= 92, nb_r=287, perc.=0.320557 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.519043, sog_mes=19.200001, toa=17708.857239, id=1, nb_error= 88, nb_r=270, perc.=0.325926 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.757904, sog_mes=19.000000, toa=17715.798187, id=1, nb_error= 89, nb_r=272, perc.=0.327206 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.499786, sog_mes=19.100000, toa=17721.338104, id=1, nb_error= 90, nb_r=274, perc.=0.328467 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.578644, sog_mes=19.200001, toa=17739.497314, id=1, nb_error= 91, nb_r=280, perc.=0.325000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.600159, sog_mes=19.200001, toa=17750.998535, id=1, nb_error= 92, nb_r=284, perc.=0.323944 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.181915, sog_mes=19.000000, toa=17757.359558, id=1, nb_error= 93, nb_r=286, perc.=0.325175 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.059326, sog_mes=19.000000, toa=17763.397888, id=1, nb_error= 94, nb_r=288, perc.=0.326389 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.218750, sog_mes=19.100000, toa=17781.338257, id=1, nb_error= 90, nb_r=276, perc.=0.326087 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.179260, sog_mes=19.200001, toa=17799.097534, id=1, nb_error= 91, nb_r=282, perc.=0.322695 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.319885, sog_mes=19.400000, toa=17811.718018, id=1, nb_error= 92, nb_r=286, perc.=0.321678 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.560577, sog_mes=19.200001, toa=17817.359161, id=1, nb_error= 93, nb_r=288, perc.=0.322917 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.777069, sog_mes=19.299999, toa=17823.397675, id=1, nb_error= 94, nb_r=290, perc.=0.324138 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.217682, sog_mes=19.299999, toa=17835.257507, id=1, nb_error= 90, nb_r=276, perc.=0.326087 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.219574, sog_mes=19.400000, toa=17841.338196, id=1, nb_error= 91, nb_r=278, perc.=0.327338 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.159454, sog_mes=19.299999, toa=17852.799133, id=1, nb_error= 92, nb_r=282, perc.=0.326241 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.184021, sog_mes=19.299999, toa=17859.101868, id=1, nb_error= 93, nb_r=284, perc.=0.327465 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.299683, sog_mes=19.299999, toa=17865.657745, id=1, nb_error= 94, nb_r=286, perc.=0.328671 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559998, sog_mes=19.299999, toa=17877.358490, id=1, nb_error= 95, nb_r=290, perc.=0.327586 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227002630, delta t=6.881500, sog_mes=12.900000, toa=17883.144409, id=1, nb_error= 1, nb_r=380, perc.=0.002632 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.776581, sog_mes=19.400000, toa=17883.397919, id=1, nb_error= 96, nb_r=292, perc.=0.328767 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=187.758392, sog_mes=0.000000, toa=17886.597626, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.218018, sog_mes=19.500000, toa=17895.257568, id=1, nb_error= 93, nb_r=279, perc.=0.333333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.220032, sog_mes=19.400000, toa=17901.338623, id=1, nb_error= 94, nb_r=281, perc.=0.334520 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.079956, sog_mes=19.200001, toa=17912.798370, id=1, nb_error= 95, nb_r=285, perc.=0.333333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.180573, sog_mes=19.100000, toa=17919.098389, id=1, nb_error= 96, nb_r=287, perc.=0.334495 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.320587, sog_mes=19.100000, toa=17925.678467, id=1, nb_error= 97, nb_r=289, perc.=0.335640 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559998, sog_mes=19.100000, toa=17937.358276, id=1, nb_error= 98, nb_r=293, perc.=0.334471 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.776428, sog_mes=19.100000, toa=17943.398041, id=1, nb_error= 99, nb_r=295, perc.=0.335593 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.100281, sog_mes=19.299999, toa=17955.257965, id=1, nb_error= 96, nb_r=280, perc.=0.342857 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.221039, sog_mes=19.299999, toa=17967.238434, id=1, nb_error= 97, nb_r=283, perc.=0.342756 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080048, sog_mes=19.200001, toa=17972.798157, id=1, nb_error= 98, nb_r=285, perc.=0.343860 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.179901, sog_mes=19.299999, toa=17979.097839, id=1, nb_error= 99, nb_r=287, perc.=0.344948 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.320496, sog_mes=19.200001, toa=17985.677917, id=1, nb_error= 100, nb_r=289, perc.=0.346021 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559662, sog_mes=19.100000, toa=17997.357910, id=1, nb_error= 101, nb_r=293, perc.=0.344710 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.777130, sog_mes=19.100000, toa=18003.398254, id=1, nb_error= 102, nb_r=295, perc.=0.345763 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.100555, sog_mes=18.900000, toa=18015.258667, id=1, nb_error= 98, nb_r=280, perc.=0.350000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.397949, sog_mes=18.900000, toa=18021.517792, id=1, nb_error= 99, nb_r=282, perc.=0.351064 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.220612, sog_mes=18.900000, toa=18027.237762, id=1, nb_error= 100, nb_r=284, perc.=0.352113 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080688, sog_mes=18.799999, toa=18032.798309, id=1, nb_error= 101, nb_r=286, perc.=0.353147 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.179626, sog_mes=19.100000, toa=18039.097412, id=1, nb_error= 102, nb_r=288, perc.=0.354167 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.319885, sog_mes=18.900000, toa=18045.677643, id=1, nb_error= 103, nb_r=290, perc.=0.355172 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559845, sog_mes=19.100000, toa=18057.357544, id=1, nb_error= 104, nb_r=294, perc.=0.353741 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=257344000, delta t=172.319427, sog_mes=0.000000, toa=18058.917053, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.780670, sog_mes=19.000000, toa=18063.398224, id=1, nb_error= 105, nb_r=296, perc.=0.354730 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.198425, sog_mes=18.900000, toa=18069.237000, id=1, nb_error= 99, nb_r=278, perc.=0.356115 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.100006, sog_mes=19.100000, toa=18075.258057, id=1, nb_error= 100, nb_r=280, perc.=0.357143 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.398193, sog_mes=19.000000, toa=18081.517548, id=1, nb_error= 101, nb_r=282, perc.=0.358156 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.220093, sog_mes=19.000000, toa=18087.237671, id=1, nb_error= 102, nb_r=284, perc.=0.359155 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.079468, sog_mes=19.200001, toa=18092.797485, id=1, nb_error= 103, nb_r=286, perc.=0.360140 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.820129, sog_mes=18.900000, toa=18099.097473, id=1, nb_error= 104, nb_r=288, perc.=0.361111 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.320007, sog_mes=19.100000, toa=18105.677216, id=1, nb_error= 105, nb_r=290, perc.=0.362069 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.556580, sog_mes=19.000000, toa=18117.358063, id=1, nb_error= 106, nb_r=294, perc.=0.360544 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.738251, sog_mes=19.100000, toa=18123.358063, id=1, nb_error= 107, nb_r=296, perc.=0.361486 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399994, sog_mes=19.299999, toa=18129.438080, id=1, nb_error= 101, nb_r=278, perc.=0.363309 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.100067, sog_mes=18.900000, toa=18135.258026, id=1, nb_error= 102, nb_r=280, perc.=0.364286 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399902, sog_mes=18.900000, toa=18141.517639, id=1, nb_error= 103, nb_r=282, perc.=0.365248 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.219849, sog_mes=19.100000, toa=18147.237946, id=1, nb_error= 104, nb_r=284, perc.=0.366197 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.816010, sog_mes=19.000000, toa=18159.097534, id=1, nb_error= 105, nb_r=288, perc.=0.364583 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.319946, sog_mes=19.200001, toa=18165.677155, id=1, nb_error= 106, nb_r=290, perc.=0.365517 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.119507, sog_mes=18.900000, toa=18176.917084, id=1, nb_error= 107, nb_r=294, perc.=0.363946 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.735077, sog_mes=18.799999, toa=18183.358032, id=1, nb_error= 108, nb_r=296, perc.=0.364865 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399323, sog_mes=18.700001, toa=18189.437805, id=1, nb_error= 101, nb_r=279, perc.=0.362007 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.996277, sog_mes=18.799999, toa=18195.357574, id=1, nb_error= 102, nb_r=281, perc.=0.362989 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.479431, sog_mes=18.799999, toa=18201.596802, id=1, nb_error= 103, nb_r=283, perc.=0.363958 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.219543, sog_mes=18.799999, toa=18207.237732, id=1, nb_error= 104, nb_r=285, perc.=0.364912 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.415802, sog_mes=18.900000, toa=18212.797424, id=1, nb_error= 105, nb_r=287, perc.=0.365854 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.820190, sog_mes=18.900000, toa=18219.097443, id=1, nb_error= 106, nb_r=289, perc.=0.366782 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.360748, sog_mes=19.000000, toa=18225.718170, id=1, nb_error= 107, nb_r=291, perc.=0.367698 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.660065, sog_mes=19.100000, toa=18231.517670, id=1, nb_error= 108, nb_r=293, perc.=0.368601 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.119354, sog_mes=18.799999, toa=18236.916809, id=1, nb_error= 109, nb_r=295, perc.=0.369492 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.400085, sog_mes=18.900000, toa=18249.438110, id=1, nb_error= 103, nb_r=279, perc.=0.369176 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.996216, sog_mes=18.900000, toa=18255.357574, id=1, nb_error= 104, nb_r=281, perc.=0.370107 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.657562, sog_mes=19.000000, toa=18261.597137, id=1, nb_error= 105, nb_r=283, perc.=0.371025 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.520294, sog_mes=18.900000, toa=18267.237823, id=1, nb_error= 106, nb_r=285, perc.=0.371930 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.399475, sog_mes=18.799999, toa=18272.797699, id=1, nb_error= 107, nb_r=287, perc.=0.372822 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.200012, sog_mes=19.000000, toa=18279.477325, id=1, nb_error= 108, nb_r=289, perc.=0.373702 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.560608, sog_mes=18.900000, toa=18285.717773, id=1, nb_error= 109, nb_r=291, perc.=0.374570 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.658722, sog_mes=19.000000, toa=18291.517212, id=1, nb_error= 110, nb_r=293, perc.=0.375427 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.377625, sog_mes=19.000000, toa=18296.916901, id=1, nb_error= 111, nb_r=295, perc.=0.376271 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.399963, sog_mes=19.000000, toa=18309.437836, id=1, nb_error= 105, nb_r=279, perc.=0.376344 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.999817, sog_mes=18.900000, toa=18315.357422, id=1, nb_error= 106, nb_r=281, perc.=0.377224 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.658020, sog_mes=19.000000, toa=18321.597107, id=1, nb_error= 107, nb_r=283, perc.=0.378092 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.503571, sog_mes=18.799999, toa=18327.220734, id=1, nb_error= 108, nb_r=285, perc.=0.378947 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.298431, sog_mes=18.799999, toa=18339.476929, id=1, nb_error= 109, nb_r=288, perc.=0.378472 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.658417, sog_mes=18.900000, toa=18351.517456, id=1, nb_error= 110, nb_r=292, perc.=0.376712 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.377594, sog_mes=18.700001, toa=18356.916687, id=1, nb_error= 111, nb_r=294, perc.=0.377551 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.400421, sog_mes=18.799999, toa=18369.438141, id=1, nb_error= 105, nb_r=278, perc.=0.377698 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.999237, sog_mes=18.799999, toa=18375.356781, id=1, nb_error= 106, nb_r=280, perc.=0.378571 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.658356, sog_mes=18.700001, toa=18381.597412, id=1, nb_error= 107, nb_r=282, perc.=0.379433 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.519836, sog_mes=18.500000, toa=18387.237366, id=1, nb_error= 108, nb_r=284, perc.=0.380282 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.281677, sog_mes=18.600000, toa=18399.460846, id=1, nb_error= 109, nb_r=287, perc.=0.379791 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.557129, sog_mes=18.700001, toa=18405.698730, id=1, nb_error= 110, nb_r=289, perc.=0.380623 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.479034, sog_mes=18.700001, toa=18411.517120, id=1, nb_error= 111, nb_r=291, perc.=0.381443 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.361694, sog_mes=18.600000, toa=18416.901184, id=1, nb_error= 112, nb_r=293, perc.=0.382253 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.701721, sog_mes=18.799999, toa=18429.739655, id=1, nb_error= 107, nb_r=278, perc.=0.384892 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.000275, sog_mes=18.900000, toa=18435.357910, id=1, nb_error= 108, nb_r=280, perc.=0.385714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.498596, sog_mes=18.900000, toa=18441.437592, id=1, nb_error= 109, nb_r=282, perc.=0.386525 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.384766, sog_mes=18.900000, toa=18447.102264, id=1, nb_error= 110, nb_r=284, perc.=0.387324 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.282135, sog_mes=18.900000, toa=18459.460724, id=1, nb_error= 111, nb_r=287, perc.=0.386760 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559204, sog_mes=18.900000, toa=18465.700256, id=1, nb_error= 112, nb_r=289, perc.=0.387543 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.479187, sog_mes=18.799999, toa=18471.517029, id=1, nb_error= 113, nb_r=291, perc.=0.388316 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.361938, sog_mes=18.900000, toa=18476.901062, id=1, nb_error= 114, nb_r=293, perc.=0.389078 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.697510, sog_mes=18.900000, toa=18489.739166, id=1, nb_error= 108, nb_r=277, perc.=0.389892 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.498444, sog_mes=18.799999, toa=18501.437561, id=1, nb_error= 109, nb_r=281, perc.=0.387900 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.385620, sog_mes=18.799999, toa=18507.103058, id=1, nb_error= 110, nb_r=283, perc.=0.388693 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.202667, sog_mes=18.600000, toa=18519.381195, id=1, nb_error= 111, nb_r=286, perc.=0.388112 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.479858, sog_mes=19.100000, toa=18525.700714, id=1, nb_error= 112, nb_r=288, perc.=0.388889 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.741821, sog_mes=18.799999, toa=18531.779877, id=1, nb_error= 113, nb_r=290, perc.=0.389655 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.361877, sog_mes=18.600000, toa=18536.900909, id=1, nb_error= 114, nb_r=292, perc.=0.390411 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.343781, sog_mes=18.900000, toa=18555.701111, id=1, nb_error= 107, nb_r=278, perc.=0.384892 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.498047, sog_mes=19.100000, toa=18561.437744, id=1, nb_error= 108, nb_r=280, perc.=0.385714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.381622, sog_mes=19.100000, toa=18567.098969, id=1, nb_error= 109, nb_r=282, perc.=0.386525 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.201538, sog_mes=19.200001, toa=18579.380249, id=1, nb_error= 110, nb_r=285, perc.=0.385965 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.478760, sog_mes=19.299999, toa=18585.699677, id=1, nb_error= 111, nb_r=287, perc.=0.386760 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.740845, sog_mes=19.000000, toa=18591.779633, id=1, nb_error= 112, nb_r=289, perc.=0.387543 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.719727, sog_mes=19.400000, toa=18597.258423, id=1, nb_error= 113, nb_r=291, perc.=0.388316 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.776398, sog_mes=19.299999, toa=18603.197113, id=1, nb_error= 114, nb_r=293, perc.=0.389078 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.240540, sog_mes=19.000000, toa=18621.437592, id=1, nb_error= 108, nb_r=279, perc.=0.387097 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.381409, sog_mes=18.700001, toa=18627.098694, id=1, nb_error= 109, nb_r=281, perc.=0.387900 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.201599, sog_mes=19.000000, toa=18639.380188, id=1, nb_error= 110, nb_r=284, perc.=0.387324 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.479858, sog_mes=18.900000, toa=18645.700104, id=1, nb_error= 111, nb_r=286, perc.=0.388112 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.716858, sog_mes=19.100000, toa=18651.779968, id=1, nb_error= 112, nb_r=288, perc.=0.388889 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.778442, sog_mes=19.000000, toa=18663.197235, id=1, nb_error= 113, nb_r=291, perc.=0.388316 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.382751, sog_mes=19.299999, toa=18687.099915, id=1, nb_error= 109, nb_r=278, perc.=0.392086 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.182983, sog_mes=19.400000, toa=18699.380310, id=1, nb_error= 110, nb_r=282, perc.=0.390071 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.839294, sog_mes=19.400000, toa=18705.059906, id=1, nb_error= 111, nb_r=284, perc.=0.390845 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.878326, sog_mes=19.500000, toa=18717.258423, id=1, nb_error= 112, nb_r=288, perc.=0.388889 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.776306, sog_mes=19.299999, toa=18723.196808, id=1, nb_error= 113, nb_r=290, perc.=0.389655 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.719177, sog_mes=19.299999, toa=18747.099457, id=1, nb_error= 107, nb_r=277, perc.=0.386282 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.183014, sog_mes=19.200001, toa=18759.380096, id=1, nb_error= 108, nb_r=280, perc.=0.385714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.840240, sog_mes=19.500000, toa=18765.059998, id=1, nb_error= 109, nb_r=282, perc.=0.386525 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.742310, sog_mes=19.500000, toa=18771.779846, id=1, nb_error= 110, nb_r=284, perc.=0.387324 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.878754, sog_mes=19.400000, toa=18777.258514, id=1, nb_error= 111, nb_r=286, perc.=0.388112 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.777130, sog_mes=19.600000, toa=18783.196930, id=1, nb_error= 112, nb_r=288, perc.=0.388889 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.498230, sog_mes=19.600000, toa=18806.877106, id=1, nb_error= 106, nb_r=275, perc.=0.385455 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.943054, sog_mes=19.500000, toa=18819.140259, id=1, nb_error= 107, nb_r=279, perc.=0.383513 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.839905, sog_mes=19.500000, toa=18825.059662, id=1, nb_error= 108, nb_r=281, perc.=0.384342 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.743744, sog_mes=19.500000, toa=18831.781219, id=1, nb_error= 109, nb_r=283, perc.=0.385159 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.878754, sog_mes=19.400000, toa=18837.258148, id=1, nb_error= 110, nb_r=285, perc.=0.385965 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.777435, sog_mes=19.500000, toa=18843.197052, id=1, nb_error= 111, nb_r=287, perc.=0.386760 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.498535, sog_mes=19.299999, toa=18866.876892, id=1, nb_error= 105, nb_r=275, perc.=0.381818 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.942444, sog_mes=19.400000, toa=18879.139526, id=1, nb_error= 106, nb_r=279, perc.=0.379928 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.076782, sog_mes=19.400000, toa=18885.059326, id=1, nb_error= 107, nb_r=281, perc.=0.380783 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.479584, sog_mes=19.299999, toa=18891.859406, id=1, nb_error= 108, nb_r=283, perc.=0.381625 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.879303, sog_mes=19.500000, toa=18897.258453, id=1, nb_error= 109, nb_r=285, perc.=0.382456 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227803100, delta t=13.016876, sog_mes=0.000000, toa=18899.276794, id=3, nb_error= 1, nb_r=94 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.777496, sog_mes=19.400000, toa=18903.196838, id=1, nb_error= 110, nb_r=287, perc.=0.383275 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.319885, sog_mes=19.000000, toa=18921.517242, id=1, nb_error= 103, nb_r=273, perc.=0.377289 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.498291, sog_mes=19.000000, toa=18926.877167, id=1, nb_error= 104, nb_r=275, perc.=0.378182 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.942291, sog_mes=19.100000, toa=18939.139709, id=1, nb_error= 105, nb_r=279, perc.=0.376344 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.079926, sog_mes=18.900000, toa=18945.059052, id=1, nb_error= 106, nb_r=281, perc.=0.377224 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.879791, sog_mes=19.299999, toa=18957.258667, id=1, nb_error= 107, nb_r=284, perc.=0.376761 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.319946, sog_mes=19.000000, toa=18981.517181, id=1, nb_error= 99, nb_r=272, perc.=0.363971 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.498413, sog_mes=19.100000, toa=18986.877106, id=1, nb_error= 100, nb_r=274, perc.=0.364964 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=185.758240, sog_mes=0.000000, toa=18987.777313, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.760681, sog_mes=19.000000, toa=18999.139435, id=1, nb_error= 101, nb_r=277, perc.=0.364621 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080688, sog_mes=19.100000, toa=19005.058685, id=1, nb_error= 102, nb_r=279, perc.=0.365591 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.480255, sog_mes=19.100000, toa=19011.858704, id=1, nb_error= 103, nb_r=281, perc.=0.366548 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.879700, sog_mes=19.000000, toa=19017.258484, id=1, nb_error= 104, nb_r=283, perc.=0.367491 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.279053, sog_mes=19.100000, toa=19029.577789, id=1, nb_error= 97, nb_r=267, perc.=0.363296 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.319977, sog_mes=19.100000, toa=19041.517303, id=1, nb_error= 98, nb_r=271, perc.=0.361624 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.760498, sog_mes=18.900000, toa=19059.139038, id=1, nb_error= 99, nb_r=277, perc.=0.357401 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.479736, sog_mes=18.700001, toa=19071.858032, id=1, nb_error= 100, nb_r=281, perc.=0.355872 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.118866, sog_mes=18.700001, toa=19077.257874, id=1, nb_error= 101, nb_r=283, perc.=0.356890 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.561798, sog_mes=18.700001, toa=19083.819763, id=1, nb_error= 102, nb_r=285, perc.=0.357895 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.280273, sog_mes=18.600000, toa=19089.578613, id=1, nb_error= 94, nb_r=267, perc.=0.352060 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.560089, sog_mes=18.799999, toa=19101.517090, id=1, nb_error= 95, nb_r=271, perc.=0.350554 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.760590, sog_mes=18.700001, toa=19119.138580, id=1, nb_error= 96, nb_r=276, perc.=0.347826 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.600708, sog_mes=18.700001, toa=19125.578796, id=1, nb_error= 97, nb_r=278, perc.=0.348921 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.479828, sog_mes=18.500000, toa=19131.857880, id=1, nb_error= 98, nb_r=280, perc.=0.350000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.119781, sog_mes=18.400000, toa=19137.258575, id=1, nb_error= 99, nb_r=282, perc.=0.351064 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.560608, sog_mes=18.500000, toa=19143.819275, id=1, nb_error= 100, nb_r=284, perc.=0.352113 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.439453, sog_mes=18.500000, toa=19149.737518, id=1, nb_error= 92, nb_r=266, perc.=0.345865 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559509, sog_mes=18.200001, toa=19161.517059, id=1, nb_error= 93, nb_r=270, perc.=0.344444 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=174.139618, sog_mes=0.000000, toa=19161.916931, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.639587, sog_mes=18.600000, toa=19167.857941, id=1, nb_error= 94, nb_r=272, perc.=0.345588 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.381012, sog_mes=18.299999, toa=19173.018402, id=1, nb_error= 95, nb_r=274, perc.=0.346715 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.319641, sog_mes=18.000000, toa=19179.697845, id=1, nb_error= 96, nb_r=276, perc.=0.347826 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.598083, sog_mes=18.600000, toa=19185.579102, id=1, nb_error= 97, nb_r=278, perc.=0.348921 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.282227, sog_mes=18.200001, toa=19191.659851, id=1, nb_error= 98, nb_r=280, perc.=0.350000 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.120819, sog_mes=17.900000, toa=19197.258453, id=1, nb_error= 99, nb_r=282, perc.=0.351064 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.562012, sog_mes=18.299999, toa=19203.820465, id=1, nb_error= 100, nb_r=284, perc.=0.352113 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.439301, sog_mes=18.200001, toa=19209.737427, id=1, nb_error= 94, nb_r=267, perc.=0.352060 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.560516, sog_mes=18.299999, toa=19221.517365, id=1, nb_error= 95, nb_r=271, perc.=0.350554 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.640137, sog_mes=18.299999, toa=19227.858185, id=1, nb_error= 96, nb_r=273, perc.=0.351648 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.379669, sog_mes=18.200001, toa=19233.018097, id=1, nb_error= 97, nb_r=275, perc.=0.352727 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.280701, sog_mes=18.200001, toa=19251.658478, id=1, nb_error= 98, nb_r=281, perc.=0.348754 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.120728, sog_mes=18.100000, toa=19257.258636, id=1, nb_error= 99, nb_r=283, perc.=0.349823 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.559967, sog_mes=18.299999, toa=19263.818481, id=1, nb_error= 100, nb_r=285, perc.=0.350877 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.435791, sog_mes=18.299999, toa=19269.737610, id=1, nb_error= 93, nb_r=268, perc.=0.347015 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559662, sog_mes=18.299999, toa=19281.516724, id=1, nb_error= 94, nb_r=272, perc.=0.345588 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.979523, sog_mes=18.400000, toa=19287.197510, id=1, nb_error= 95, nb_r=274, perc.=0.346715 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.380768, sog_mes=18.000000, toa=19293.018005, id=1, nb_error= 96, nb_r=276, perc.=0.347826 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.319702, sog_mes=18.200001, toa=19299.698029, id=1, nb_error= 97, nb_r=278, perc.=0.348921 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.277161, sog_mes=18.100000, toa=19311.658356, id=1, nb_error= 98, nb_r=282, perc.=0.347518 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.120819, sog_mes=18.000000, toa=19317.258362, id=1, nb_error= 99, nb_r=284, perc.=0.348592 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.559692, sog_mes=18.299999, toa=19323.817505, id=1, nb_error= 100, nb_r=286, perc.=0.349650 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.439545, sog_mes=18.299999, toa=19329.737396, id=1, nb_error= 93, nb_r=269, perc.=0.345725 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.759430, sog_mes=18.200001, toa=19341.657471, id=1, nb_error= 94, nb_r=273, perc.=0.344322 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.976929, sog_mes=18.400000, toa=19347.198181, id=1, nb_error= 95, nb_r=275, perc.=0.345455 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.381744, sog_mes=18.200001, toa=19353.019257, id=1, nb_error= 96, nb_r=277, perc.=0.346570 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.320587, sog_mes=18.200001, toa=19359.698059, id=1, nb_error= 97, nb_r=279, perc.=0.347670 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=538003578, delta t=7.999786, sog_mes=8.000000, toa=19370.956970, id=1, nb_error= 1, nb_r=81, perc.=0.012346 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.981598, sog_mes=18.200001, toa=19377.258698, id=1, nb_error= 98, nb_r=285, perc.=0.343860 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.558685, sog_mes=18.200001, toa=19383.817291, id=1, nb_error= 99, nb_r=287, perc.=0.344948 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.460754, sog_mes=18.200001, toa=19389.737762, id=1, nb_error= 93, nb_r=270, perc.=0.344444 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.759674, sog_mes=18.100000, toa=19401.657410, id=1, nb_error= 94, nb_r=274, perc.=0.343066 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.975983, sog_mes=18.200001, toa=19407.197815, id=1, nb_error= 95, nb_r=276, perc.=0.344203 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.760681, sog_mes=18.200001, toa=19413.019287, id=1, nb_error= 96, nb_r=278, perc.=0.345324 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=538003578, delta t=7.999908, sog_mes=8.200000, toa=19430.956848, id=1, nb_error= 2, nb_r=81, perc.=0.024691 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.544067, sog_mes=18.299999, toa=19436.820984, id=1, nb_error= 97, nb_r=286, perc.=0.339161 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.539368, sog_mes=18.400000, toa=19442.797638, id=1, nb_error= 98, nb_r=288, perc.=0.340278 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.460724, sog_mes=18.100000, toa=19449.737762, id=1, nb_error= 91, nb_r=271, perc.=0.335793 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.700073, sog_mes=18.100000, toa=19467.197571, id=1, nb_error= 92, nb_r=276, perc.=0.333333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.742126, sog_mes=18.400000, toa=19472.999908, id=1, nb_error= 93, nb_r=278, perc.=0.334532 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.721008, sog_mes=18.200001, toa=19485.299042, id=1, nb_error= 94, nb_r=282, perc.=0.333333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.541290, sog_mes=18.200001, toa=19496.818024, id=1, nb_error= 95, nb_r=286, perc.=0.332168 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.539642, sog_mes=18.299999, toa=19502.797943, id=1, nb_error= 96, nb_r=288, perc.=0.333333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.261292, sog_mes=18.299999, toa=19509.538422, id=1, nb_error= 91, nb_r=272, perc.=0.334559 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.014954, sog_mes=18.200001, toa=19515.218079, id=1, nb_error= 92, nb_r=274, perc.=0.335766 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.743011, sog_mes=18.299999, toa=19521.641663, id=1, nb_error= 93, nb_r=276, perc.=0.336957 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.702332, sog_mes=18.100000, toa=19527.200256, id=1, nb_error= 94, nb_r=278, perc.=0.338129 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.762482, sog_mes=18.200001, toa=19533.001160, id=1, nb_error= 95, nb_r=280, perc.=0.339286 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.021729, sog_mes=18.000000, toa=19545.298859, id=1, nb_error= 96, nb_r=284, perc.=0.338028 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=10.560455, sog_mes=18.500000, toa=19556.818390, id=1, nb_error= 97, nb_r=286, perc.=0.339161 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.556641, sog_mes=18.100000, toa=19562.798401, id=1, nb_error= 98, nb_r=288, perc.=0.340278 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.259155, sog_mes=18.400000, toa=19569.538574, id=1, nb_error= 94, nb_r=271, perc.=0.346863 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.016510, sog_mes=18.299999, toa=19575.217834, id=1, nb_error= 95, nb_r=273, perc.=0.347985 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.702484, sog_mes=18.299999, toa=19587.200012, id=1, nb_error= 96, nb_r=277, perc.=0.346570 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=185.364166, sog_mes=0.000000, toa=19708.242828, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=117.838531, sog_mes=18.299999, toa=19791.118134, id=1, nb_error= 79, nb_r=227, perc.=0.348018 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.533508, sog_mes=18.299999, toa=19803.777893, id=1, nb_error= 80, nb_r=230, perc.=0.347826 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.297150, sog_mes=18.200001, toa=19809.538177, id=1, nb_error= 76, nb_r=213, perc.=0.356808 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.779602, sog_mes=18.000000, toa=19814.977753, id=1, nb_error= 77, nb_r=215, perc.=0.358140 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.577942, sog_mes=18.100000, toa=19820.897766, id=1, nb_error= 78, nb_r=217, perc.=0.359447 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.599945, sog_mes=18.000000, toa=19832.841095, id=1, nb_error= 79, nb_r=221, perc.=0.357466 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.204254, sog_mes=18.200001, toa=19845.483765, id=1, nb_error= 80, nb_r=225, perc.=0.355556 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.838837, sog_mes=18.299999, toa=19851.118378, id=1, nb_error= 81, nb_r=227, perc.=0.356828 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.597687, sog_mes=18.000000, toa=19857.838654, id=1, nb_error= 82, nb_r=229, perc.=0.358079 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.777069, sog_mes=18.200001, toa=19863.777557, id=1, nb_error= 83, nb_r=231, perc.=0.359307 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.577423, sog_mes=18.500000, toa=19868.817780, id=1, nb_error= 78, nb_r=214, perc.=0.364486 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.779907, sog_mes=18.100000, toa=19874.977661, id=1, nb_error= 79, nb_r=216, perc.=0.365741 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.580292, sog_mes=18.200001, toa=19880.897797, id=1, nb_error= 80, nb_r=218, perc.=0.366972 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=172.955383, sog_mes=0.100000, toa=19881.198212, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.141052, sog_mes=18.200001, toa=19899.438538, id=1, nb_error= 81, nb_r=224, perc.=0.361607 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.200348, sog_mes=18.299999, toa=19905.480072, id=1, nb_error= 82, nb_r=226, perc.=0.362832 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.838440, sog_mes=18.299999, toa=19911.118134, id=1, nb_error= 83, nb_r=228, perc.=0.364035 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.597321, sog_mes=18.299999, toa=19917.838196, id=1, nb_error= 84, nb_r=230, perc.=0.365217 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.777435, sog_mes=18.200001, toa=19923.777466, id=1, nb_error= 85, nb_r=232, perc.=0.366379 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.573303, sog_mes=18.299999, toa=19928.817871, id=1, nb_error= 80, nb_r=214, perc.=0.373832 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.578430, sog_mes=18.400000, toa=19940.897888, id=1, nb_error= 81, nb_r=218, perc.=0.371560 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.681732, sog_mes=18.299999, toa=19947.159882, id=1, nb_error= 82, nb_r=220, perc.=0.372727 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.141449, sog_mes=18.400000, toa=19959.439331, id=1, nb_error= 83, nb_r=223, perc.=0.372197 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.722443, sog_mes=18.200001, toa=19965.480164, id=1, nb_error= 84, nb_r=225, perc.=0.373333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.838623, sog_mes=18.200001, toa=19971.118042, id=1, nb_error= 85, nb_r=227, perc.=0.374449 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=10.537079, sog_mes=18.100000, toa=19983.777496, id=1, nb_error= 86, nb_r=229, perc.=0.375546 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.577026, sog_mes=18.000000, toa=19988.817444, id=1, nb_error= 80, nb_r=212, perc.=0.377358 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.482971, sog_mes=18.100000, toa=19995.002625, id=1, nb_error= 81, nb_r=214, perc.=0.378505 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080170, sog_mes=18.100000, toa=20000.897797, id=1, nb_error= 82, nb_r=216, perc.=0.379630 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.580322, sog_mes=17.900000, toa=20018.878113, id=1, nb_error= 83, nb_r=221, perc.=0.375566 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.721222, sog_mes=18.000000, toa=20025.479919, id=1, nb_error= 84, nb_r=223, perc.=0.376682 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.838684, sog_mes=18.000000, toa=20031.118134, id=1, nb_error= 85, nb_r=225, perc.=0.377778 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.598480, sog_mes=18.000000, toa=20037.838379, id=1, nb_error= 86, nb_r=227, perc.=0.378855 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.577454, sog_mes=18.100000, toa=20048.817566, id=1, nb_error= 78, nb_r=210, perc.=0.371429 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.459717, sog_mes=18.000000, toa=20054.978851, id=1, nb_error= 79, nb_r=212, perc.=0.372642 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080719, sog_mes=18.200001, toa=20060.898254, id=1, nb_error= 80, nb_r=214, perc.=0.373832 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=187.641479, sog_mes=0.100000, toa=20068.839691, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.580536, sog_mes=18.200001, toa=20078.877838, id=1, nb_error= 81, nb_r=218, perc.=0.371560 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.720795, sog_mes=18.100000, toa=20085.479889, id=1, nb_error= 82, nb_r=220, perc.=0.372727 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.599182, sog_mes=18.299999, toa=20097.838715, id=1, nb_error= 83, nb_r=223, perc.=0.372197 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.783752, sog_mes=18.400000, toa=20103.782379, id=1, nb_error= 84, nb_r=225, perc.=0.373333 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.579071, sog_mes=18.000000, toa=20108.817780, id=1, nb_error= 78, nb_r=207, perc.=0.376812 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.081390, sog_mes=18.600000, toa=20120.898621, id=1, nb_error= 79, nb_r=211, perc.=0.374408 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227002630, delta t=5.775482, sog_mes=11.000000, toa=20127.039337, id=1, nb_error= 1, nb_r=280, perc.=0.003571 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.680817, sog_mes=18.100000, toa=20127.158508, id=1, nb_error= 80, nb_r=213, perc.=0.375587 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227002630, delta t=5.462585, sog_mes=10.200000, toa=20132.501923, id=1, nb_error= 2, nb_r=281, perc.=0.007117 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.399078, sog_mes=18.400000, toa=20138.876984, id=1, nb_error= 81, nb_r=217, perc.=0.373272 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.745026, sog_mes=18.200001, toa=20145.503448, id=1, nb_error= 82, nb_r=219, perc.=0.374429 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.840179, sog_mes=18.100000, toa=20151.118134, id=1, nb_error= 83, nb_r=221, perc.=0.375566 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.599365, sog_mes=18.299999, toa=20156.838684, id=1, nb_error= 84, nb_r=223, perc.=0.376682 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.784119, sog_mes=18.500000, toa=20163.782562, id=1, nb_error= 85, nb_r=225, perc.=0.377778 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559906, sog_mes=18.100000, toa=20168.817535, id=1, nb_error= 78, nb_r=207, perc.=0.376812 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080627, sog_mes=18.400000, toa=20180.898163, id=1, nb_error= 79, nb_r=211, perc.=0.374408 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.680511, sog_mes=18.299999, toa=20187.158142, id=1, nb_error= 80, nb_r=213, perc.=0.375587 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.399323, sog_mes=18.200001, toa=20198.877563, id=1, nb_error= 81, nb_r=217, perc.=0.373272 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.919800, sog_mes=18.400000, toa=20223.138092, id=1, nb_error= 82, nb_r=224, perc.=0.366071 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559479, sog_mes=18.299999, toa=20228.817352, id=1, nb_error= 76, nb_r=206, perc.=0.368932 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.080475, sog_mes=18.400000, toa=20240.898132, id=1, nb_error= 77, nb_r=210, perc.=0.366667 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.680145, sog_mes=18.200001, toa=20247.157928, id=1, nb_error= 78, nb_r=212, perc.=0.367925 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.398865, sog_mes=18.100000, toa=20258.876892, id=1, nb_error= 79, nb_r=216, perc.=0.365741 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.880859, sog_mes=18.200001, toa=20276.838013, id=1, nb_error= 80, nb_r=222, perc.=0.360360 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.954163, sog_mes=18.100000, toa=20283.171783, id=1, nb_error= 81, nb_r=224, perc.=0.361607 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.399445, sog_mes=18.000000, toa=20318.877716, id=1, nb_error= 76, nb_r=213, perc.=0.356808 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.299805, sog_mes=17.799999, toa=20325.597534, id=1, nb_error= 77, nb_r=215, perc.=0.358140 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.922150, sog_mes=17.900000, toa=20343.140350, id=1, nb_error= 78, nb_r=220, perc.=0.354545 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.758728, sog_mes=18.100000, toa=20360.897766, id=1, nb_error= 73, nb_r=207, perc.=0.352657 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.621765, sog_mes=18.200001, toa=20373.218719, id=1, nb_error= 74, nb_r=211, perc.=0.350711 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.399963, sog_mes=18.200001, toa=20378.878082, id=1, nb_error= 75, nb_r=213, perc.=0.352113 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.298126, sog_mes=18.200001, toa=20385.597168, id=1, nb_error= 76, nb_r=215, perc.=0.353488 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.880798, sog_mes=18.100000, toa=20396.838013, id=1, nb_error= 77, nb_r=219, perc.=0.351598 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.921387, sog_mes=18.200001, toa=20403.139160, id=1, nb_error= 78, nb_r=221, perc.=0.352941 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.676086, sog_mes=18.299999, toa=20415.517914, id=1, nb_error= 71, nb_r=207, perc.=0.342995 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.759460, sog_mes=18.200001, toa=20420.898315, id=1, nb_error= 72, nb_r=209, perc.=0.344498 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.621033, sog_mes=18.000000, toa=20433.218445, id=1, nb_error= 73, nb_r=213, perc.=0.342723 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.399811, sog_mes=18.100000, toa=20438.877350, id=1, nb_error= 74, nb_r=215, perc.=0.344186 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.298920, sog_mes=18.200001, toa=20445.596985, id=1, nb_error= 75, nb_r=217, perc.=0.345622 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.179779, sog_mes=18.200001, toa=20463.397552, id=1, nb_error= 76, nb_r=223, perc.=0.340807 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.536591, sog_mes=18.100000, toa=20475.378418, id=1, nb_error= 74, nb_r=218, perc.=0.339450 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.758789, sog_mes=18.200001, toa=20480.898346, id=1, nb_error= 75, nb_r=220, perc.=0.340909 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.621033, sog_mes=17.900000, toa=20493.218353, id=1, nb_error= 76, nb_r=224, perc.=0.339286 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.345184, sog_mes=18.100000, toa=20498.822418, id=1, nb_error= 77, nb_r=226, perc.=0.340708 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.898712, sog_mes=18.000000, toa=20505.197327, id=1, nb_error= 78, nb_r=228, perc.=0.342105 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.179871, sog_mes=18.299999, toa=20523.397675, id=1, nb_error= 79, nb_r=234, perc.=0.337607 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.778168, sog_mes=18.000000, toa=20529.596954, id=1, nb_error= 80, nb_r=233, perc.=0.343348 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.536255, sog_mes=18.200001, toa=20535.378082, id=1, nb_error= 81, nb_r=235, perc.=0.344681 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=3.759216, sog_mes=18.500000, toa=20540.898651, id=1, nb_error= 82, nb_r=237, perc.=0.345992 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.620087, sog_mes=18.000000, toa=20553.217651, id=1, nb_error= 83, nb_r=241, perc.=0.344398 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.345490, sog_mes=18.500000, toa=20558.822571, id=1, nb_error= 84, nb_r=243, perc.=0.345679 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.440369, sog_mes=18.500000, toa=20565.197418, id=1, nb_error= 85, nb_r=245, perc.=0.346939 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.426239, sog_mes=18.299999, toa=20583.423584, id=1, nb_error= 86, nb_r=249, perc.=0.345382 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.779236, sog_mes=18.000000, toa=20589.596802, id=1, nb_error= 87, nb_r=251, perc.=0.346614 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.536987, sog_mes=18.000000, toa=20595.378632, id=1, nb_error= 88, nb_r=253, perc.=0.347826 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.605469, sog_mes=18.299999, toa=20601.743164, id=1, nb_error= 89, nb_r=255, perc.=0.349020 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=174.621582, sog_mes=0.100000, toa=20602.320190, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.621735, sog_mes=18.000000, toa=20613.218475, id=1, nb_error= 90, nb_r=259, perc.=0.347490 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.423126, sog_mes=18.200001, toa=20625.180420, id=1, nb_error= 91, nb_r=262, perc.=0.347328 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.426727, sog_mes=18.299999, toa=20643.423798, id=1, nb_error= 92, nb_r=267, perc.=0.344569 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.777740, sog_mes=18.100000, toa=20649.596619, id=1, nb_error= 91, nb_r=264, perc.=0.344697 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.160675, sog_mes=18.200001, toa=20655.379669, id=1, nb_error= 92, nb_r=266, perc.=0.345865 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.984283, sog_mes=18.500000, toa=20678.822174, id=1, nb_error= 93, nb_r=271, perc.=0.343173 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.423004, sog_mes=18.100000, toa=20685.180573, id=1, nb_error= 94, nb_r=273, perc.=0.344322 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.516144, sog_mes=18.400000, toa=20697.457458, id=1, nb_error= 95, nb_r=276, perc.=0.344203 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.426270, sog_mes=18.400000, toa=20703.423309, id=1, nb_error= 96, nb_r=278, perc.=0.345324 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.762024, sog_mes=18.400000, toa=20709.580475, id=1, nb_error= 89, nb_r=260, perc.=0.342308 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.640015, sog_mes=18.200001, toa=20715.858582, id=1, nb_error= 90, nb_r=262, perc.=0.343511 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.578339, sog_mes=18.500000, toa=20721.717316, id=1, nb_error= 91, nb_r=264, perc.=0.344697 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.722168, sog_mes=18.200001, toa=20733.342255, id=1, nb_error= 92, nb_r=268, perc.=0.343284 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.980347, sog_mes=18.400000, toa=20738.821960, id=1, nb_error= 93, nb_r=270, perc.=0.344444 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.419189, sog_mes=18.200001, toa=20745.180481, id=1, nb_error= 94, nb_r=272, perc.=0.345588 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.517609, sog_mes=18.400000, toa=20757.458435, id=1, nb_error= 95, nb_r=275, perc.=0.345455 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.400299, sog_mes=18.500000, toa=20763.397400, id=1, nb_error= 96, nb_r=277, perc.=0.346570 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.779205, sog_mes=18.299999, toa=20769.597015, id=1, nb_error= 89, nb_r=259, perc.=0.343629 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227306100, delta t=186.378143, sog_mes=0.100000, toa=20788.698334, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.700989, sog_mes=18.100000, toa=20793.321503, id=1, nb_error= 90, nb_r=263, perc.=0.342205 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.439758, sog_mes=18.500000, toa=20805.196991, id=1, nb_error= 91, nb_r=266, perc.=0.342105 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.278412, sog_mes=18.600000, toa=20912.898438, id=1, nb_error= 78, nb_r=248, perc.=0.314516 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.865356, sog_mes=18.500000, toa=21099.182312, id=1, nb_error= 59, nb_r=222, perc.=0.265766 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.839874, sog_mes=19.299999, toa=21314.996765, id=1, nb_error= 39, nb_r=178, perc.=0.219101 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=174.342743, sog_mes=0.000000, toa=21322.841736, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.698456, sog_mes=18.900000, toa=21447.876587, id=1, nb_error= 27, nb_r=163, perc.=0.165644 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.559326, sog_mes=18.900000, toa=21464.898987, id=1, nb_error= 28, nb_r=167, perc.=0.167665 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.741852, sog_mes=18.799999, toa=21542.818512, id=1, nb_error= 23, nb_r=164, perc.=0.140244 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.700897, sog_mes=18.700001, toa=21633.297485, id=1, nb_error= 10, nb_r=145, perc.=0.068966 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.320129, sog_mes=18.500000, toa=21717.057709, id=1, nb_error= 8, nb_r=149, perc.=0.053691 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.760193, sog_mes=19.299999, toa=21963.537720, id=1, nb_error= 8, nb_r=152, perc.=0.052632 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.618286, sog_mes=18.400000, toa=22209.456940, id=1, nb_error= 7, nb_r=138, perc.=0.050725 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=10.685852, sog_mes=18.700001, toa=22425.143341, id=1, nb_error= 5, nb_r=132, perc.=0.037879 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.324646, sog_mes=18.700001, toa=22460.922241, id=1, nb_error= 6, nb_r=127, perc.=0.047244 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.440094, sog_mes=18.400000, toa=22496.838165, id=1, nb_error= 7, nb_r=133, perc.=0.052632 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=4.425629, sog_mes=18.900000, toa=22503.463593, id=1, nb_error= 8, nb_r=135, perc.=0.059259 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.440704, sog_mes=18.299999, toa=22556.838318, id=1, nb_error= 8, nb_r=135, perc.=0.059259 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=186.579102, sog_mes=0.000000, toa=22636.297424, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=172.140472, sog_mes=0.000000, toa=22808.437897, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=6.375183, sog_mes=12.700000, toa=22901.276550, id=1, nb_error= 1, nb_r=136, perc.=0.007353 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.400085, sog_mes=12.500000, toa=22906.676636, id=1, nb_error= 2, nb_r=137, perc.=0.014599 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=6.384644, sog_mes=12.500000, toa=22913.061279, id=1, nb_error= 3, nb_r=138, perc.=0.021739 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=6.135864, sog_mes=12.300000, toa=22919.197144, id=1, nb_error= 4, nb_r=139, perc.=0.028777 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=6.184082, sog_mes=12.000000, toa=22925.381226, id=1, nb_error= 5, nb_r=140, perc.=0.035714 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.895844, sog_mes=12.000000, toa=22931.277069, id=1, nb_error= 6, nb_r=135, perc.=0.044444 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=6.320251, sog_mes=11.900000, toa=22937.597321, id=1, nb_error= 7, nb_r=136, perc.=0.051471 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.759277, sog_mes=12.000000, toa=22943.356598, id=1, nb_error= 8, nb_r=137, perc.=0.058394 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=5.760010, sog_mes=11.900000, toa=22961.277191, id=1, nb_error= 9, nb_r=140, perc.=0.064286 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.463959, sog_mes=11.900000, toa=22966.741150, id=1, nb_error= 10, nb_r=141, perc.=0.070922 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=6.319733, sog_mes=11.700000, toa=22973.060883, id=1, nb_error= 11, nb_r=142, perc.=0.077465 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=6.135895, sog_mes=11.900000, toa=22979.196777, id=1, nb_error= 12, nb_r=143, perc.=0.083916 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=6.182648, sog_mes=11.900000, toa=22985.379425, id=1, nb_error= 13, nb_r=144, perc.=0.090278 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=188.062744, sog_mes=0.000000, toa=22996.500641, id=3, nb_error= 3, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.760681, sog_mes=12.000000, toa=23003.357300, id=1, nb_error= 14, nb_r=139, perc.=0.100719 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=5.501099, sog_mes=12.000000, toa=23008.858398, id=1, nb_error= 15, nb_r=140, perc.=0.107143 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.200012, sog_mes=12.100000, toa=23031.940826, id=1, nb_error= 16, nb_r=145, perc.=0.110345 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.539032, sog_mes=12.200000, toa=23039.197327, id=1, nb_error= 17, nb_r=147, perc.=0.115646 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=227801900, delta t=6.183380, sog_mes=12.100000, toa=23045.380707, id=1, nb_error= 18, nb_r=148, perc.=0.121622 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=227801900, delta t=5.959106, sog_mes=12.200000, toa=23051.339813, id=1, nb_error= 19, nb_r=136, perc.=0.139706 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=173.439850, sog_mes=0.000000, toa=23169.940491, id=3, nb_error= 4, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=2, mmsi=228408900, delta t=3.826874, sog_mes=18.600000, toa=23246.823425, id=1, nb_error= 6, nb_r=104, perc.=0.057692 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228408900, delta t=4.079712, sog_mes=18.200001, toa=23408.956604, id=1, nb_error= 2, nb_r=93, perc.=0.021505 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228353900, delta t=174.441284, sog_mes=0.000000, toa=25774.619904, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228353900, delta t=186.158295, sog_mes=0.000000, toa=25960.778198, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=257344000, delta t=186.640594, sog_mes=0.000000, toa=25986.917114, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227306100, delta t=185.338135, sog_mes=0.100000, toa=26007.237518, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=174.640137, sog_mes=0.000000, toa=26229.237518, id=3, nb_error= 1, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=174.662750, sog_mes=0.000000, toa=26588.480865, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227801900, delta t=10.741943, sog_mes=0.000000, toa=26931.599701, id=3, nb_error= 1, nb_r=85 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227801900, delta t=9.097626, sog_mes=0.000000, toa=26940.697327, id=1, nb_error= 2, nb_r=86 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227801900, delta t=7.741058, sog_mes=0.000000, toa=26958.138641, id=3, nb_error= 3, nb_r=82 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227801900, delta t=345.599762, sog_mes=0.000000, toa=27317.097595, id=3, nb_error= 4, nb_r=50 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=173.622162, sog_mes=0.000000, toa=27486.619263, id=3, nb_error= 2, nb_r=6 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=7.799805, sog_mes=0.900000, toa=28407.138916, id=1, nb_error= 1, nb_r=88 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=130.480469, sog_mes=0.000000, toa=28578.738556, id=3, nb_error= 2, nb_r=75 
+Alert22: RI does not respect the vessel velocity specified by the AIS, channel=1, mmsi=228392900, delta t=89.854736, sog_mes=14.600000, toa=28698.938904, id=1, nb_error= 1, nb_r=55, perc.=0.018182 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=8.620392, sog_mes=1.400000, toa=29345.038696, id=1, nb_error= 2, nb_r=12 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=227612860, delta t=6.639801, sog_mes=1.200000, toa=29351.678497, id=3, nb_error= 3, nb_r=12 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=563071100, delta t=174.178894, sog_mes=0.000000, toa=30186.837799, id=3, nb_error= 1, nb_r=6 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=20.056976, sog_mes=0.200000, toa=30364.597107, id=3, nb_error= 1, nb_r=50 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=563071100, delta t=186.859894, sog_mes=0.000000, toa=30373.697693, id=3, nb_error= 2, nb_r=5 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=9.840637, sog_mes=0.100000, toa=30374.437744, id=1, nb_error= 2, nb_r=48 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=30.102386, sog_mes=0.100000, toa=30404.540131, id=3, nb_error= 3, nb_r=49 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=140.617218, sog_mes=0.000000, toa=30545.157349, id=3, nb_error= 4, nb_r=43 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=2, mmsi=228017700, delta t=9.098267, sog_mes=1.700000, toa=30626.996887, id=3, nb_error= 5, nb_r=37 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=228017700, delta t=10.261139, sog_mes=1.200000, toa=30637.258026, id=3, nb_error= 6, nb_r=38 
+Alert22: RI does not respect the vessel velocity specified by the AIS (ship at anchor),channel=1, mmsi=227612860, delta t=106.822845, sog_mes=0.100000, toa=31066.721191, id=3, nb_error= 1, nb_r=79 

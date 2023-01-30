@@ -21,7 +21,6 @@ for i=1:length(slot_number_mes)
         dec=rem(slot_number_mes(i)-time_slot_comp(i)+2250,2250);
         indice=indice+1;
     end
-    dec=0;
 end
 Algorithm_out=Algorithm_in;
 Algorithm_out.dec=dec;

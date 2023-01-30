@@ -48,7 +48,7 @@ if (abs(toa_last-toa)>60)
     end
     % boats update
     Algorithm_in=data_update(Algorithm_in,fid4,nb_frame);
-% Test to know if we start a new frame
+    % Test to know if we start a new frame
 elseif (Algorithm_in.toa_recal_pres-Algorithm_in.toa_recal_past<0) && (toa_last-toa<0)
     % boats update
     nb_frame=1;

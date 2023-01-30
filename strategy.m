@@ -4,22 +4,9 @@ close all;
 
 % filenamedata can vary from data1 to data9. We made 9 data acquisition
 % compaign
-filenamedata="data6";
+filenamedata="data_hackathon";
 
-fid0 = fopen(filenamedata+"/sorted_table.csv");
-
-textLine = fgets(fid0); % Read first line.
-lineCounter = 1;
-
-while ischar(textLine)
-    fprintf('\nLine #%d of text = %s\n', lineCounter, textLine);
-    T = textscan(textLine, '%f', 'Delimiter', ';');
-    table(lineCounter,1:length(T{1,1}))=T{1,1}';
-    textLine = fgets(fid0);
-    lineCounter = lineCounter + 1;
-end
-fclose(fid0);
-
+table = table2array(readtable(filenamedata+"/sorted_table_100000.csv",'delimiter',';'));
 
 % File that contains every alarm detected
 filename_a_f='alerts_strategy.dat';
@@ -51,11 +38,13 @@ Re=6378137;
 % Kalman parameters
 sigma_v_gps=5.3;
 % latitude of the receiver that received the messages
-lat_re=48.282935;
+y_re=48.359029;
+x_re=-4.566914;
+
 % longitude parameters
 a_max=1; % acceleration maximal is 1nd.s^-2
-sigma_v_x=sigma_v_gps/((Re*pi/180)*cos(lat_re*pi/180));
-sigma_w_x=0.5*a_max*0.514444/((Re*pi/180)*cos(lat_re*pi/180))*0.8;
+sigma_v_x=sigma_v_gps/((Re*pi/180)*cos(y_re*pi/180));
+sigma_w_x=0.5*a_max*0.514444/((Re*pi/180)*cos(y_re*pi/180))*0.8;
 % latitude parameters
 a_max=1; % acceleration maximal is 1nd.s^-2
 sigma_v_y=sigma_v_gps/(Rn*pi/180);
@@ -67,7 +56,7 @@ nb_frame_av=15;
 nb_frame_stead=3;
 
 % Boat structure
-Boat=struct('mmsi',0,'list_nb_r',zeros(1,nb_frame_av),'toa_init',0,'toa_last',0,'TS_last',0,'id_last',0,'NTR',0,'ListNTS_A',[],'ListNTS_B',[],'X_lat_est',zeros(2,1),'X_lat_pred',zeros(2,1),'X_lon_est',zeros(2,1),'X_lon_pred',zeros(2,1),'P_lat_pred',zeros(2,2),'P_lat_est',zeros(2,2),'P_lon_pred',zeros(2,2),'P_lon_est',zeros(2,2),'list_toa_mes',zeros(1,1),'mano',0,'mano_channel_A',0,'mano_channel_B',0,'nb_error_1_lat',0,'nb_error_1_lon',0,'list_nb_err_21',zeros(1,nb_frame_av),'list_nb_err_22',zeros(1,nb_frame_av),'list_nb_err_3',zeros(1,nb_frame_av));
+Boat=struct('mmsi',0,'list_nb_r',zeros(1,nb_frame_av),'toa_init',0,'toa_last',0,'TS_last',0,'id_last',0,'NTR',0,'ListNTS_A',[],'ListNTS_B',[],'X_y_est',zeros(2,1),'X_y_pred',zeros(2,1),'X_x_est',zeros(2,1),'X_x_pred',zeros(2,1),'P_y_pred',zeros(2,2),'P_y_est',zeros(2,2),'P_x_pred',zeros(2,2),'P_x_est',zeros(2,2),'list_toa_mes',zeros(1,1),'mano',0,'mano_channel_A',0,'mano_channel_B',0,'nb_error_1_y',0,'nb_error_1_x',0,'list_nb_err_21',zeros(1,nb_frame_av),'list_nb_err_22',zeros(1,nb_frame_av),'list_nb_err_3',zeros(1,nb_frame_av));
 % Structure that contain every boat controlled by the final algorithm
 Struct_list_boat=struct('list_mmsi',[],'list_boat',[Boat],'nb_boat',0,'idx_new_boat',0,'idx_mov_av',1);
 % Structure that contains the fix parameters of the Kalman filter
@@ -75,7 +64,7 @@ Kalman=struct('R_x',sigma_v_x^2,'R_y',sigma_v_y^2,'sigma_v_x',sigma_v_x,'sigma_v
 % Structure that contains every data received on a message
 Data=struct('toa',[],'mmsi',[],'id',[],'slot_timeout',[],'rot',[],'sog',[],'x',[],'y',[],'cog',[],'true_heading',[],'timestamp',[],'slot_number',[],'slot_offset',[],'slot_increment',[],'keep_flag',[],'repeat_indicator',[],'nav_status',[],'nb_elements',0,'channel',[]);
 % Structure of the algorithm
-Algorithm=struct('Struct_list_boat',Struct_list_boat,'Kalman',Kalman,'idx_boat',0,'Data',Data,'R',6371000,'i',0,'toa_recal_past',0,'toa_recal_pres',0,'TS',0,'dec',0,'nb_frame_av',nb_frame_av,'nb_frame_stead',nb_frame_stead,'list_inno_lat',[],'list_inno_lon',[],'list_inno_sog',[],'list_delta_t',[],'list_S_lat',[],'list_S_lon',[],'list_S_sog',[]);
+Algorithm=struct('Struct_list_boat',Struct_list_boat,'Kalman',Kalman,'idx_boat',0,'Data',Data,'x_re',x_re,'y_re',y_re,'R',6371000,'i',0,'toa_recal_past',0,'toa_recal_pres',0,'TS',0,'dec',0,'nb_frame_av',nb_frame_av,'nb_frame_stead',nb_frame_stead,'list_delta_t',[]);
 
 % Creation of Algorithm_AIS
 Algorithm_AIS=Algorithm;
@@ -131,13 +120,32 @@ while idx_mes<N+1
         idx_mes=idx_mes+1;
     end
 end
+
+% Data.mmsi(98038)=000000000;
+% Data.id(98038)=Data.id(98037);
+% Data.nav_status(98038)=Data.nav_status(98037);
+% Data.slot_timeout(98038)=Data.slot_timeout(98037);
+% Data.rot(98038)=Data.rot(98037);
+% Data.sog(98038)=Data.sog(98037);
+% Data.x(98038)=Data.x(98037);
+% Data.y(98038)=Data.y(98037);
+% Data.cog(98038)=Data.cog(98037);
+% Data.true_heading(98038)=Data.true_heading(98037);
+% Data.timestamp(98038)=Data.timestamp(98037);
+% Data.slot_number(98038)=Data.slot_number(98037);
+% Data.slot_offset(98038)=Data.slot_offset(98037);
+% Data.slot_increment(98038)=Data.slot_increment(98037);
+% Data.keep_flag(98038)=Data.keep_flag(98037);
+% Data.repeat_indicator(98038)=Data.repeat_indicator(98037);
+% Data.channel(98038)=Data.channel(98037);
+
 % recording of AIS data in the AIS algorithm.
 Algorithm_AIS.Data=Data;
 
-%synchronisation of the recorded time to the minute utc
+% synchronisation of the recorded time to the minute utc
 Algorithm_AIS=time_synchronisation(Algorithm_AIS);
 
-%Data to inform when we start a new frame
+% Data to inform when we start a new frame
 Algorithm_AIS.toa_recal_past=0;
 Algorithm_AIS.toa_recal_pres=0;
 
@@ -171,8 +179,8 @@ for i=1:Algorithm_AIS.Data.nb_elements
         Algorithm_AIS=algorithm3(Algorithm_AIS,fid4,fid3);
         
     else
-        %INITIALISATION
-        %A new boat is added to the boat controlled by the final algorithm
+        % INITIALISATION
+        % A new boat is added to the boat controlled by the final algorithm
         Algorithm_AIS=recording_new_boat(Algorithm_AIS,fid4);
         
         % Booking process is applied
