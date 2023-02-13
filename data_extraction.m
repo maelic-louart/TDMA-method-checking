@@ -14,7 +14,4 @@ y=Algorithm_in.Data.y(j);
 sog=Algorithm_in.Data.sog(j);
 cog=Algorithm_in.Data.cog(j);
 channel=Algorithm_in.Data.channel(j);
-if((((sog>100 && mmsi~=228098000) && mmsi~=228077000) && mmsi~=227306000) && mmsi~=227806500 )
-    a=1;
-end
 end

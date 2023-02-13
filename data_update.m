@@ -19,7 +19,9 @@ for i=1:nb_boat
         boat.list_nb_err_21=zeros(1,nb_frame_av);
         boat.list_nb_err_22=zeros(1,nb_frame_av);
         boat.list_nb_err_3=zeros(1,nb_frame_av);
-        boat.list_nb_r=zeros(1,nb_frame_av);
+        boat.list_nb_r21=zeros(1,nb_frame_av);
+        boat.list_nb_r22=zeros(1,nb_frame_av);
+        boat.list_nb_r3=zeros(1,nb_frame_av);
         ListNTS_A=[-1];
         ListNTS_B=[-1];
         boat.ListNTS_A=ListNTS_A;
@@ -34,7 +36,9 @@ for i=1:nb_boat
             boat.list_nb_err_21(idx)=0;
             boat.list_nb_err_22(idx)=0;
             boat.list_nb_err_3(idx)=0;
-            boat.list_nb_r(idx)=0;
+            boat.list_nb_r21(idx)=0;
+            boat.list_nb_r22(idx)=0;
+            boat.list_nb_r3(idx)=0;
             % frame update
             % Channel A
             ListNTS_A=boat.ListNTS_A;

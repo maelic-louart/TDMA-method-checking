@@ -12,32 +12,18 @@ sigma_v_y=Algorithm_in.Kalman.sigma_v_y;
 toa_last=Boat_update.toa_last;
 last_x_mes=Boat_update.X_x_est(1);
 last_y_mes=Boat_update.X_y_est(1);
-x_re=Algorithm_in.x_re;
-y_re=Algorithm_in.y_re;
 
 toa_mes=Algorithm_in.Data.toa(j);
 x_mes=Algorithm_in.Data.x(j);
 y_mes=Algorithm_in.Data.y(j);
-if(x_mes==181)
-    x_mes=x_re;
-    fprintf(fid1,"measurment not avaiblable in longitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
-    fprintf(fid4,"measurment not available in longitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
+if(x_mes==181 || last_x_mes==181 || y_mes==91 || last_y_mes==91)
+    fprintf(fid1,"measurment not avaiblable in position, mmsi=%d, toa=%f \n",[Boat_update.mmsi;toa_mes]);
+    fprintf(fid4,"measurment not available in position, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
+    Boat_update.list_nb_r1(idx_mov_av)=Boat_update.list_nb_r1(idx_mov_av);
+else
+    Boat_update.list_nb_r1(idx_mov_av)=Boat_update.list_nb_r1(idx_mov_av)+1;
 end
-if(last_x_mes==181)
-    last_x_mes=x_re;
-    fprintf(fid1,"measurment not avaiblable in longitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
-    fprintf(fid4,"measurment not available in longitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
-end
-if(y_mes==91)
-    y_mes=y_re;
-    fprintf(fid1,"measurment not avaiblable in latitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
-    fprintf(fid4,"measurment not available in latitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
-end
-if(last_y_mes==91)
-    last_y_mes=y_re;
-    fprintf(fid1,"measurment not avaiblable in latitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
-    fprintf(fid4,"measurment not available in latitude, mmsi=%d, toa=%f \n",[Boat_update.mmsi,toa_mes]);
-end
+
 delta_t=toa_mes-toa_last;
 x_speed_mes=(x_mes-last_x_mes)/delta_t;
 y_speed_mes=(y_mes-last_y_mes)/delta_t;
@@ -50,8 +36,8 @@ Boat_update.P_x_pred=[sigma_v_x^2,sigma_v_x^2/delta_t;sigma_v_x^2/delta_t,2*sigm
 Boat_update.P_x_est=[sigma_v_x^2,sigma_v_x^2/delta_t;sigma_v_x^2/delta_t,2*sigma_v_x^2/delta_t^2];
 Boat_update.P_y_pred=[sigma_v_y^2,sigma_v_y^2/delta_t;sigma_v_y^2/delta_t,2*sigma_v_y^2/delta_t^2];
 Boat_update.P_y_est=[sigma_v_y^2,sigma_v_y^2/delta_t;sigma_v_y^2/delta_t,2*sigma_v_y^2/delta_t^2];
-Boat_update.list_nb_r(idx_mov_av)=Boat_update.list_nb_r(idx_mov_av)+1;
 Algorithm_in.Struct_list_boat.list_boat(Algorithm_in.idx_boat)=Boat_update;
 Algorithm_out=Algorithm_in;
+
 end
 
