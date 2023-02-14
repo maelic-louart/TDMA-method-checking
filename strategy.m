@@ -70,11 +70,11 @@ mtodeg_y=1/(Rn*pi/180);
 % longitude parameters
 a_max=1; % acceleration maximal is 1nd.s^-2
 sigma_w_x=sigma_v_gps*mtodeg_x;
-sigma_v_x=0.5*a_max*0.514444/((Re*pi/180)*cos(y_re*pi/180))*0.7;
+sigma_v_x=0.5*a_max*0.514444/((Re*pi/180)*cos(y_re*pi/180))*0.8;
 % latitude parameters
 a_max=1; % acceleration maximal is 1nd.s^-2
 sigma_w_y=sigma_v_gps*mtodeg_y;
-sigma_v_y=0.5*a_max*0.514444/(Rn*pi/180)*0.7;
+sigma_v_y=0.5*a_max*0.514444/(Rn*pi/180)*0.8;
 
 % number of consecutive frames in which the moving average is computed 
 nb_frame_av=15;
