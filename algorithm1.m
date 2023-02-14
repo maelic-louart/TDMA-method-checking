@@ -24,11 +24,12 @@ else
     y_mes=Algorithm_in.Data.y(j);
     sog_mes=Algorithm_in.Data.sog(j);
     cog_mes=Algorithm_in.Data.cog(j);
+    id_mes=Algorithm_in.Data.id(j);
     
-    % position falsifications adding
-    if((j>=1000) &&  (j<=1100))
-        x_mes=x_mes+0.005;
-    end
+%     % position falsifications adding
+%     if((j>=1000) &&  (j<=1100))
+%         x_mes=x_mes+0.005;
+%     end
     
     % Rayon polaire et équatorial
     Re=Algorithm_in.Kalman.Re;
@@ -79,7 +80,7 @@ else
             disp(["Alert1: The distance between longitude prediced in measured is to high, toa=",toa_mes," TS=",TS_pres,"mmsi =",mmsi,'lon_mes',x_mes,'lon_pred = ',X_x_pred(1),'inno_lon = ',inno_x,'threshold = ',3.29*sqrt(S_x)]);
             fprintf(fid4,"Alert1: The distance between longitude prediced in measured is to high toa=%f, TS=%d ,mmsi=%d, lon_mes=%d, lon_pred=%d, inno_lon=%f, threshold=%f, value = %d \n",[toa_mes;TS_pres;mmsi;x_mes;X_x_pred(1);inno_x;3.29*sqrt(S_x);(inno_x)^2/S_x]);
             fprintf(fid1,"Alert1: The distance between longitude prediced in measured is to high toa=%f, TS=%d ,mmsi=%d, lon_mes=%d, lon_pred=%d, inno_lon=%f, threshold=%f, value=%d \n",[toa_mes;TS_pres;mmsi;x_mes;X_x_pred(1);inno_x;3.29*sqrt(S_x);(inno_x)^2/S_x]);
-            encodedJSON=jsonencode(struct('mmsi',mmsi,'id',3,'lat',y_mes,'lon',x_mes,'sog',sog_mes,'cog',cog_mes,'toa',toa_mes,'kind',1,'value',(inno_x)^2/S_x));
+            encodedJSON=jsonencode(struct('mmsi',mmsi,'id',id_mes,'lat',y_mes,'lon',x_mes,'sog',sog_mes,'cog',cog_mes,'toa',toa_mes,'kind',1,'value',(inno_x)^2/S_x));
             fprintf(fid1_json, encodedJSON);
             fprintf(fid1_json,",");
             fprintf(fid4_json,encodedJSON);
@@ -116,7 +117,7 @@ else
             disp(["Alert1: The distance between latitude prediced in measured is to high, toa=",toa_mes," TS=",TS_pres,"mmsi =",mmsi,'lon_mes',y_mes,'lon_pred = ',X_y_pred(1),'inno_lon = ',inno_y,'threshold = ',3.29*sqrt(S_y)]);
             fprintf(fid4,"Alert1: The distance between latitude prediced in measured is to high toa=%f, TS=%d ,mmsi=%d, lon_mes=%d, lon_pred=%d, inno_lon=%f, threshold=%f, value = %d \n",[toa_mes;TS_pres;mmsi;y_mes;X_y_pred(1);inno_y;3.29*sqrt(S_y);abs(inno_y)^2/(S_y)]);
             fprintf(fid1,"Alert1: The distance between latitude prediced in measured is to high toa=%f, TS=%d ,mmsi=%d, lon_mes=%d, lon_pred=%d, inno_lon=%f, threshold=%f, value=%d \n",[toa_mes;TS_pres;mmsi;y_mes;X_y_pred(1);inno_y;3.29*sqrt(S_y);abs(inno_y)^2/(S_y)]);
-            encodedJSON=jsonencode(struct('mmsi',mmsi,'id',3,'lat',y_mes,'lon',y_mes,'sog',sog_mes,'cog',cog_mes,'toa',toa_mes,'kind',1,'value',abs(inno_y)^2/(S_y)));
+            encodedJSON=jsonencode(struct('mmsi',mmsi,'id',id_mes,'lat',y_mes,'lon',y_mes,'sog',sog_mes,'cog',cog_mes,'toa',toa_mes,'kind',1,'value',abs(inno_y)^2/(S_y)));
             fprintf(fid1_json, encodedJSON);
             fprintf(fid1_json,",");
             fprintf(fid4_json,encodedJSON);
@@ -156,7 +157,7 @@ else
             disp(["Alert1: The difference between sog estimated and measured is to high toa=",toa_mes," TS=",TS_pres,"mmsi =",mmsi,'sog_c',sog_c,'sog_mes= ',sog_mes,'inno_sog= ',inno_sog,'threshold= ',2.4*sqrt(S_sog)]);
             fprintf(fid4,"Alert1: The difference between sog estimated and measured is to high toa=%f TS=%d ,mmsi=%d, sog_c=%d, sog_mes=%d, inno_sog=%f, threshold=%f, value=%d  \n",[toa_mes;TS_pres;mmsi;sog_c;sog_mes;inno_sog;2.4*sqrt(S_sog);abs(inno_sog)^2/(S_sog)]);
             fprintf(fid1,"Alert1: The difference between sog estimated and measured is to high toa=%f TS=%d ,mmsi=%d, sog_c=%d, sog_mes=%d, inno_sog=%f, threshold=%f, value=%d \n",[toa_mes;TS_pres;mmsi;sog_c;sog_mes;inno_sog;2.4*sqrt(S_sog);abs(inno_sog)^2/(S_sog)]);
-            encodedJSON=jsonencode(struct('mmsi',mmsi,'id',3,'lat',y_mes,'lon',x_mes,'sog',sog_mes,'cog',cog_mes,'toa',toa_mes,'kind',3,'value',(inno_sog)^2/S_sog));
+            encodedJSON=jsonencode(struct('mmsi',mmsi,'id',id_mes,'lat',y_mes,'lon',x_mes,'sog',sog_mes,'cog',cog_mes,'toa',toa_mes,'kind',3,'value',(inno_sog)^2/S_sog));
             fprintf(fid1_json, encodedJSON);
             fprintf(fid1_json,",");
             fprintf(fid4_json,encodedJSON);

@@ -6,7 +6,7 @@ close all;
 foldernamedata="data/";
 foldernamestatistical="statistical_data/";
 filename="sorted_table.csv";
-% filename_falified="sorted_table_228408900.csv";
+filename_falified="sorted_table_228408900.csv";
 table = table2array(readtable(foldernamedata+filename,'delimiter',';'));
 
 % File that contains every message with identity and dynamic data
